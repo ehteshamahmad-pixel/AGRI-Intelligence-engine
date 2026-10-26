@@ -1,0 +1,2281 @@
+﻿crop_key,variety,track,stage_seq,rank,issue_id,risk,new_this_stage
+Apple,Kullu Delicious,das,4,1,POWDERY_MILDEW,M,yes
+Apple,Kullu Delicious,das,4,2,APHID,M,yes
+Apple,Kullu Delicious,cal,5,1,SCAB,H,yes
+Apple,Kullu Delicious,cal,5,2,POWDERY_MILDEW,M,yes
+Apple,Kullu Delicious,cal,5,3,MITES,M,yes
+Apple,Kullu Delicious,cal,6,1,SCAB,H,no
+Apple,Kullu Delicious,cal,6,2,MITES,M,no
+Apple,Kullu Delicious,cal,7,1,SCAB,H,no
+Apple,Kullu Delicious,cal,7,2,MITES,M,no
+Apple,Kullu Delicious,cal,8,1,SCAB,H,no
+Apple,Kullu Delicious,cal,8,2,MITES,M,no
+Apple,Lal Ambri,das,4,1,POWDERY_MILDEW,M,yes
+Apple,Lal Ambri,das,4,2,APHID,M,yes
+Apple,Lal Ambri,cal,5,1,SCAB,H,yes
+Apple,Lal Ambri,cal,5,2,POWDERY_MILDEW,M,yes
+Apple,Lal Ambri,cal,5,3,MITES,M,yes
+Apple,Lal Ambri,cal,6,1,SCAB,H,no
+Apple,Lal Ambri,cal,6,2,MITES,M,no
+Apple,Lal Ambri,cal,7,1,SCAB,H,no
+Apple,Lal Ambri,cal,7,2,MITES,M,no
+Apple,Lal Ambri,cal,8,1,SCAB,H,no
+Apple,Lal Ambri,cal,8,2,MITES,M,no
+Banana,Grand Naine - G9,das,2,1,ROOT_ROT,M,yes
+Banana,Grand Naine - G9,das,2,2,APHID,M,yes
+Banana,Grand Naine - G9,das,2,3,VIRUS,M,yes
+Banana,Grand Naine - G9,das,3,1,LEAF_SPOT,H,yes
+Banana,Grand Naine - G9,das,3,2,ROOT_ROT,M,no
+Banana,Grand Naine - G9,das,3,3,APHID,M,no
+Banana,Grand Naine - G9,das,3,4,VIRUS,M,no
+Banana,Grand Naine - G9,das,4,1,LEAF_SPOT,H,no
+Banana,Grand Naine - G9,das,4,2,APHID,M,no
+Banana,Grand Naine - G9,das,4,3,VIRUS,M,no
+Banana,Grand Naine - G9,das,5,1,LEAF_SPOT,H,no
+Banana,Grand Naine - G9,das,6,1,LEAF_SPOT,H,no
+Banana,Grand Naine - G9,das,6,2,ABIOTIC_STRESS,M,yes
+Beans,Mr Beans,das,1,1,DAMPING_OFF,M,yes
+Beans,Mr Beans,das,2,1,APHID,M,yes
+Beans,Mr Beans,das,2,2,WHITEFLY,M,yes
+Beans,Mr Beans,das,3,1,POD_BORER,H,yes
+Beans,Mr Beans,das,3,2,ANTHRACNOSE,M,yes
+Beans,Mr Beans,das,3,3,APHID,M,no
+Beans,Mr Beans,das,3,4,WHITEFLY,M,no
+Beans,Mr Beans,das,4,1,POD_BORER,H,no
+Beans,Mr Beans,das,4,2,ANTHRACNOSE,M,no
+Bitter Gourd,Preethi,das,1,1,DAMPING_OFF,M,yes
+Bitter Gourd,Preethi,das,2,1,DOWNY_MILDEW,H,yes
+Bitter Gourd,Preethi,das,2,2,WHITEFLY,M,yes
+Bitter Gourd,Preethi,das,2,3,VIRUS,M,yes
+Bitter Gourd,Preethi,das,2,4,TERMITE,M,yes
+Bitter Gourd,Preethi,das,3,1,FRUIT_BORER,H,yes
+Bitter Gourd,Preethi,das,3,2,DOWNY_MILDEW,H,no
+Bitter Gourd,Preethi,das,3,3,POWDERY_MILDEW,M,yes
+Bitter Gourd,Preethi,das,3,4,APHID,M,yes
+Bitter Gourd,Preethi,das,3,5,WHITEFLY,M,no
+Bitter Gourd,Preethi,das,3,6,VIRUS,M,no
+Bitter Gourd,Preethi,das,4,1,FRUIT_BORER,H,no
+Bitter Gourd,Preethi,das,4,2,DOWNY_MILDEW,H,no
+Bitter Gourd,Preethi,das,4,3,POWDERY_MILDEW,M,no
+Bitter Gourd,VNR-22,das,1,1,DAMPING_OFF,M,yes
+Bitter Gourd,VNR-22,das,2,1,DOWNY_MILDEW,H,yes
+Bitter Gourd,VNR-22,das,2,2,WHITEFLY,M,yes
+Bitter Gourd,VNR-22,das,2,3,VIRUS,M,yes
+Bitter Gourd,VNR-22,das,2,4,TERMITE,M,yes
+Bitter Gourd,VNR-22,das,3,1,FRUIT_BORER,H,yes
+Bitter Gourd,VNR-22,das,3,2,DOWNY_MILDEW,H,no
+Bitter Gourd,VNR-22,das,3,3,POWDERY_MILDEW,M,yes
+Bitter Gourd,VNR-22,das,3,4,APHID,M,yes
+Bitter Gourd,VNR-22,das,3,5,WHITEFLY,M,no
+Bitter Gourd,VNR-22,das,3,6,VIRUS,M,no
+Bitter Gourd,VNR-22,das,4,1,FRUIT_BORER,H,no
+Bitter Gourd,VNR-22,das,4,2,DOWNY_MILDEW,H,no
+Bitter Gourd,VNR-22,das,4,3,POWDERY_MILDEW,M,no
+Black Gram,PU-31,das,2,1,WHITEFLY,H,yes
+Black Gram,PU-31,das,2,2,VIRUS,H,yes
+Black Gram,PU-31,das,2,3,WEEDS,M,yes
+Black Gram,PU-31,das,3,1,WHITEFLY,H,no
+Black Gram,PU-31,das,3,2,VIRUS,H,no
+Black Gram,PU-31,das,3,3,LEAF_SPOT,M,yes
+Black Gram,PU-31,das,4,1,POD_BORER,H,yes
+Black Gram,PU-31,das,4,2,WHITEFLY,H,no
+Black Gram,PU-31,das,4,3,VIRUS,H,no
+Black Gram,PU-31,das,4,4,POWDERY_MILDEW,M,yes
+Black Gram,PU-31,das,4,5,THRIPS,M,yes
+Black Gram,PU-31,das,4,6,LEAF_SPOT,M,no
+Black Gram,PU-31,das,5,1,POD_BORER,H,no
+Black Gram,PU-31,das,5,2,POWDERY_MILDEW,M,no
+Black Gram,VBN 8,das,2,1,WHITEFLY,H,yes
+Black Gram,VBN 8,das,2,2,VIRUS,H,yes
+Black Gram,VBN 8,das,2,3,WEEDS,M,yes
+Black Gram,VBN 8,das,3,1,WHITEFLY,H,no
+Black Gram,VBN 8,das,3,2,VIRUS,H,no
+Black Gram,VBN 8,das,3,3,LEAF_SPOT,M,yes
+Black Gram,VBN 8,das,4,1,POD_BORER,H,yes
+Black Gram,VBN 8,das,4,2,WHITEFLY,H,no
+Black Gram,VBN 8,das,4,3,VIRUS,H,no
+Black Gram,VBN 8,das,4,4,POWDERY_MILDEW,M,yes
+Black Gram,VBN 8,das,4,5,THRIPS,M,yes
+Black Gram,VBN 8,das,4,6,LEAF_SPOT,M,no
+Black Gram,VBN 8,das,5,1,POD_BORER,H,no
+Black Gram,VBN 8,das,5,2,POWDERY_MILDEW,M,no
+Bottle Gourd,VNR Sarita F1,das,1,1,DAMPING_OFF,M,yes
+Bottle Gourd,VNR Sarita F1,das,2,1,TERMITE,M,yes
+Bottle Gourd,VNR Sarita F1,das,2,2,DAMPING_OFF,M,no
+Bottle Gourd,VNR Sarita F1,das,3,1,DOWNY_MILDEW,H,yes
+Bottle Gourd,VNR Sarita F1,das,3,2,WHITEFLY,M,yes
+Bottle Gourd,VNR Sarita F1,das,3,3,DAMPING_OFF,M,no
+Bottle Gourd,VNR Sarita F1,das,3,4,TERMITE,M,no
+Bottle Gourd,VNR Sarita F1,das,4,1,FRUIT_BORER,H,yes
+Bottle Gourd,VNR Sarita F1,das,4,2,DOWNY_MILDEW,H,no
+Bottle Gourd,VNR Sarita F1,das,4,3,POWDERY_MILDEW,M,yes
+Bottle Gourd,VNR Sarita F1,das,4,4,ROOT_ROT,M,yes
+Bottle Gourd,VNR Sarita F1,das,4,5,MEALYBUG,M,yes
+Bottle Gourd,VNR Sarita F1,das,4,6,JASSID,M,yes
+Bottle Gourd,VNR Sarita F1,das,4,7,WHITEFLY,M,no
+Bottle Gourd,VNR Sarita F1,das,5,1,DOWNY_MILDEW,H,no
+Brinjal,Pant Ritu Raj,das,1,1,DAMPING_OFF,H,yes
+Brinjal,Pant Ritu Raj,das,2,1,DAMPING_OFF,H,no
+Brinjal,Pant Ritu Raj,das,3,1,JASSID,H,yes
+Brinjal,Pant Ritu Raj,das,3,2,WHITEFLY,M,yes
+Brinjal,Pant Ritu Raj,das,3,3,WILT,M,yes
+Brinjal,Pant Ritu Raj,das,4,1,FRUIT_BORER,H,yes
+Brinjal,Pant Ritu Raj,das,4,2,JASSID,H,no
+Brinjal,Pant Ritu Raj,das,4,3,WHITEFLY,M,no
+Brinjal,Pant Ritu Raj,das,4,4,WILT,M,no
+Brinjal,Pant Ritu Raj,das,5,1,FRUIT_BORER,H,no
+Brinjal,Pant Ritu Raj,das,5,2,MITES,M,yes
+Brinjal,Pant Ritu Raj,das,5,3,WHITEFLY,M,no
+Brinjal,Pant Ritu Raj,das,5,4,WILT,M,no
+Brinjal,Pant Ritu Raj,das,6,1,FRUIT_BORER,H,no
+Brinjal,Pant Ritu Raj,das,6,2,MITES,M,no
+Cabbage,Pusa Mukta,das,1,1,DAMPING_OFF,H,yes
+Cabbage,Pusa Mukta,das,1,2,TERMITE,M,yes
+Cabbage,Pusa Mukta,das,3,1,DBM,H,yes
+Cabbage,Pusa Mukta,das,3,2,BLACK_ROT,H,yes
+Cabbage,Pusa Mukta,das,3,3,APHID,M,yes
+Cabbage,Pusa Mukta,das,3,4,SPODOPTERA,M,yes
+Cabbage,Pusa Mukta,das,3,5,TERMITE,M,yes
+Cabbage,Pusa Mukta,das,4,1,DBM,H,no
+Cabbage,Pusa Mukta,das,4,2,BLACK_ROT,H,no
+Cabbage,Pusa Mukta,das,4,3,APHID,M,no
+Carrot,Pusa Kesar,das,3,1,WEEDS,H,yes
+Carrot,Pusa Kesar,das,4,1,LEAF_BLIGHT,M,yes
+Carrot,Pusa Kesar,das,4,2,APHID,L,yes
+Carrot,Pusa Kesar,das,5,1,POWDERY_MILDEW,M,yes
+Carrot,Pusa Kesar,das,5,2,LEAF_BLIGHT,M,no
+Cauliflower,Pusa Snowball-1,das,1,1,DAMPING_OFF,H,yes
+Cauliflower,Pusa Snowball-1,das,2,1,SOIL_BORNE,M,yes
+Cauliflower,Pusa Snowball-1,das,3,1,SOIL_BORNE,M,no
+Cauliflower,Pusa Snowball-1,das,4,1,DBM,H,yes
+Cauliflower,Pusa Snowball-1,das,4,2,BLACK_ROT,H,yes
+Cauliflower,Pusa Snowball-1,das,4,3,APHID,M,yes
+Cauliflower,Pusa Snowball-1,das,5,1,DBM,H,no
+Cauliflower,Pusa Snowball-1,das,5,2,BLACK_ROT,H,no
+Cauliflower,Pusa Snowball-1,das,5,3,HELICOVERPA,M,yes
+Cauliflower,Pusa Snowball-1,das,5,4,APHID,M,no
+Chilli,Ankur 099,das,1,1,DAMPING_OFF,H,yes
+Chilli,Ankur 099,das,2,1,DAMPING_OFF,H,no
+Chilli,Ankur 099,das,2,2,TERMITE,M,yes
+Chilli,Ankur 099,das,3,1,THRIPS,H,yes
+Chilli,Ankur 099,das,3,2,MITES,H,yes
+Chilli,Ankur 099,das,3,3,WHITEFLY,H,yes
+Chilli,Ankur 099,das,3,4,VIRUS,H,yes
+Chilli,Ankur 099,das,3,5,APHID,M,yes
+Chilli,Ankur 099,das,4,1,THRIPS,H,no
+Chilli,Ankur 099,das,4,2,MITES,H,no
+Chilli,Ankur 099,das,4,3,WHITEFLY,H,no
+Chilli,Ankur 099,das,4,4,VIRUS,H,no
+Chilli,Ankur 099,das,4,5,FRUIT_BORER,M,yes
+Chilli,Ankur 099,das,4,6,FLOWER_DROP,M,yes
+Chilli,Ankur 099,das,4,7,APHID,M,no
+Chilli,Ankur 099,das,5,1,ANTHRACNOSE,H,yes
+Chilli,Ankur 099,das,5,2,THRIPS,H,no
+Chilli,Ankur 099,das,5,3,MITES,H,no
+Chilli,Ankur 099,das,5,4,FRUIT_ROT,M,yes
+Chilli,Ankur 099,das,5,5,FRUIT_BORER,M,no
+Chilli,Mahyco Navtej,das,1,1,DAMPING_OFF,H,yes
+Chilli,Mahyco Navtej,das,2,1,DAMPING_OFF,H,no
+Chilli,Mahyco Navtej,das,2,2,TERMITE,M,yes
+Chilli,Mahyco Navtej,das,3,1,THRIPS,H,yes
+Chilli,Mahyco Navtej,das,3,2,MITES,H,yes
+Chilli,Mahyco Navtej,das,3,3,WHITEFLY,H,yes
+Chilli,Mahyco Navtej,das,3,4,VIRUS,H,yes
+Chilli,Mahyco Navtej,das,3,5,APHID,M,yes
+Chilli,Mahyco Navtej,das,4,1,THRIPS,H,no
+Chilli,Mahyco Navtej,das,4,2,MITES,H,no
+Chilli,Mahyco Navtej,das,4,3,WHITEFLY,H,no
+Chilli,Mahyco Navtej,das,4,4,VIRUS,H,no
+Chilli,Mahyco Navtej,das,4,5,FRUIT_BORER,M,yes
+Chilli,Mahyco Navtej,das,4,6,FLOWER_DROP,M,yes
+Chilli,Mahyco Navtej,das,4,7,APHID,M,no
+Chilli,Mahyco Navtej,das,5,1,ANTHRACNOSE,H,yes
+Chilli,Mahyco Navtej,das,5,2,THRIPS,H,no
+Chilli,Mahyco Navtej,das,5,3,MITES,H,no
+Chilli,Mahyco Navtej,das,5,4,FRUIT_ROT,M,yes
+Chilli,Mahyco Navtej,das,5,5,FRUIT_BORER,M,no
+Coriander,CS 2,das,3,1,WILT,M,yes
+Coriander,CS 2,das,3,2,WEEDS,M,yes
+Coriander,CS 2,das,4,1,APHID,H,yes
+Coriander,CS 2,das,4,2,POWDERY_MILDEW,H,yes
+Coriander,CS 2,das,4,3,WILT,M,no
+Coriander,CS 2,das,5,1,APHID,H,no
+Coriander,CS 2,das,5,2,POWDERY_MILDEW,H,no
+Coriander,CS 287,das,3,1,WILT,M,yes
+Coriander,CS 287,das,3,2,WEEDS,M,yes
+Coriander,CS 287,das,4,1,APHID,H,yes
+Coriander,CS 287,das,4,2,POWDERY_MILDEW,H,yes
+Coriander,CS 287,das,4,3,WILT,M,no
+Coriander,CS 287,das,5,1,APHID,H,no
+Coriander,CS 287,das,5,2,POWDERY_MILDEW,H,no
+Cotton,Asha NCS-9011,das,1,1,TERMITE,M,yes
+Cotton,Asha NCS-9011,das,2,1,JASSID,H,yes
+Cotton,Asha NCS-9011,das,2,2,WHITEFLY,H,yes
+Cotton,Asha NCS-9011,das,2,3,WEEDS,H,yes
+Cotton,Asha NCS-9011,das,2,4,THRIPS,M,yes
+Cotton,Asha NCS-9011,das,2,5,WILT,L,yes
+Cotton,Asha NCS-9011,das,3,1,JASSID,H,no
+Cotton,Asha NCS-9011,das,3,2,WHITEFLY,H,no
+Cotton,Asha NCS-9011,das,3,3,WEEDS,H,no
+Cotton,Asha NCS-9011,das,3,4,MEALYBUG,M,yes
+Cotton,Asha NCS-9011,das,3,5,THRIPS,M,no
+Cotton,Asha NCS-9011,das,3,6,WILT,L,no
+Cotton,Asha NCS-9011,das,4,1,JASSID,H,no
+Cotton,Asha NCS-9011,das,4,2,WHITEFLY,H,no
+Cotton,Asha NCS-9011,das,4,3,SPOTTED_BOLLWORM,M,yes
+Cotton,Asha NCS-9011,das,4,4,MEALYBUG,M,no
+Cotton,Asha NCS-9011,das,4,5,WILT,L,no
+Cotton,Asha NCS-9011,das,5,1,PINK_BOLLWORM,H,yes
+Cotton,Asha NCS-9011,das,5,2,WHITEFLY,H,no
+Cotton,Asha NCS-9011,das,5,3,HELICOVERPA,M,yes
+Cotton,Asha NCS-9011,das,5,4,MEALYBUG,M,no
+Cotton,Asha NCS-9011,das,5,5,SPOTTED_BOLLWORM,M,no
+Cotton,Asha NCS-9011,das,5,6,WILT,L,no
+Cotton,Asha NCS-9011,das,6,1,PINK_BOLLWORM,H,no
+Cotton,Asha NCS-9011,das,6,2,MEALYBUG,M,no
+Cotton,Asha NCS-9011,das,6,3,HELICOVERPA,M,no
+Cotton,Asha NCS-9011,das,6,4,SPOTTED_BOLLWORM,M,no
+Cotton,Rasi RCH 659 BG-II,das,1,1,TERMITE,M,yes
+Cotton,Rasi RCH 659 BG-II,das,2,1,JASSID,H,yes
+Cotton,Rasi RCH 659 BG-II,das,2,2,WHITEFLY,H,yes
+Cotton,Rasi RCH 659 BG-II,das,2,3,WEEDS,H,yes
+Cotton,Rasi RCH 659 BG-II,das,2,4,THRIPS,M,yes
+Cotton,Rasi RCH 659 BG-II,das,2,5,WILT,L,yes
+Cotton,Rasi RCH 659 BG-II,das,3,1,JASSID,H,no
+Cotton,Rasi RCH 659 BG-II,das,3,2,WHITEFLY,H,no
+Cotton,Rasi RCH 659 BG-II,das,3,3,WEEDS,H,no
+Cotton,Rasi RCH 659 BG-II,das,3,4,MEALYBUG,M,yes
+Cotton,Rasi RCH 659 BG-II,das,3,5,THRIPS,M,no
+Cotton,Rasi RCH 659 BG-II,das,3,6,WILT,L,no
+Cotton,Rasi RCH 659 BG-II,das,4,1,JASSID,H,no
+Cotton,Rasi RCH 659 BG-II,das,4,2,WHITEFLY,H,no
+Cotton,Rasi RCH 659 BG-II,das,4,3,SPOTTED_BOLLWORM,M,yes
+Cotton,Rasi RCH 659 BG-II,das,4,4,MEALYBUG,M,no
+Cotton,Rasi RCH 659 BG-II,das,4,5,WILT,L,no
+Cotton,Rasi RCH 659 BG-II,das,5,1,PINK_BOLLWORM,H,yes
+Cotton,Rasi RCH 659 BG-II,das,5,2,WHITEFLY,H,no
+Cotton,Rasi RCH 659 BG-II,das,5,3,HELICOVERPA,M,yes
+Cotton,Rasi RCH 659 BG-II,das,5,4,MEALYBUG,M,no
+Cotton,Rasi RCH 659 BG-II,das,5,5,SPOTTED_BOLLWORM,M,no
+Cotton,Rasi RCH 659 BG-II,das,5,6,WILT,L,no
+Cotton,Rasi RCH 659 BG-II,das,6,1,PINK_BOLLWORM,H,no
+Cotton,Rasi RCH 659 BG-II,das,6,2,MEALYBUG,M,no
+Cotton,Rasi RCH 659 BG-II,das,6,3,HELICOVERPA,M,no
+Cotton,Rasi RCH 659 BG-II,das,6,4,SPOTTED_BOLLWORM,M,no
+Cucumber,VNR Krish,das,1,1,DAMPING_OFF,M,yes
+Cucumber,VNR Krish,das,2,1,TERMITE,M,yes
+Cucumber,VNR Krish,das,2,2,SOIL_BORNE,M,yes
+Cucumber,VNR Krish,das,3,1,DOWNY_MILDEW,H,yes
+Cucumber,VNR Krish,das,3,2,WHITEFLY,M,yes
+Cucumber,VNR Krish,das,3,3,ANGULAR_LEAF_SPOT,M,yes
+Cucumber,VNR Krish,das,3,4,JASSID,M,yes
+Cucumber,VNR Krish,das,3,5,APHID,M,yes
+Cucumber,VNR Krish,das,4,1,FRUIT_BORER,H,yes
+Cucumber,VNR Krish,das,4,2,DOWNY_MILDEW,H,no
+Cucumber,VNR Krish,das,4,3,POWDERY_MILDEW,M,yes
+Cucumber,VNR Krish,das,4,4,THRIPS,M,yes
+Cucumber,VNR Krish,das,4,5,WHITEFLY,M,no
+Cucumber,VNR Krish,das,4,6,ANGULAR_LEAF_SPOT,M,no
+Cucumber,VNR Krish,das,5,1,FRUIT_BORER,H,no
+Cucumber,VNR Krish,das,5,2,DOWNY_MILDEW,H,no
+Cucumber,VNR Krish,das,5,3,ANTHRACNOSE,M,yes
+Cucumber,VNR Krish,das,5,4,APHID,M,yes
+Cucumber,VNR Krish,das,5,5,MITES,M,yes
+Cucumber,VNR Krish,das,5,6,POWDERY_MILDEW,M,no
+Cucumber,VNR Krish,das,6,1,DOWNY_MILDEW,H,no
+Cumin,GC-4,das,2,1,WILT,H,yes
+Cumin,GC-4,das,2,2,WEEDS,H,yes
+Cumin,GC-4,das,3,1,WILT,H,no
+Cumin,GC-4,das,4,1,ALTERNARIA,H,yes
+Cumin,GC-4,das,4,2,POWDERY_MILDEW,H,yes
+Cumin,GC-4,das,4,3,APHID,H,yes
+Cumin,GC-4,das,4,4,WILT,H,no
+Cumin,GC-4,das,5,1,ALTERNARIA,H,no
+Cumin,GC-4,das,5,2,POWDERY_MILDEW,H,no
+Cumin,GC-4,das,5,3,APHID,H,no
+Cumin,RZ-209,das,2,1,WILT,H,yes
+Cumin,RZ-209,das,2,2,WEEDS,H,yes
+Cumin,RZ-209,das,3,1,WILT,H,no
+Cumin,RZ-209,das,4,1,ALTERNARIA,H,yes
+Cumin,RZ-209,das,4,2,POWDERY_MILDEW,H,yes
+Cumin,RZ-209,das,4,3,APHID,H,yes
+Cumin,RZ-209,das,4,4,WILT,H,no
+Cumin,RZ-209,das,5,1,ALTERNARIA,H,no
+Cumin,RZ-209,das,5,2,POWDERY_MILDEW,H,no
+Cumin,RZ-209,das,5,3,APHID,H,no
+Foxnut,Kaju Makhana,das,3,1,APHID,M,yes
+Foxnut,Kaju Makhana,das,3,2,LEAF_BLIGHT,M,yes
+Foxnut,Kaju Makhana,das,4,1,LEAF_BLIGHT,M,no
+Foxnut,Swarna Vaidehi,das,3,1,APHID,M,yes
+Foxnut,Swarna Vaidehi,das,3,2,LEAF_BLIGHT,M,yes
+Foxnut,Swarna Vaidehi,das,4,1,LEAF_BLIGHT,M,no
+Garlic,Chesnok Red,das,2,1,THRIPS,H,yes
+Garlic,Chesnok Red,das,2,2,WEEDS,H,yes
+Garlic,Chesnok Red,das,3,1,ALTERNARIA,H,yes
+Garlic,Chesnok Red,das,3,2,THRIPS,H,no
+Garlic,Chesnok Red,das,3,3,WEEDS,H,no
+Garlic,Chesnok Red,das,3,4,DOWNY_MILDEW,M,yes
+Garlic,Chesnok Red,das,4,1,THRIPS,H,no
+Garlic,Chesnok Red,das,4,2,ALTERNARIA,H,no
+Garlic,Chesnok Red,das,4,3,DOWNY_MILDEW,M,no
+Garlic,Elephant garlic,das,2,1,THRIPS,H,yes
+Garlic,Elephant garlic,das,2,2,WEEDS,H,yes
+Garlic,Elephant garlic,das,3,1,ALTERNARIA,H,yes
+Garlic,Elephant garlic,das,3,2,THRIPS,H,no
+Garlic,Elephant garlic,das,3,3,WEEDS,H,no
+Garlic,Elephant garlic,das,3,4,DOWNY_MILDEW,M,yes
+Garlic,Elephant garlic,das,4,1,THRIPS,H,no
+Garlic,Elephant garlic,das,4,2,ALTERNARIA,H,no
+Garlic,Elephant garlic,das,4,3,DOWNY_MILDEW,M,no
+Garlic,Yamuna Safed,das,2,1,THRIPS,H,yes
+Garlic,Yamuna Safed,das,2,2,WEEDS,H,yes
+Garlic,Yamuna Safed,das,3,1,ALTERNARIA,H,yes
+Garlic,Yamuna Safed,das,3,2,THRIPS,H,no
+Garlic,Yamuna Safed,das,3,3,WEEDS,H,no
+Garlic,Yamuna Safed,das,3,4,DOWNY_MILDEW,M,yes
+Garlic,Yamuna Safed,das,4,1,THRIPS,H,no
+Garlic,Yamuna Safed,das,4,2,ALTERNARIA,H,no
+Garlic,Yamuna Safed,das,4,3,DOWNY_MILDEW,M,no
+Ginger,Himgiri,das,3,1,ROOT_ROT,H,yes
+Ginger,Himgiri,das,4,1,ROOT_ROT,H,no
+Ginger,Himgiri,das,5,1,ROOT_ROT,H,no
+Ginger,Himgiri,das,6,1,ROOT_ROT,H,no
+Great Millet,Maldandi (M-35-1),das,2,1,SHOOT_FLY,H,yes
+Great Millet,Maldandi (M-35-1),das,2,2,STEM_BORER,H,yes
+Great Millet,Maldandi (M-35-1),das,2,3,WEEDS,M,yes
+Great Millet,Maldandi (M-35-1),das,3,1,STEM_BORER,H,no
+Great Millet,Maldandi (M-35-1),das,3,2,LEAF_BLIGHT,M,yes
+Great Millet,Maldandi (M-35-1),das,4,1,STEM_BORER,H,no
+Great Millet,Maldandi (M-35-1),das,4,2,APHID,M,yes
+Great Millet,Maldandi (M-35-1),das,4,3,LEAF_BLIGHT,M,no
+Great Millet,Maldandi (M-35-1),das,5,1,APHID,M,no
+Great Millet,Maldandi (M-35-1),das,5,2,LEAF_BLIGHT,M,no
+Great Millet,Maldandi (M-35-1),das,6,1,APHID,M,no
+Green Gram,PDM 139,das,1,1,WILT,M,yes
+Green Gram,PDM 139,das,2,1,WHITEFLY,H,yes
+Green Gram,PDM 139,das,2,2,VIRUS,H,yes
+Green Gram,PDM 139,das,2,3,TERMITE,M,yes
+Green Gram,PDM 139,das,3,1,THRIPS,H,yes
+Green Gram,PDM 139,das,3,2,POD_BORER,H,yes
+Green Gram,PDM 139,das,3,3,WHITEFLY,H,no
+Green Gram,PDM 139,das,3,4,VIRUS,H,no
+Green Gram,PDM 139,das,3,5,POWDERY_MILDEW,M,yes
+Green Gram,PDM 139,das,3,6,LEAF_SPOT,M,yes
+Green Gram,PDM 139,das,3,7,FAW,M,yes
+Green Gram,PDM 139,das,4,1,POD_BORER,H,no
+Green Gram,PDM 139,das,4,2,POWDERY_MILDEW,M,no
+Green Gram,Star 444,das,1,1,WILT,M,yes
+Green Gram,Star 444,das,2,1,WHITEFLY,H,yes
+Green Gram,Star 444,das,2,2,VIRUS,H,yes
+Green Gram,Star 444,das,2,3,TERMITE,M,yes
+Green Gram,Star 444,das,3,1,THRIPS,H,yes
+Green Gram,Star 444,das,3,2,POD_BORER,H,yes
+Green Gram,Star 444,das,3,3,WHITEFLY,H,no
+Green Gram,Star 444,das,3,4,VIRUS,H,no
+Green Gram,Star 444,das,3,5,POWDERY_MILDEW,M,yes
+Green Gram,Star 444,das,3,6,LEAF_SPOT,M,yes
+Green Gram,Star 444,das,3,7,FAW,M,yes
+Green Gram,Star 444,das,4,1,POD_BORER,H,no
+Green Gram,Star 444,das,4,2,POWDERY_MILDEW,M,no
+Green Pea,Advanta GS-10,das,2,1,LEAF_MINER,M,yes
+Green Pea,Advanta GS-10,das,2,2,WILT,L,yes
+Green Pea,Advanta GS-10,das,3,1,APHID,M,yes
+Green Pea,Advanta GS-10,das,3,2,LEAF_MINER,M,no
+Green Pea,Advanta GS-10,das,3,3,WILT,L,no
+Green Pea,Advanta GS-10,das,4,1,POWDERY_MILDEW,H,yes
+Green Pea,Advanta GS-10,das,4,2,POD_BORER,H,yes
+Green Pea,Advanta GS-10,das,4,3,APHID,M,no
+Green Pea,Advanta GS-10,das,5,1,POWDERY_MILDEW,H,no
+Green Pea,Advanta GS-10,das,5,2,POD_BORER,H,no
+Green Pea,Advanta GS-10,das,6,1,POWDERY_MILDEW,H,no
+Green Pea,Advanta GS-10,das,6,2,POD_BORER,H,no
+Groundnut,TCGS-1707,das,1,1,WHITE_GRUB,H,yes
+Groundnut,TCGS-1707,das,1,2,TERMITE,M,yes
+Groundnut,TCGS-1707,das,1,3,DAMPING_OFF,M,yes
+Groundnut,TCGS-1707,das,2,1,WHITE_GRUB,H,no
+Groundnut,TCGS-1707,das,2,2,ROOT_ROT,M,yes
+Groundnut,TCGS-1707,das,2,3,THRIPS,M,yes
+Groundnut,TCGS-1707,das,2,4,WILT,M,yes
+Groundnut,TCGS-1707,das,2,5,TERMITE,M,no
+Groundnut,TCGS-1707,das,3,1,TIKKA,H,yes
+Groundnut,TCGS-1707,das,3,2,WHITE_GRUB,H,no
+Groundnut,TCGS-1707,das,3,3,SPODOPTERA,M,yes
+Groundnut,TCGS-1707,das,3,4,JASSID,M,yes
+Groundnut,TCGS-1707,das,3,5,TERMITE,M,no
+Groundnut,TCGS-1707,das,3,6,ROOT_ROT,M,no
+Groundnut,TCGS-1707,das,3,7,THRIPS,M,no
+Groundnut,TCGS-1707,das,4,1,TIKKA,H,no
+Groundnut,TCGS-1707,das,4,2,WHITE_GRUB,H,no
+Groundnut,TCGS-1707,das,4,3,RUST,M,yes
+Groundnut,TCGS-1707,das,4,4,WHITEFLY,M,yes
+Groundnut,TCGS-1707,das,4,5,APHID,M,yes
+Groundnut,TCGS-1707,das,4,6,TERMITE,M,no
+Groundnut,TCGS-1707,das,4,7,SPODOPTERA,M,no
+Groundnut,TCGS-1707,das,5,1,WHITE_GRUB,H,no
+Groundnut,TCGS-1707,das,5,2,TIKKA,H,no
+Groundnut,TCGS-1707,das,5,3,TERMITE,M,no
+Groundnut,TCGS-1707,das,5,4,RUST,M,no
+Groundnut,TCGS-1707,das,5,5,SPODOPTERA,M,no
+Groundnut,TCGS-1707,das,6,1,WHITE_GRUB,H,no
+Groundnut,TCGS-1707,das,6,2,TIKKA,H,no
+Groundnut,TCGS-1707,das,6,3,WILT,M,yes
+Groundnut,TCGS-1707,das,6,4,TERMITE,M,no
+Groundnut,TCGS-1707,das,6,5,RUST,M,no
+Lentil,IPL-81,das,3,1,WILT,H,yes
+Lentil,IPL-81,das,3,2,ROOT_ROT,M,yes
+Lentil,IPL-81,das,4,1,WILT,H,no
+Lentil,IPL-81,das,4,2,ROOT_ROT,M,no
+Lentil,IPL-81,das,5,1,WILT,H,no
+Lentil,IPL-81,das,5,2,APHID,M,yes
+Lentil,IPL-81,das,5,3,RUST,M,yes
+Lentil,IPL-81,das,5,4,POD_BORER,M,yes
+Lentil,IPL-81,das,6,1,APHID,M,no
+Lentil,IPL-81,das,6,2,RUST,M,no
+Lentil,IPL-81,das,6,3,POD_BORER,M,no
+Lentil,PL-5,das,3,1,WILT,H,yes
+Lentil,PL-5,das,3,2,ROOT_ROT,M,yes
+Lentil,PL-5,das,4,1,WILT,H,no
+Lentil,PL-5,das,4,2,ROOT_ROT,M,no
+Lentil,PL-5,das,5,1,WILT,H,no
+Lentil,PL-5,das,5,2,APHID,M,yes
+Lentil,PL-5,das,5,3,RUST,M,yes
+Lentil,PL-5,das,5,4,POD_BORER,M,yes
+Lentil,PL-5,das,6,1,APHID,M,no
+Lentil,PL-5,das,6,2,RUST,M,no
+Lentil,PL-5,das,6,3,POD_BORER,M,no
+Maize,DKC-8181,das,1,1,TERMITE,M,yes
+Maize,DKC-8181,das,1,2,DAMPING_OFF,M,yes
+Maize,DKC-8181,das,2,1,FAW,H,yes
+Maize,DKC-8181,das,2,2,STEM_BORER,H,yes
+Maize,DKC-8181,das,2,3,WEEDS,H,yes
+Maize,DKC-8181,das,2,4,SHOOT_FLY,M,yes
+Maize,DKC-8181,das,2,5,NUTRIENT_DEF,M,yes
+Maize,DKC-8181,das,2,6,SOIL_BORNE,M,yes
+Maize,DKC-8181,das,3,1,FAW,H,no
+Maize,DKC-8181,das,3,2,STEM_BORER,H,no
+Maize,DKC-8181,das,3,3,LEAF_BLIGHT,M,yes
+Maize,DKC-8181,das,3,4,RUST,M,yes
+Maize,DKC-8181,das,3,5,NUTRIENT_DEF,M,no
+Maize,DKC-8181,das,4,1,FAW,H,no
+Maize,DKC-8181,das,4,2,STEM_BORER,H,no
+Maize,DKC-8181,das,4,3,LEAF_BLIGHT,M,no
+Maize,DKC-8181,das,5,1,FAW,H,no
+Maize,PAC 741,das,1,1,TERMITE,M,yes
+Maize,PAC 741,das,1,2,SOIL_BORNE,M,yes
+Maize,PAC 741,das,1,3,WILT,M,yes
+Maize,PAC 741,das,2,1,FAW,H,yes
+Maize,PAC 741,das,2,2,STEM_BORER,H,yes
+Maize,PAC 741,das,2,3,WEEDS,H,yes
+Maize,PAC 741,das,2,4,SHOOT_FLY,M,yes
+Maize,PAC 741,das,2,5,NUTRIENT_DEF,M,yes
+Maize,PAC 741,das,3,1,FAW,H,no
+Maize,PAC 741,das,3,2,STEM_BORER,H,no
+Maize,PAC 741,das,3,3,LEAF_BLIGHT,M,yes
+Maize,PAC 741,das,3,4,CUTWORM,M,yes
+Maize,PAC 741,das,3,5,NUTRIENT_DEF,M,no
+Maize,PAC 741,das,4,1,FAW,H,no
+Maize,PAC 741,das,4,2,STEM_BORER,H,no
+Maize,PAC 741,das,4,3,LEAF_BLIGHT,M,no
+Maize,PAC 741,das,5,1,SHEATH_BLIGHT,M,yes
+Maize,PAC 751,das,1,1,TERMITE,M,yes
+Maize,PAC 751,das,2,1,FAW,H,yes
+Maize,PAC 751,das,2,2,WHITE_GRUB,M,yes
+Maize,PAC 751,das,2,3,TERMITE,M,no
+Maize,PAC 751,das,3,1,STEM_BORER,H,yes
+Maize,PAC 751,das,3,2,FAW,H,no
+Maize,PAC 751,das,3,3,LEAF_BLIGHT,M,yes
+Maize,PAC 751,das,3,4,NUTRIENT_DEF,M,yes
+Maize,PAC 751,das,3,5,TERMITE,M,no
+Maize,PAC 751,das,3,6,WHITE_GRUB,M,no
+Maize,PAC 751,das,4,1,FAW,H,no
+Maize,PAC 751,das,4,2,STEM_BORER,H,no
+Maize,PAC 751,das,4,3,LEAF_BLIGHT,M,no
+Maize,PAC 751,das,5,1,FAW,H,no
+Maize,Pioneer P3401,das,1,1,TERMITE,M,yes
+Maize,Pioneer P3401,das,2,1,DAMPING_OFF,M,yes
+Maize,Pioneer P3401,das,2,2,SOIL_BORNE,M,yes
+Maize,Pioneer P3401,das,2,3,TERMITE,M,no
+Maize,Pioneer P3401,das,3,1,FAW,H,yes
+Maize,Pioneer P3401,das,3,2,STEM_BORER,H,yes
+Maize,Pioneer P3401,das,3,3,LEAF_BLIGHT,M,yes
+Maize,Pioneer P3401,das,3,4,NUTRIENT_DEF,M,yes
+Maize,Pioneer P3401,das,3,5,WHITE_GRUB,M,yes
+Maize,Pioneer P3401,das,3,6,TERMITE,M,no
+Maize,Pioneer P3401,das,4,1,FAW,H,no
+Maize,Pioneer P3401,das,4,2,STEM_BORER,H,no
+Maize,Pioneer P3401,das,4,3,POD_BORER,M,yes
+Maize,Pioneer P3401,das,4,4,LEAF_BLIGHT,M,no
+Maize,Pioneer P3401,das,5,1,SMUT,M,yes
+Mango,Alphonso,cal,1,1,POWDERY_MILDEW,H,yes
+Mango,Alphonso,cal,1,2,ANTHRACNOSE,H,yes
+Mango,Alphonso,cal,1,3,JASSID,H,yes
+Mango,Alphonso,cal,1,4,MEALYBUG,M,yes
+Mango,Alphonso,cal,2,1,POWDERY_MILDEW,H,no
+Mango,Alphonso,cal,2,2,ANTHRACNOSE,H,no
+Mango,Alphonso,cal,2,3,JASSID,H,no
+Mango,Alphonso,cal,2,4,FLOWER_DROP,M,yes
+Mango,Alphonso,cal,2,5,MEALYBUG,M,no
+Mango,Alphonso,cal,3,1,ANTHRACNOSE,H,no
+Mango,Alphonso,cal,3,2,FLOWER_DROP,M,no
+Mango,Alphonso,cal,3,3,DIEBACK,L,yes
+Mango,Alphonso,cal,4,1,ANTHRACNOSE,H,no
+Mango,Alphonso,cal,4,2,FLOWER_DROP,M,no
+Mango,Alphonso,cal,4,3,DIEBACK,L,no
+Mango,Alphonso,cal,5,1,ANTHRACNOSE,H,no
+Mango,Alphonso,cal,5,2,FLOWER_DROP,M,no
+Mango,Alphonso,cal,5,3,DIEBACK,L,no
+Mango,Alphonso,cal,6,1,DIEBACK,L,no
+Mango,Dashehari,cal,1,1,POWDERY_MILDEW,H,yes
+Mango,Dashehari,cal,1,2,ANTHRACNOSE,H,yes
+Mango,Dashehari,cal,1,3,JASSID,H,yes
+Mango,Dashehari,cal,1,4,MEALYBUG,M,yes
+Mango,Dashehari,cal,2,1,POWDERY_MILDEW,H,no
+Mango,Dashehari,cal,2,2,ANTHRACNOSE,H,no
+Mango,Dashehari,cal,2,3,JASSID,H,no
+Mango,Dashehari,cal,2,4,FLOWER_DROP,M,yes
+Mango,Dashehari,cal,2,5,MEALYBUG,M,no
+Mango,Dashehari,cal,3,1,ANTHRACNOSE,H,no
+Mango,Dashehari,cal,3,2,FLOWER_DROP,M,no
+Mango,Dashehari,cal,3,3,DIEBACK,L,yes
+Mango,Dashehari,cal,4,1,ANTHRACNOSE,H,no
+Mango,Dashehari,cal,4,2,FLOWER_DROP,M,no
+Mango,Dashehari,cal,4,3,DIEBACK,L,no
+Mango,Dashehari,cal,5,1,ANTHRACNOSE,H,no
+Mango,Dashehari,cal,5,2,FLOWER_DROP,M,no
+Mango,Dashehari,cal,5,3,DIEBACK,L,no
+Mango,Dashehari,cal,6,1,DIEBACK,L,no
+Mango,Langra,cal,1,1,POWDERY_MILDEW,H,yes
+Mango,Langra,cal,1,2,ANTHRACNOSE,H,yes
+Mango,Langra,cal,1,3,JASSID,H,yes
+Mango,Langra,cal,1,4,MEALYBUG,M,yes
+Mango,Langra,cal,2,1,POWDERY_MILDEW,H,no
+Mango,Langra,cal,2,2,ANTHRACNOSE,H,no
+Mango,Langra,cal,2,3,JASSID,H,no
+Mango,Langra,cal,2,4,FLOWER_DROP,M,yes
+Mango,Langra,cal,2,5,MEALYBUG,M,no
+Mango,Langra,cal,3,1,ANTHRACNOSE,H,no
+Mango,Langra,cal,3,2,FLOWER_DROP,M,no
+Mango,Langra,cal,3,3,DIEBACK,L,yes
+Mango,Langra,cal,4,1,ANTHRACNOSE,H,no
+Mango,Langra,cal,4,2,FLOWER_DROP,M,no
+Mango,Langra,cal,4,3,DIEBACK,L,no
+Mango,Langra,cal,5,1,ANTHRACNOSE,H,no
+Mango,Langra,cal,5,2,FLOWER_DROP,M,no
+Mango,Langra,cal,5,3,DIEBACK,L,no
+Mango,Langra,cal,6,1,DIEBACK,L,no
+Muskmelon,Pusa Sharbati,das,2,1,THRIPS,M,yes
+Muskmelon,Pusa Sharbati,das,3,1,DOWNY_MILDEW,H,yes
+Muskmelon,Pusa Sharbati,das,3,2,THRIPS,M,no
+Muskmelon,Pusa Sharbati,das,4,1,FRUIT_BORER,H,yes
+Muskmelon,Pusa Sharbati,das,4,2,POWDERY_MILDEW,H,yes
+Muskmelon,Pusa Sharbati,das,4,3,DOWNY_MILDEW,H,no
+Muskmelon,Pusa Sharbati,das,5,1,FRUIT_BORER,H,no
+Muskmelon,Pusa Sharbati,das,5,2,POWDERY_MILDEW,H,no
+Mustard,ADV 414,das,1,1,PAINTED_BUG,H,yes
+Mustard,ADV 414,das,1,2,DAMPING_OFF,M,yes
+Mustard,ADV 414,das,1,3,WEEDS,M,yes
+Mustard,ADV 414,das,1,4,TERMITE,M,yes
+Mustard,ADV 414,das,2,1,APHID,H,yes
+Mustard,ADV 414,das,2,2,DOWNY_MILDEW,M,yes
+Mustard,ADV 414,das,2,3,WEEDS,M,no
+Mustard,ADV 414,das,2,4,DAMPING_OFF,M,no
+Mustard,ADV 414,das,3,1,WHITE_RUST,H,yes
+Mustard,ADV 414,das,3,2,ALTERNARIA,H,yes
+Mustard,ADV 414,das,3,3,APHID,H,no
+Mustard,ADV 414,das,3,4,DOWNY_MILDEW,M,no
+Mustard,ADV 414,das,4,1,SCLEROTINIA,H,yes
+Mustard,ADV 414,das,4,2,APHID,H,no
+Mustard,ADV 414,das,4,3,WHITE_RUST,H,no
+Mustard,ADV 414,das,4,4,ALTERNARIA,H,no
+Mustard,ADV 414,das,4,5,POWDERY_MILDEW,M,yes
+Mustard,ADV 414,das,5,1,APHID,H,no
+Mustard,ADV 414,das,5,2,ALTERNARIA,H,no
+Mustard,ADV 414,das,5,3,SCLEROTINIA,H,no
+Mustard,ADV 414,das,5,4,POWDERY_MILDEW,M,no
+Mustard,ADV 414,das,6,1,APHID,H,no
+Mustard,Goldie yellow mustard,das,1,1,PAINTED_BUG,H,yes
+Mustard,Goldie yellow mustard,das,1,2,DAMPING_OFF,M,yes
+Mustard,Goldie yellow mustard,das,1,3,WEEDS,M,yes
+Mustard,Goldie yellow mustard,das,1,4,TERMITE,M,yes
+Mustard,Goldie yellow mustard,das,2,1,APHID,H,yes
+Mustard,Goldie yellow mustard,das,2,2,DOWNY_MILDEW,M,yes
+Mustard,Goldie yellow mustard,das,2,3,WEEDS,M,no
+Mustard,Goldie yellow mustard,das,2,4,DAMPING_OFF,M,no
+Mustard,Goldie yellow mustard,das,3,1,WHITE_RUST,H,yes
+Mustard,Goldie yellow mustard,das,3,2,ALTERNARIA,H,yes
+Mustard,Goldie yellow mustard,das,3,3,APHID,H,no
+Mustard,Goldie yellow mustard,das,3,4,POWDERY_MILDEW,M,yes
+Mustard,Goldie yellow mustard,das,3,5,DOWNY_MILDEW,M,no
+Mustard,Goldie yellow mustard,das,4,1,SCLEROTINIA,H,yes
+Mustard,Goldie yellow mustard,das,4,2,ALTERNARIA,H,no
+Mustard,Goldie yellow mustard,das,4,3,APHID,H,no
+Mustard,Goldie yellow mustard,das,4,4,WHITE_RUST,H,no
+Mustard,Goldie yellow mustard,das,4,5,POWDERY_MILDEW,M,no
+Mustard,Goldie yellow mustard,das,5,1,APHID,H,no
+Mustard,Goldie yellow mustard,das,5,2,ALTERNARIA,H,no
+Mustard,Goldie yellow mustard,das,5,3,SCLEROTINIA,H,no
+Mustard,Goldie yellow mustard,das,5,4,POWDERY_MILDEW,M,no
+Mustard,Pioneer 45S46,das,1,1,PAINTED_BUG,H,yes
+Mustard,Pioneer 45S46,das,1,2,DAMPING_OFF,M,yes
+Mustard,Pioneer 45S46,das,1,3,WEEDS,M,yes
+Mustard,Pioneer 45S46,das,1,4,TERMITE,M,yes
+Mustard,Pioneer 45S46,das,2,1,APHID,H,yes
+Mustard,Pioneer 45S46,das,2,2,DOWNY_MILDEW,M,yes
+Mustard,Pioneer 45S46,das,2,3,WEEDS,M,no
+Mustard,Pioneer 45S46,das,2,4,DAMPING_OFF,M,no
+Mustard,Pioneer 45S46,das,3,1,WHITE_RUST,H,yes
+Mustard,Pioneer 45S46,das,3,2,ALTERNARIA,H,yes
+Mustard,Pioneer 45S46,das,3,3,APHID,H,no
+Mustard,Pioneer 45S46,das,3,4,POWDERY_MILDEW,M,yes
+Mustard,Pioneer 45S46,das,3,5,DOWNY_MILDEW,M,no
+Mustard,Pioneer 45S46,das,4,1,SCLEROTINIA,H,yes
+Mustard,Pioneer 45S46,das,4,2,ALTERNARIA,H,no
+Mustard,Pioneer 45S46,das,4,3,APHID,H,no
+Mustard,Pioneer 45S46,das,4,4,POWDERY_MILDEW,M,no
+Mustard,Pioneer 45S46,das,5,1,WHITE_RUST,H,yes
+Mustard,Pioneer 45S46,das,5,2,APHID,H,no
+Mustard,Pioneer 45S46,das,5,3,SCLEROTINIA,H,no
+Mustard,Pioneer 45S46,das,5,4,ALTERNARIA,H,no
+Mustard,Pioneer 45S46,das,5,5,POWDERY_MILDEW,M,no
+Mustard,Shriram 1666,das,1,1,PAINTED_BUG,H,yes
+Mustard,Shriram 1666,das,1,2,DAMPING_OFF,M,yes
+Mustard,Shriram 1666,das,1,3,WEEDS,M,yes
+Mustard,Shriram 1666,das,1,4,TERMITE,M,yes
+Mustard,Shriram 1666,das,2,1,APHID,H,yes
+Mustard,Shriram 1666,das,2,2,DOWNY_MILDEW,M,yes
+Mustard,Shriram 1666,das,2,3,WEEDS,M,no
+Mustard,Shriram 1666,das,2,4,DAMPING_OFF,M,no
+Mustard,Shriram 1666,das,3,1,WHITE_RUST,H,yes
+Mustard,Shriram 1666,das,3,2,ALTERNARIA,H,yes
+Mustard,Shriram 1666,das,3,3,APHID,H,no
+Mustard,Shriram 1666,das,3,4,DOWNY_MILDEW,M,no
+Mustard,Shriram 1666,das,4,1,SCLEROTINIA,H,yes
+Mustard,Shriram 1666,das,4,2,APHID,H,no
+Mustard,Shriram 1666,das,4,3,WHITE_RUST,H,no
+Mustard,Shriram 1666,das,4,4,ALTERNARIA,H,no
+Mustard,Shriram 1666,das,4,5,POWDERY_MILDEW,M,yes
+Mustard,Shriram 1666,das,5,1,APHID,H,no
+Mustard,Shriram 1666,das,5,2,ALTERNARIA,H,no
+Mustard,Shriram 1666,das,5,3,SCLEROTINIA,H,no
+Mustard,Shriram 1666,das,5,4,POWDERY_MILDEW,M,no
+Mustard,Shriram 1666,das,6,1,APHID,H,no
+Mustard,Star 10-15,das,1,1,PAINTED_BUG,H,yes
+Mustard,Star 10-15,das,1,2,DAMPING_OFF,M,yes
+Mustard,Star 10-15,das,1,3,WEEDS,M,yes
+Mustard,Star 10-15,das,1,4,TERMITE,M,yes
+Mustard,Star 10-15,das,2,1,APHID,H,yes
+Mustard,Star 10-15,das,2,2,DOWNY_MILDEW,M,yes
+Mustard,Star 10-15,das,2,3,WEEDS,M,no
+Mustard,Star 10-15,das,2,4,DAMPING_OFF,M,no
+Mustard,Star 10-15,das,3,1,WHITE_RUST,H,yes
+Mustard,Star 10-15,das,3,2,ALTERNARIA,H,yes
+Mustard,Star 10-15,das,3,3,APHID,H,no
+Mustard,Star 10-15,das,3,4,DOWNY_MILDEW,M,no
+Mustard,Star 10-15,das,3,5,DAMPING_OFF,M,no
+Mustard,Star 10-15,das,4,1,SCLEROTINIA,H,yes
+Mustard,Star 10-15,das,4,2,APHID,H,no
+Mustard,Star 10-15,das,4,3,WHITE_RUST,H,no
+Mustard,Star 10-15,das,4,4,ALTERNARIA,H,no
+Mustard,Star 10-15,das,4,5,POWDERY_MILDEW,M,yes
+Mustard,Star 10-15,das,5,1,APHID,H,no
+Mustard,Star 10-15,das,5,2,ALTERNARIA,H,no
+Mustard,Star 10-15,das,5,3,SCLEROTINIA,H,no
+Mustard,Star 10-15,das,5,4,ARMYWORM,M,yes
+Mustard,Star 10-15,das,5,5,POWDERY_MILDEW,M,no
+Mustard,Ulhas  yellow mustard,das,1,1,PAINTED_BUG,H,yes
+Mustard,Ulhas  yellow mustard,das,1,2,DAMPING_OFF,M,yes
+Mustard,Ulhas  yellow mustard,das,2,1,DOWNY_MILDEW,M,yes
+Mustard,Ulhas  yellow mustard,das,2,2,WEEDS,M,yes
+Mustard,Ulhas  yellow mustard,das,3,1,WHITE_RUST,H,yes
+Mustard,Ulhas  yellow mustard,das,3,2,ALTERNARIA,H,yes
+Mustard,Ulhas  yellow mustard,das,3,3,APHID,H,yes
+Mustard,Ulhas  yellow mustard,das,3,4,DAMPING_OFF,M,yes
+Mustard,Ulhas  yellow mustard,das,3,5,DOWNY_MILDEW,M,no
+Mustard,Ulhas  yellow mustard,das,4,1,SCLEROTINIA,H,yes
+Mustard,Ulhas  yellow mustard,das,4,2,APHID,H,no
+Mustard,Ulhas  yellow mustard,das,4,3,WHITE_RUST,H,no
+Mustard,Ulhas  yellow mustard,das,4,4,ALTERNARIA,H,no
+Mustard,Ulhas  yellow mustard,das,4,5,POWDERY_MILDEW,M,yes
+Mustard,Ulhas  yellow mustard,das,5,1,APHID,H,no
+Mustard,Ulhas  yellow mustard,das,5,2,ALTERNARIA,H,no
+Mustard,Ulhas  yellow mustard,das,5,3,SCLEROTINIA,H,no
+Mustard,Ulhas  yellow mustard,das,5,4,POWDERY_MILDEW,M,no
+Okra,Arka Anamika,das,2,1,JASSID,H,yes
+Okra,Arka Anamika,das,2,2,WHITEFLY,H,yes
+Okra,Arka Anamika,das,2,3,VIRUS,H,yes
+Okra,Arka Anamika,das,2,4,WEEDS,M,yes
+Okra,Arka Anamika,das,3,1,JASSID,H,no
+Okra,Arka Anamika,das,3,2,WHITEFLY,H,no
+Okra,Arka Anamika,das,3,3,VIRUS,H,no
+Okra,Arka Anamika,das,4,1,FRUIT_BORER,H,yes
+Okra,Arka Anamika,das,4,2,WHITEFLY,H,no
+Okra,Arka Anamika,das,4,3,VIRUS,H,no
+Okra,Arka Anamika,das,4,4,MITES,M,yes
+Okra,Arka Anamika,das,4,5,POWDERY_MILDEW,M,yes
+Okra,Arka Anamika,das,5,1,VIRUS,H,no
+Okra,Arka Anamika,das,5,2,FRUIT_BORER,H,no
+Okra,Arka Anamika,das,5,3,MITES,M,no
+Okra,Arka Anamika,das,5,4,POWDERY_MILDEW,M,no
+Okra,Kashi Lalima,das,2,1,JASSID,H,yes
+Okra,Kashi Lalima,das,2,2,WHITEFLY,H,yes
+Okra,Kashi Lalima,das,2,3,VIRUS,H,yes
+Okra,Kashi Lalima,das,2,4,WEEDS,M,yes
+Okra,Kashi Lalima,das,3,1,JASSID,H,no
+Okra,Kashi Lalima,das,3,2,WHITEFLY,H,no
+Okra,Kashi Lalima,das,3,3,VIRUS,H,no
+Okra,Kashi Lalima,das,4,1,FRUIT_BORER,H,yes
+Okra,Kashi Lalima,das,4,2,WHITEFLY,H,no
+Okra,Kashi Lalima,das,4,3,VIRUS,H,no
+Okra,Kashi Lalima,das,4,4,MITES,M,yes
+Okra,Kashi Lalima,das,4,5,POWDERY_MILDEW,M,yes
+Okra,Kashi Lalima,das,5,1,VIRUS,H,no
+Okra,Kashi Lalima,das,5,2,FRUIT_BORER,H,no
+Okra,Kashi Lalima,das,5,3,MITES,M,no
+Okra,Kashi Lalima,das,5,4,POWDERY_MILDEW,M,no
+Onion,Bhima Raj,das,1,1,DAMPING_OFF,H,yes
+Onion,Bhima Raj,das,2,1,WEEDS,H,yes
+Onion,Bhima Raj,das,3,1,WEEDS,H,no
+Onion,Bhima Raj,das,4,1,THRIPS,H,yes
+Onion,Bhima Raj,das,4,2,ALTERNARIA,H,yes
+Onion,Bhima Raj,das,4,3,WEEDS,H,no
+Onion,Bhima Raj,das,4,4,DOWNY_MILDEW,M,yes
+Onion,Bhima Raj,das,5,1,THRIPS,H,no
+Onion,Bhima Raj,das,5,2,ALTERNARIA,H,no
+Onion,Bhima Raj,das,5,3,DOWNY_MILDEW,M,no
+Onion,Bhima Raj,das,6,1,THRIPS,H,no
+Onion,Bhima Raj,das,6,2,ALTERNARIA,H,no
+Onion,Poona Fursungi,das,1,1,DAMPING_OFF,H,yes
+Onion,Poona Fursungi,das,2,1,WEEDS,H,yes
+Onion,Poona Fursungi,das,3,1,WEEDS,H,no
+Onion,Poona Fursungi,das,4,1,THRIPS,H,yes
+Onion,Poona Fursungi,das,4,2,ALTERNARIA,H,yes
+Onion,Poona Fursungi,das,4,3,WEEDS,H,no
+Onion,Poona Fursungi,das,4,4,DOWNY_MILDEW,M,yes
+Onion,Poona Fursungi,das,5,1,THRIPS,H,no
+Onion,Poona Fursungi,das,5,2,ALTERNARIA,H,no
+Onion,Poona Fursungi,das,5,3,DOWNY_MILDEW,M,no
+Onion,Poona Fursungi,das,6,1,THRIPS,H,no
+Onion,Poona Fursungi,das,6,2,ALTERNARIA,H,no
+Paddy,Arize 6444 Gold,das,1,1,DAMPING_OFF,M,yes
+Paddy,Arize 6444 Gold,das,1,2,BAKANAE,M,yes
+Paddy,Arize 6444 Gold,das,2,1,WEEDS,H,yes
+Paddy,Arize 6444 Gold,das,2,2,SOIL_BORNE,M,yes
+Paddy,Arize 6444 Gold,das,2,3,TERMITE,M,yes
+Paddy,Arize 6444 Gold,das,2,4,DAMPING_OFF,M,no
+Paddy,Arize 6444 Gold,das,3,1,STEM_BORER,H,yes
+Paddy,Arize 6444 Gold,das,3,2,BLAST,H,yes
+Paddy,Arize 6444 Gold,das,3,3,WEEDS,H,no
+Paddy,Arize 6444 Gold,das,3,4,RICE_HISPA,M,yes
+Paddy,Arize 6444 Gold,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Arize 6444 Gold,das,3,6,TERMITE,M,no
+Paddy,Arize 6444 Gold,das,3,7,DAMPING_OFF,M,no
+Paddy,Arize 6444 Gold,das,3,8,SOIL_BORNE,M,no
+Paddy,Arize 6444 Gold,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Arize 6444 Gold,das,4,2,BLB,H,yes
+Paddy,Arize 6444 Gold,das,4,3,BPH,H,yes
+Paddy,Arize 6444 Gold,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Arize 6444 Gold,das,4,5,STEM_BORER,H,no
+Paddy,Arize 6444 Gold,das,4,6,BLAST,H,no
+Paddy,Arize 6444 Gold,das,4,7,WEEDS,H,no
+Paddy,Arize 6444 Gold,das,4,8,RICE_HISPA,M,no
+Paddy,Arize 6444 Gold,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Arize 6444 Gold,das,5,1,STEM_BORER,H,no
+Paddy,Arize 6444 Gold,das,5,2,LEAF_FOLDER,H,no
+Paddy,Arize 6444 Gold,das,5,3,BPH,H,no
+Paddy,Arize 6444 Gold,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,Arize 6444 Gold,das,5,5,BLB,H,no
+Paddy,Arize 6444 Gold,das,5,6,BLAST,H,no
+Paddy,Arize 6444 Gold,das,5,7,WEEDS,H,no
+Paddy,Arize 6444 Gold,das,5,8,RICE_HISPA,M,no
+Paddy,Arize 6444 Gold,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Arize 6444 Gold,das,6,1,NECK_BLAST,H,yes
+Paddy,Arize 6444 Gold,das,6,2,STEM_BORER,H,no
+Paddy,Arize 6444 Gold,das,6,3,BPH,H,no
+Paddy,Arize 6444 Gold,das,6,4,BLB,H,no
+Paddy,Arize 6444 Gold,das,6,5,LEAF_FOLDER,H,no
+Paddy,Arize 6444 Gold,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Arize 6444 Gold,das,6,7,FALSE_SMUT,M,yes
+Paddy,Arize 6444 Gold,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Arize 6444 Gold,das,7,1,NECK_BLAST,H,no
+Paddy,Arize 6444 Gold,das,7,2,STEM_BORER,H,no
+Paddy,Arize 6444 Gold,das,7,3,BPH,H,no
+Paddy,Arize 6444 Gold,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Arize 6444 Gold,das,7,5,FALSE_SMUT,M,no
+Paddy,Arize 6444 Gold,das,7,6,GUNDHI_BUG,M,no
+Paddy,Chinoor (Moti),das,1,1,DAMPING_OFF,M,yes
+Paddy,Chinoor (Moti),das,1,2,BAKANAE,M,yes
+Paddy,Chinoor (Moti),das,2,1,WEEDS,H,yes
+Paddy,Chinoor (Moti),das,2,2,SOIL_BORNE,M,yes
+Paddy,Chinoor (Moti),das,2,3,DAMPING_OFF,M,no
+Paddy,Chinoor (Moti),das,3,1,STEM_BORER,H,yes
+Paddy,Chinoor (Moti),das,3,2,LEAF_FOLDER,H,yes
+Paddy,Chinoor (Moti),das,3,3,BPH,H,yes
+Paddy,Chinoor (Moti),das,3,4,BLB,H,yes
+Paddy,Chinoor (Moti),das,3,5,SHEATH_BLIGHT,H,yes
+Paddy,Chinoor (Moti),das,3,6,BLAST,H,yes
+Paddy,Chinoor (Moti),das,3,7,WEEDS,H,no
+Paddy,Chinoor (Moti),das,3,8,RICE_HISPA,M,yes
+Paddy,Chinoor (Moti),das,3,9,NUTRIENT_DEF,M,yes
+Paddy,Chinoor (Moti),das,4,1,STEM_BORER,H,no
+Paddy,Chinoor (Moti),das,4,2,BLB,H,no
+Paddy,Chinoor (Moti),das,4,3,SHEATH_BLIGHT,H,no
+Paddy,Chinoor (Moti),das,4,4,BLAST,H,no
+Paddy,Chinoor (Moti),das,4,5,LEAF_FOLDER,H,no
+Paddy,Chinoor (Moti),das,4,6,BPH,H,no
+Paddy,Chinoor (Moti),das,4,7,WEEDS,H,no
+Paddy,Chinoor (Moti),das,4,8,RICE_HISPA,M,no
+Paddy,Chinoor (Moti),das,4,9,NUTRIENT_DEF,M,no
+Paddy,Chinoor (Moti),das,5,1,NECK_BLAST,H,yes
+Paddy,Chinoor (Moti),das,5,2,STEM_BORER,H,no
+Paddy,Chinoor (Moti),das,5,3,LEAF_FOLDER,H,no
+Paddy,Chinoor (Moti),das,5,4,BPH,H,no
+Paddy,Chinoor (Moti),das,5,5,BLB,H,no
+Paddy,Chinoor (Moti),das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Chinoor (Moti),das,5,7,BLAST,H,no
+Paddy,Chinoor (Moti),das,5,8,FALSE_SMUT,M,yes
+Paddy,Chinoor (Moti),das,6,1,STEM_BORER,H,no
+Paddy,Chinoor (Moti),das,6,2,NECK_BLAST,H,no
+Paddy,Chinoor (Moti),das,6,3,BPH,H,no
+Paddy,Chinoor (Moti),das,6,4,SHEATH_BLIGHT,H,no
+Paddy,Chinoor (Moti),das,6,5,GUNDHI_BUG,M,yes
+Paddy,Chinoor (Moti),das,6,6,FALSE_SMUT,M,no
+Paddy,Dilkhush,das,1,1,DAMPING_OFF,M,yes
+Paddy,Dilkhush,das,1,2,BAKANAE,M,yes
+Paddy,Dilkhush,das,2,1,WEEDS,H,yes
+Paddy,Dilkhush,das,2,2,SOIL_BORNE,M,yes
+Paddy,Dilkhush,das,3,1,STEM_BORER,H,yes
+Paddy,Dilkhush,das,3,2,BLAST,H,yes
+Paddy,Dilkhush,das,3,3,WEEDS,H,no
+Paddy,Dilkhush,das,3,4,RICE_HISPA,M,yes
+Paddy,Dilkhush,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Dilkhush,das,3,6,SOIL_BORNE,M,no
+Paddy,Dilkhush,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Dilkhush,das,4,2,BPH,H,yes
+Paddy,Dilkhush,das,4,3,BLB,H,yes
+Paddy,Dilkhush,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Dilkhush,das,4,5,STEM_BORER,H,no
+Paddy,Dilkhush,das,4,6,BLAST,H,no
+Paddy,Dilkhush,das,4,7,WEEDS,H,no
+Paddy,Dilkhush,das,4,8,RICE_HISPA,M,no
+Paddy,Dilkhush,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Dilkhush,das,5,1,STEM_BORER,H,no
+Paddy,Dilkhush,das,5,2,BPH,H,no
+Paddy,Dilkhush,das,5,3,BLB,H,no
+Paddy,Dilkhush,das,5,4,BLAST,H,no
+Paddy,Dilkhush,das,5,5,LEAF_FOLDER,H,no
+Paddy,Dilkhush,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Dilkhush,das,5,7,WEEDS,H,no
+Paddy,Dilkhush,das,5,8,RICE_HISPA,M,no
+Paddy,Dilkhush,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Dilkhush,das,6,1,NECK_BLAST,H,yes
+Paddy,Dilkhush,das,6,2,STEM_BORER,H,no
+Paddy,Dilkhush,das,6,3,BPH,H,no
+Paddy,Dilkhush,das,6,4,LEAF_FOLDER,H,no
+Paddy,Dilkhush,das,6,5,BLB,H,no
+Paddy,Dilkhush,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Dilkhush,das,6,7,FALSE_SMUT,M,yes
+Paddy,Dilkhush,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Dilkhush,das,7,1,NECK_BLAST,H,no
+Paddy,Dilkhush,das,7,2,STEM_BORER,H,no
+Paddy,Dilkhush,das,7,3,BPH,H,no
+Paddy,Dilkhush,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Dilkhush,das,7,5,GUNDHI_BUG,M,no
+Paddy,Dilkhush,das,7,6,FALSE_SMUT,M,no
+Paddy,Golden Kasturi,das,1,1,DAMPING_OFF,M,yes
+Paddy,Golden Kasturi,das,1,2,BAKANAE,M,yes
+Paddy,Golden Kasturi,das,2,1,WEEDS,H,yes
+Paddy,Golden Kasturi,das,2,2,TERMITE,M,yes
+Paddy,Golden Kasturi,das,2,3,SOIL_BORNE,M,yes
+Paddy,Golden Kasturi,das,3,1,STEM_BORER,H,yes
+Paddy,Golden Kasturi,das,3,2,BLAST,H,yes
+Paddy,Golden Kasturi,das,3,3,WEEDS,H,no
+Paddy,Golden Kasturi,das,3,4,RICE_HISPA,M,yes
+Paddy,Golden Kasturi,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Golden Kasturi,das,3,6,TERMITE,M,no
+Paddy,Golden Kasturi,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Golden Kasturi,das,4,2,SHEATH_BLIGHT,H,yes
+Paddy,Golden Kasturi,das,4,3,BPH,H,yes
+Paddy,Golden Kasturi,das,4,4,BLB,H,yes
+Paddy,Golden Kasturi,das,4,5,STEM_BORER,H,no
+Paddy,Golden Kasturi,das,4,6,BLAST,H,no
+Paddy,Golden Kasturi,das,4,7,WEEDS,H,no
+Paddy,Golden Kasturi,das,4,8,RICE_HISPA,M,no
+Paddy,Golden Kasturi,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Golden Kasturi,das,5,1,STEM_BORER,H,no
+Paddy,Golden Kasturi,das,5,2,LEAF_FOLDER,H,no
+Paddy,Golden Kasturi,das,5,3,BLB,H,no
+Paddy,Golden Kasturi,das,5,4,BPH,H,no
+Paddy,Golden Kasturi,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Golden Kasturi,das,5,6,BLAST,H,no
+Paddy,Golden Kasturi,das,5,7,WEEDS,H,no
+Paddy,Golden Kasturi,das,5,8,RICE_HISPA,M,no
+Paddy,Golden Kasturi,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Golden Kasturi,das,6,1,NECK_BLAST,H,yes
+Paddy,Golden Kasturi,das,6,2,STEM_BORER,H,no
+Paddy,Golden Kasturi,das,6,3,LEAF_FOLDER,H,no
+Paddy,Golden Kasturi,das,6,4,BLB,H,no
+Paddy,Golden Kasturi,das,6,5,SHEATH_BLIGHT,H,no
+Paddy,Golden Kasturi,das,6,6,BPH,H,no
+Paddy,Golden Kasturi,das,6,7,FALSE_SMUT,M,yes
+Paddy,Golden Kasturi,das,7,1,LEAF_FOLDER,H,no
+Paddy,Golden Kasturi,das,7,2,NECK_BLAST,H,no
+Paddy,HMT parvati paddy,das,1,1,DAMPING_OFF,M,yes
+Paddy,HMT parvati paddy,das,1,2,BAKANAE,M,yes
+Paddy,HMT parvati paddy,das,2,1,WEEDS,H,yes
+Paddy,HMT parvati paddy,das,2,2,TERMITE,M,yes
+Paddy,HMT parvati paddy,das,2,3,SOIL_BORNE,M,yes
+Paddy,HMT parvati paddy,das,3,1,STEM_BORER,H,yes
+Paddy,HMT parvati paddy,das,3,2,BLAST,H,yes
+Paddy,HMT parvati paddy,das,3,3,WEEDS,H,no
+Paddy,HMT parvati paddy,das,3,4,RICE_HISPA,M,yes
+Paddy,HMT parvati paddy,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,HMT parvati paddy,das,3,6,TERMITE,M,no
+Paddy,HMT parvati paddy,das,4,1,LEAF_FOLDER,H,yes
+Paddy,HMT parvati paddy,das,4,2,BLB,H,yes
+Paddy,HMT parvati paddy,das,4,3,BPH,H,yes
+Paddy,HMT parvati paddy,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,HMT parvati paddy,das,4,5,STEM_BORER,H,no
+Paddy,HMT parvati paddy,das,4,6,BLAST,H,no
+Paddy,HMT parvati paddy,das,4,7,WEEDS,H,no
+Paddy,HMT parvati paddy,das,4,8,RICE_HISPA,M,no
+Paddy,HMT parvati paddy,das,4,9,NUTRIENT_DEF,M,no
+Paddy,HMT parvati paddy,das,5,1,LEAF_FOLDER,H,no
+Paddy,HMT parvati paddy,das,5,2,BLAST,H,no
+Paddy,HMT parvati paddy,das,5,3,STEM_BORER,H,no
+Paddy,HMT parvati paddy,das,5,4,BPH,H,no
+Paddy,HMT parvati paddy,das,5,5,BLB,H,no
+Paddy,HMT parvati paddy,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,HMT parvati paddy,das,5,7,WEEDS,H,no
+Paddy,HMT parvati paddy,das,5,8,FALSE_SMUT,M,yes
+Paddy,HMT parvati paddy,das,5,9,RICE_HISPA,M,no
+Paddy,HMT parvati paddy,das,5,10,NUTRIENT_DEF,M,no
+Paddy,HMT parvati paddy,das,6,1,NECK_BLAST,H,yes
+Paddy,HMT parvati paddy,das,6,2,STEM_BORER,H,no
+Paddy,HMT parvati paddy,das,6,3,BPH,H,no
+Paddy,HMT parvati paddy,das,6,4,LEAF_FOLDER,H,no
+Paddy,HMT parvati paddy,das,6,5,BLB,H,no
+Paddy,HMT parvati paddy,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,HMT parvati paddy,das,6,7,GUNDHI_BUG,M,yes
+Paddy,HMT parvati paddy,das,6,8,FALSE_SMUT,M,no
+Paddy,HMT parvati paddy,das,7,1,SHEATH_BLIGHT,H,no
+Paddy,HMT parvati paddy,das,7,2,NECK_BLAST,H,no
+Paddy,HMT parvati paddy,das,7,3,STEM_BORER,H,no
+Paddy,HMT parvati paddy,das,7,4,BPH,H,no
+Paddy,HMT parvati paddy,das,7,5,GUNDHI_BUG,M,no
+Paddy,HMT parvati paddy,das,7,6,FALSE_SMUT,M,no
+Paddy,Jayanti paddy,das,1,1,DAMPING_OFF,M,yes
+Paddy,Jayanti paddy,das,1,2,BAKANAE,M,yes
+Paddy,Jayanti paddy,das,2,1,WEEDS,H,yes
+Paddy,Jayanti paddy,das,2,2,TERMITE,M,yes
+Paddy,Jayanti paddy,das,3,1,STEM_BORER,H,yes
+Paddy,Jayanti paddy,das,3,2,BLAST,H,yes
+Paddy,Jayanti paddy,das,3,3,WEEDS,H,no
+Paddy,Jayanti paddy,das,3,4,RICE_HISPA,M,yes
+Paddy,Jayanti paddy,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Jayanti paddy,das,3,6,TERMITE,M,no
+Paddy,Jayanti paddy,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Jayanti paddy,das,4,2,BPH,H,yes
+Paddy,Jayanti paddy,das,4,3,BLB,H,yes
+Paddy,Jayanti paddy,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Jayanti paddy,das,4,5,STEM_BORER,H,no
+Paddy,Jayanti paddy,das,4,6,BLAST,H,no
+Paddy,Jayanti paddy,das,4,7,WEEDS,H,no
+Paddy,Jayanti paddy,das,4,8,GUNDHI_BUG,M,yes
+Paddy,Jayanti paddy,das,4,9,RICE_HISPA,M,no
+Paddy,Jayanti paddy,das,4,10,NUTRIENT_DEF,M,no
+Paddy,Jayanti paddy,das,5,1,STEM_BORER,H,no
+Paddy,Jayanti paddy,das,5,2,LEAF_FOLDER,H,no
+Paddy,Jayanti paddy,das,5,3,BPH,H,no
+Paddy,Jayanti paddy,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,Jayanti paddy,das,5,5,BLB,H,no
+Paddy,Jayanti paddy,das,5,6,BLAST,H,no
+Paddy,Jayanti paddy,das,5,7,WEEDS,H,no
+Paddy,Jayanti paddy,das,5,8,RICE_HISPA,M,no
+Paddy,Jayanti paddy,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Jayanti paddy,das,6,1,NECK_BLAST,H,yes
+Paddy,Jayanti paddy,das,6,2,STEM_BORER,H,no
+Paddy,Jayanti paddy,das,6,3,BPH,H,no
+Paddy,Jayanti paddy,das,6,4,LEAF_FOLDER,H,no
+Paddy,Jayanti paddy,das,6,5,BLB,H,no
+Paddy,Jayanti paddy,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Jayanti paddy,das,6,7,FALSE_SMUT,M,yes
+Paddy,Jayanti paddy,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Jayanti paddy,das,7,1,SHEATH_BLIGHT,H,no
+Paddy,Jayanti paddy,das,7,2,STEM_BORER,H,no
+Paddy,Jayanti paddy,das,7,3,BPH,H,no
+Paddy,Jayanti paddy,das,7,4,NECK_BLAST,H,no
+Paddy,Jayanti paddy,das,7,5,BLB,H,no
+Paddy,Jayanti paddy,das,7,6,GUNDHI_BUG,M,no
+Paddy,Jayanti paddy,das,7,7,FALSE_SMUT,M,no
+Paddy,Kalanamak,das,1,1,DAMPING_OFF,M,yes
+Paddy,Kalanamak,das,1,2,BAKANAE,M,yes
+Paddy,Kalanamak,das,2,1,WEEDS,H,yes
+Paddy,Kalanamak,das,2,2,TERMITE,M,yes
+Paddy,Kalanamak,das,2,3,SOIL_BORNE,M,yes
+Paddy,Kalanamak,das,3,1,STEM_BORER,H,yes
+Paddy,Kalanamak,das,3,2,BLAST,H,yes
+Paddy,Kalanamak,das,3,3,WEEDS,H,no
+Paddy,Kalanamak,das,3,4,RICE_HISPA,M,yes
+Paddy,Kalanamak,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Kalanamak,das,3,6,SOIL_BORNE,M,no
+Paddy,Kalanamak,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Kalanamak,das,4,2,SHEATH_BLIGHT,H,yes
+Paddy,Kalanamak,das,4,3,BPH,H,yes
+Paddy,Kalanamak,das,4,4,BLB,H,yes
+Paddy,Kalanamak,das,4,5,STEM_BORER,H,no
+Paddy,Kalanamak,das,4,6,BLAST,H,no
+Paddy,Kalanamak,das,4,7,WEEDS,H,no
+Paddy,Kalanamak,das,4,8,RICE_HISPA,M,no
+Paddy,Kalanamak,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Kalanamak,das,5,1,STEM_BORER,H,no
+Paddy,Kalanamak,das,5,2,LEAF_FOLDER,H,no
+Paddy,Kalanamak,das,5,3,BPH,H,no
+Paddy,Kalanamak,das,5,4,BLB,H,no
+Paddy,Kalanamak,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Kalanamak,das,5,6,BLAST,H,no
+Paddy,Kalanamak,das,5,7,WEEDS,H,no
+Paddy,Kalanamak,das,5,8,RICE_HISPA,M,no
+Paddy,Kalanamak,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Kalanamak,das,6,1,NECK_BLAST,H,yes
+Paddy,Kalanamak,das,6,2,BLB,H,no
+Paddy,Kalanamak,das,6,3,STEM_BORER,H,no
+Paddy,Kalanamak,das,6,4,LEAF_FOLDER,H,no
+Paddy,Kalanamak,das,6,5,BPH,H,no
+Paddy,Kalanamak,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Kalanamak,das,6,7,FALSE_SMUT,M,yes
+Paddy,Kalanamak,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Kalanamak,das,7,1,NECK_BLAST,H,no
+Paddy,Kaveri 468,das,1,1,DAMPING_OFF,M,yes
+Paddy,Kaveri 468,das,1,2,BAKANAE,M,yes
+Paddy,Kaveri 468,das,2,1,WEEDS,H,yes
+Paddy,Kaveri 468,das,2,2,TERMITE,M,yes
+Paddy,Kaveri 468,das,2,3,DAMPING_OFF,M,no
+Paddy,Kaveri 468,das,3,1,STEM_BORER,H,yes
+Paddy,Kaveri 468,das,3,2,LEAF_FOLDER,H,yes
+Paddy,Kaveri 468,das,3,3,BLAST,H,yes
+Paddy,Kaveri 468,das,3,4,BPH,H,yes
+Paddy,Kaveri 468,das,3,5,BLB,H,yes
+Paddy,Kaveri 468,das,3,6,SHEATH_BLIGHT,H,yes
+Paddy,Kaveri 468,das,3,7,WEEDS,H,no
+Paddy,Kaveri 468,das,3,8,RICE_HISPA,M,yes
+Paddy,Kaveri 468,das,3,9,NUTRIENT_DEF,M,yes
+Paddy,Kaveri 468,das,3,10,SOIL_BORNE,M,yes
+Paddy,Kaveri 468,das,4,1,STEM_BORER,H,no
+Paddy,Kaveri 468,das,4,2,LEAF_FOLDER,H,no
+Paddy,Kaveri 468,das,4,3,BPH,H,no
+Paddy,Kaveri 468,das,4,4,BLB,H,no
+Paddy,Kaveri 468,das,4,5,SHEATH_BLIGHT,H,no
+Paddy,Kaveri 468,das,4,6,BLAST,H,no
+Paddy,Kaveri 468,das,4,7,WEEDS,H,no
+Paddy,Kaveri 468,das,4,8,GUNDHI_BUG,M,yes
+Paddy,Kaveri 468,das,4,9,RICE_HISPA,M,no
+Paddy,Kaveri 468,das,4,10,NUTRIENT_DEF,M,no
+Paddy,Kaveri 468,das,5,1,NECK_BLAST,H,yes
+Paddy,Kaveri 468,das,5,2,STEM_BORER,H,no
+Paddy,Kaveri 468,das,5,3,BPH,H,no
+Paddy,Kaveri 468,das,5,4,LEAF_FOLDER,H,no
+Paddy,Kaveri 468,das,5,5,BLB,H,no
+Paddy,Kaveri 468,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Kaveri 468,das,5,7,FALSE_SMUT,M,yes
+Paddy,Kaveri 468,das,6,1,NECK_BLAST,H,no
+Paddy,Kaveri 468,das,6,2,FALSE_SMUT,M,no
+Paddy,MP-3030,das,1,1,DAMPING_OFF,M,yes
+Paddy,MP-3030,das,1,2,BAKANAE,M,yes
+Paddy,MP-3030,das,2,1,WEEDS,H,yes
+Paddy,MP-3030,das,2,2,SOIL_BORNE,M,yes
+Paddy,MP-3030,das,2,3,TERMITE,M,yes
+Paddy,MP-3030,das,3,1,STEM_BORER,H,yes
+Paddy,MP-3030,das,3,2,LEAF_FOLDER,H,yes
+Paddy,MP-3030,das,3,3,BPH,H,yes
+Paddy,MP-3030,das,3,4,BLB,H,yes
+Paddy,MP-3030,das,3,5,SHEATH_BLIGHT,H,yes
+Paddy,MP-3030,das,3,6,BLAST,H,yes
+Paddy,MP-3030,das,3,7,WEEDS,H,no
+Paddy,MP-3030,das,3,8,RICE_HISPA,M,yes
+Paddy,MP-3030,das,3,9,NUTRIENT_DEF,M,yes
+Paddy,MP-3030,das,3,10,SHEATH_ROT,M,yes
+Paddy,MP-3030,das,4,1,BLB,H,no
+Paddy,MP-3030,das,4,2,SHEATH_BLIGHT,H,no
+Paddy,MP-3030,das,4,3,STEM_BORER,H,no
+Paddy,MP-3030,das,4,4,LEAF_FOLDER,H,no
+Paddy,MP-3030,das,4,5,BPH,H,no
+Paddy,MP-3030,das,4,6,BLAST,H,no
+Paddy,MP-3030,das,4,7,WEEDS,H,no
+Paddy,MP-3030,das,4,8,GUNDHI_BUG,M,yes
+Paddy,MP-3030,das,4,9,RICE_HISPA,M,no
+Paddy,MP-3030,das,4,10,NUTRIENT_DEF,M,no
+Paddy,MP-3030,das,5,1,NECK_BLAST,H,yes
+Paddy,MP-3030,das,5,2,STEM_BORER,H,no
+Paddy,MP-3030,das,5,3,SHEATH_BLIGHT,H,no
+Paddy,MP-3030,das,5,4,LEAF_FOLDER,H,no
+Paddy,MP-3030,das,5,5,BPH,H,no
+Paddy,MP-3030,das,5,6,BLB,H,no
+Paddy,MP-3030,das,5,7,FALSE_SMUT,M,yes
+Paddy,MP-3030,das,6,1,NECK_BLAST,H,no
+Paddy,MP-3030,das,6,2,STEM_BORER,H,no
+Paddy,MP-3030,das,6,3,BPH,H,no
+Paddy,MP-3030,das,6,4,SHEATH_BLIGHT,H,no
+Paddy,MP-3030,das,6,5,GUNDHI_BUG,M,yes
+Paddy,MP-3030,das,6,6,FALSE_SMUT,M,no
+Paddy,MPR-606,das,1,1,BAKANAE,M,yes
+Paddy,MPR-606,das,1,2,DAMPING_OFF,M,yes
+Paddy,MPR-606,das,2,1,WEEDS,H,yes
+Paddy,MPR-606,das,3,1,STEM_BORER,H,yes
+Paddy,MPR-606,das,3,2,LEAF_FOLDER,H,yes
+Paddy,MPR-606,das,3,3,BPH,H,yes
+Paddy,MPR-606,das,3,4,BLB,H,yes
+Paddy,MPR-606,das,3,5,SHEATH_BLIGHT,H,yes
+Paddy,MPR-606,das,3,6,BLAST,H,yes
+Paddy,MPR-606,das,3,7,WEEDS,H,no
+Paddy,MPR-606,das,3,8,RICE_HISPA,M,yes
+Paddy,MPR-606,das,3,9,NUTRIENT_DEF,M,yes
+Paddy,MPR-606,das,4,1,STEM_BORER,H,no
+Paddy,MPR-606,das,4,2,LEAF_FOLDER,H,no
+Paddy,MPR-606,das,4,3,BPH,H,no
+Paddy,MPR-606,das,4,4,BLB,H,no
+Paddy,MPR-606,das,4,5,SHEATH_BLIGHT,H,no
+Paddy,MPR-606,das,4,6,BLAST,H,no
+Paddy,MPR-606,das,4,7,WEEDS,H,no
+Paddy,MPR-606,das,4,8,RICE_HISPA,M,no
+Paddy,MPR-606,das,4,9,NUTRIENT_DEF,M,no
+Paddy,MPR-606,das,5,1,NECK_BLAST,H,yes
+Paddy,MPR-606,das,5,2,STEM_BORER,H,no
+Paddy,MPR-606,das,5,3,LEAF_FOLDER,H,no
+Paddy,MPR-606,das,5,4,BPH,H,no
+Paddy,MPR-606,das,5,5,BLB,H,no
+Paddy,MPR-606,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,MPR-606,das,5,7,FALSE_SMUT,M,yes
+Paddy,MPR-606,das,6,1,STEM_BORER,H,no
+Paddy,MPR-606,das,6,2,BPH,H,no
+Paddy,MPR-606,das,6,3,SHEATH_BLIGHT,H,no
+Paddy,MPR-606,das,6,4,NECK_BLAST,H,no
+Paddy,MPR-606,das,6,5,GUNDHI_BUG,M,yes
+Paddy,MPR-606,das,6,6,FALSE_SMUT,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,1,1,DAMPING_OFF,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,1,2,BAKANAE,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,2,1,WEEDS,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,2,2,TERMITE,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,2,3,SOIL_BORNE,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,3,1,STEM_BORER,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,3,2,BLAST,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,3,3,WEEDS,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,3,4,RICE_HISPA,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,3,5,NUTRIENT_DEF,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,3,6,SOIL_BORNE,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,4,1,LEAF_FOLDER,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,4,2,SHEATH_BLIGHT,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,4,3,BPH,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,4,4,BLB,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,4,5,STEM_BORER,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,4,6,BLAST,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,4,7,WEEDS,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,4,8,RICE_HISPA,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,4,9,NUTRIENT_DEF,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,1,STEM_BORER,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,2,LEAF_FOLDER,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,3,BPH,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,4,SHEATH_BLIGHT,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,5,BLAST,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,6,BLB,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,7,WEEDS,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,8,RICE_HISPA,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,5,9,NUTRIENT_DEF,M,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,1,NECK_BLAST,H,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,6,2,STEM_BORER,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,3,LEAF_FOLDER,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,4,BPH,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,5,BLB,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,6,SHEATH_BLIGHT,H,no
+Paddy,MTU-7029 ( Lal Swarna ),das,6,7,FALSE_SMUT,M,yes
+Paddy,MTU-7029 ( Lal Swarna ),das,6,8,GUNDHI_BUG,M,yes
+Paddy,Moti Gold Paddy,das,1,1,DAMPING_OFF,M,yes
+Paddy,Moti Gold Paddy,das,1,2,BAKANAE,M,yes
+Paddy,Moti Gold Paddy,das,2,1,WEEDS,H,yes
+Paddy,Moti Gold Paddy,das,2,2,TERMITE,M,yes
+Paddy,Moti Gold Paddy,das,3,1,STEM_BORER,H,yes
+Paddy,Moti Gold Paddy,das,3,2,BLAST,H,yes
+Paddy,Moti Gold Paddy,das,3,3,WEEDS,H,no
+Paddy,Moti Gold Paddy,das,3,4,RICE_HISPA,M,yes
+Paddy,Moti Gold Paddy,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Moti Gold Paddy,das,3,6,SOIL_BORNE,M,yes
+Paddy,Moti Gold Paddy,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Moti Gold Paddy,das,4,2,BLB,H,yes
+Paddy,Moti Gold Paddy,das,4,3,BPH,H,yes
+Paddy,Moti Gold Paddy,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Moti Gold Paddy,das,4,5,STEM_BORER,H,no
+Paddy,Moti Gold Paddy,das,4,6,BLAST,H,no
+Paddy,Moti Gold Paddy,das,4,7,WEEDS,H,no
+Paddy,Moti Gold Paddy,das,4,8,RICE_HISPA,M,no
+Paddy,Moti Gold Paddy,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Moti Gold Paddy,das,5,1,STEM_BORER,H,no
+Paddy,Moti Gold Paddy,das,5,2,LEAF_FOLDER,H,no
+Paddy,Moti Gold Paddy,das,5,3,BLB,H,no
+Paddy,Moti Gold Paddy,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,Moti Gold Paddy,das,5,5,BPH,H,no
+Paddy,Moti Gold Paddy,das,5,6,BLAST,H,no
+Paddy,Moti Gold Paddy,das,5,7,WEEDS,H,no
+Paddy,Moti Gold Paddy,das,5,8,RICE_HISPA,M,no
+Paddy,Moti Gold Paddy,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Moti Gold Paddy,das,6,1,NECK_BLAST,H,yes
+Paddy,Moti Gold Paddy,das,6,2,BPH,H,no
+Paddy,Moti Gold Paddy,das,6,3,SHEATH_BLIGHT,H,no
+Paddy,Moti Gold Paddy,das,6,4,STEM_BORER,H,no
+Paddy,Moti Gold Paddy,das,6,5,LEAF_FOLDER,H,no
+Paddy,Moti Gold Paddy,das,6,6,BLB,H,no
+Paddy,Moti Gold Paddy,das,6,7,FALSE_SMUT,M,yes
+Paddy,Moti Gold Paddy,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Moti Gold Paddy,das,7,1,NECK_BLAST,H,no
+Paddy,Moti Gold Paddy,das,7,2,STEM_BORER,H,no
+Paddy,Moti Gold Paddy,das,7,3,BPH,H,no
+Paddy,Moti Gold Paddy,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Moti Gold Paddy,das,7,5,FALSE_SMUT,M,no
+Paddy,Moti Gold Paddy,das,7,6,GUNDHI_BUG,M,no
+Paddy,Nuziveedu Sampada,das,1,1,DAMPING_OFF,M,yes
+Paddy,Nuziveedu Sampada,das,1,2,BAKANAE,M,yes
+Paddy,Nuziveedu Sampada,das,2,1,WEEDS,H,yes
+Paddy,Nuziveedu Sampada,das,2,2,SOIL_BORNE,M,yes
+Paddy,Nuziveedu Sampada,das,2,3,TERMITE,M,yes
+Paddy,Nuziveedu Sampada,das,2,4,DAMPING_OFF,M,no
+Paddy,Nuziveedu Sampada,das,3,1,STEM_BORER,H,yes
+Paddy,Nuziveedu Sampada,das,3,2,BLAST,H,yes
+Paddy,Nuziveedu Sampada,das,3,3,WEEDS,H,no
+Paddy,Nuziveedu Sampada,das,3,4,RICE_HISPA,M,yes
+Paddy,Nuziveedu Sampada,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Nuziveedu Sampada,das,3,6,TERMITE,M,no
+Paddy,Nuziveedu Sampada,das,3,7,DAMPING_OFF,M,no
+Paddy,Nuziveedu Sampada,das,3,8,SOIL_BORNE,M,no
+Paddy,Nuziveedu Sampada,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Nuziveedu Sampada,das,4,2,BLB,H,yes
+Paddy,Nuziveedu Sampada,das,4,3,BPH,H,yes
+Paddy,Nuziveedu Sampada,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Nuziveedu Sampada,das,4,5,STEM_BORER,H,no
+Paddy,Nuziveedu Sampada,das,4,6,BLAST,H,no
+Paddy,Nuziveedu Sampada,das,4,7,WEEDS,H,no
+Paddy,Nuziveedu Sampada,das,4,8,RICE_HISPA,M,no
+Paddy,Nuziveedu Sampada,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Nuziveedu Sampada,das,5,1,STEM_BORER,H,no
+Paddy,Nuziveedu Sampada,das,5,2,LEAF_FOLDER,H,no
+Paddy,Nuziveedu Sampada,das,5,3,BPH,H,no
+Paddy,Nuziveedu Sampada,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,Nuziveedu Sampada,das,5,5,BLB,H,no
+Paddy,Nuziveedu Sampada,das,5,6,BLAST,H,no
+Paddy,Nuziveedu Sampada,das,5,7,WEEDS,H,no
+Paddy,Nuziveedu Sampada,das,5,8,RICE_HISPA,M,no
+Paddy,Nuziveedu Sampada,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Nuziveedu Sampada,das,6,1,NECK_BLAST,H,yes
+Paddy,Nuziveedu Sampada,das,6,2,STEM_BORER,H,no
+Paddy,Nuziveedu Sampada,das,6,3,BPH,H,no
+Paddy,Nuziveedu Sampada,das,6,4,BLB,H,no
+Paddy,Nuziveedu Sampada,das,6,5,LEAF_FOLDER,H,no
+Paddy,Nuziveedu Sampada,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Nuziveedu Sampada,das,6,7,FALSE_SMUT,M,yes
+Paddy,Nuziveedu Sampada,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Nuziveedu Sampada,das,7,1,NECK_BLAST,H,no
+Paddy,Nuziveedu Sampada,das,7,2,STEM_BORER,H,no
+Paddy,Nuziveedu Sampada,das,7,3,BPH,H,no
+Paddy,Nuziveedu Sampada,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Nuziveedu Sampada,das,7,5,FALSE_SMUT,M,no
+Paddy,Nuziveedu Sampada,das,7,6,GUNDHI_BUG,M,no
+Paddy,PAN 804 Jamuna,das,1,1,DAMPING_OFF,M,yes
+Paddy,PAN 804 Jamuna,das,1,2,BAKANAE,M,yes
+Paddy,PAN 804 Jamuna,das,2,1,WEEDS,H,yes
+Paddy,PAN 804 Jamuna,das,2,2,TERMITE,M,yes
+Paddy,PAN 804 Jamuna,das,3,1,STEM_BORER,H,yes
+Paddy,PAN 804 Jamuna,das,3,2,BLAST,H,yes
+Paddy,PAN 804 Jamuna,das,3,3,WEEDS,H,no
+Paddy,PAN 804 Jamuna,das,3,4,RICE_HISPA,M,yes
+Paddy,PAN 804 Jamuna,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,PAN 804 Jamuna,das,4,1,LEAF_FOLDER,H,yes
+Paddy,PAN 804 Jamuna,das,4,2,BPH,H,yes
+Paddy,PAN 804 Jamuna,das,4,3,BLB,H,yes
+Paddy,PAN 804 Jamuna,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,PAN 804 Jamuna,das,4,5,STEM_BORER,H,no
+Paddy,PAN 804 Jamuna,das,4,6,BLAST,H,no
+Paddy,PAN 804 Jamuna,das,4,7,WEEDS,H,no
+Paddy,PAN 804 Jamuna,das,4,8,RICE_HISPA,M,no
+Paddy,PAN 804 Jamuna,das,4,9,NUTRIENT_DEF,M,no
+Paddy,PAN 804 Jamuna,das,5,1,STEM_BORER,H,no
+Paddy,PAN 804 Jamuna,das,5,2,LEAF_FOLDER,H,no
+Paddy,PAN 804 Jamuna,das,5,3,BPH,H,no
+Paddy,PAN 804 Jamuna,das,5,4,BLB,H,no
+Paddy,PAN 804 Jamuna,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,PAN 804 Jamuna,das,5,6,BLAST,H,no
+Paddy,PAN 804 Jamuna,das,5,7,WEEDS,H,no
+Paddy,PAN 804 Jamuna,das,5,8,RICE_HISPA,M,no
+Paddy,PAN 804 Jamuna,das,5,9,NUTRIENT_DEF,M,no
+Paddy,PAN 804 Jamuna,das,6,1,NECK_BLAST,H,yes
+Paddy,PAN 804 Jamuna,das,6,2,STEM_BORER,H,no
+Paddy,PAN 804 Jamuna,das,6,3,LEAF_FOLDER,H,no
+Paddy,PAN 804 Jamuna,das,6,4,BPH,H,no
+Paddy,PAN 804 Jamuna,das,6,5,BLB,H,no
+Paddy,PAN 804 Jamuna,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,PAN 804 Jamuna,das,6,7,FALSE_SMUT,M,yes
+Paddy,PB - 1509,das,1,1,DAMPING_OFF,M,yes
+Paddy,PB - 1509,das,1,2,BAKANAE,M,yes
+Paddy,PB - 1509,das,2,1,WEEDS,H,yes
+Paddy,PB - 1509,das,2,2,SOIL_BORNE,M,yes
+Paddy,PB - 1509,das,3,1,STEM_BORER,H,yes
+Paddy,PB - 1509,das,3,2,BLAST,H,yes
+Paddy,PB - 1509,das,3,3,WEEDS,H,no
+Paddy,PB - 1509,das,3,4,RICE_HISPA,M,yes
+Paddy,PB - 1509,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,PB - 1509,das,3,6,TERMITE,M,yes
+Paddy,PB - 1509,das,4,1,LEAF_FOLDER,H,yes
+Paddy,PB - 1509,das,4,2,BPH,H,yes
+Paddy,PB - 1509,das,4,3,BLB,H,yes
+Paddy,PB - 1509,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,PB - 1509,das,4,5,STEM_BORER,H,no
+Paddy,PB - 1509,das,4,6,BLAST,H,no
+Paddy,PB - 1509,das,4,7,WEEDS,H,no
+Paddy,PB - 1509,das,4,8,RICE_HISPA,M,no
+Paddy,PB - 1509,das,4,9,NUTRIENT_DEF,M,no
+Paddy,PB - 1509,das,5,1,STEM_BORER,H,no
+Paddy,PB - 1509,das,5,2,LEAF_FOLDER,H,no
+Paddy,PB - 1509,das,5,3,BPH,H,no
+Paddy,PB - 1509,das,5,4,BLB,H,no
+Paddy,PB - 1509,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,PB - 1509,das,5,6,BLAST,H,no
+Paddy,PB - 1509,das,5,7,WEEDS,H,no
+Paddy,PB - 1509,das,5,8,RICE_HISPA,M,no
+Paddy,PB - 1509,das,5,9,NUTRIENT_DEF,M,no
+Paddy,PB - 1509,das,6,1,NECK_BLAST,H,yes
+Paddy,PB - 1509,das,6,2,BPH,H,no
+Paddy,PB - 1509,das,6,3,SHEATH_BLIGHT,H,no
+Paddy,PB - 1509,das,6,4,STEM_BORER,H,no
+Paddy,PB - 1509,das,6,5,LEAF_FOLDER,H,no
+Paddy,PB - 1509,das,6,6,BLB,H,no
+Paddy,PB - 1509,das,6,7,BLAST,H,no
+Paddy,PB - 1509,das,6,8,FALSE_SMUT,M,yes
+Paddy,PB - 1509,das,7,1,NECK_BLAST,H,no
+Paddy,PB - 1509,das,7,2,FALSE_SMUT,M,no
+Paddy,PB - 1718,das,1,1,DAMPING_OFF,M,yes
+Paddy,PB - 1718,das,1,2,BAKANAE,M,yes
+Paddy,PB - 1718,das,2,1,WEEDS,H,yes
+Paddy,PB - 1718,das,2,2,SOIL_BORNE,M,yes
+Paddy,PB - 1718,das,3,1,STEM_BORER,H,yes
+Paddy,PB - 1718,das,3,2,LEAF_FOLDER,H,yes
+Paddy,PB - 1718,das,3,3,BPH,H,yes
+Paddy,PB - 1718,das,3,4,BLB,H,yes
+Paddy,PB - 1718,das,3,5,SHEATH_BLIGHT,H,yes
+Paddy,PB - 1718,das,3,6,BLAST,H,yes
+Paddy,PB - 1718,das,3,7,WEEDS,H,no
+Paddy,PB - 1718,das,3,8,RICE_HISPA,M,yes
+Paddy,PB - 1718,das,3,9,NUTRIENT_DEF,M,yes
+Paddy,PB - 1718,das,3,10,SOIL_BORNE,M,no
+Paddy,PB - 1718,das,4,1,STEM_BORER,H,no
+Paddy,PB - 1718,das,4,2,LEAF_FOLDER,H,no
+Paddy,PB - 1718,das,4,3,BPH,H,no
+Paddy,PB - 1718,das,4,4,BLB,H,no
+Paddy,PB - 1718,das,4,5,SHEATH_BLIGHT,H,no
+Paddy,PB - 1718,das,4,6,BLAST,H,no
+Paddy,PB - 1718,das,4,7,WEEDS,H,no
+Paddy,PB - 1718,das,4,8,CUTWORM,M,yes
+Paddy,PB - 1718,das,4,9,LEAF_BLIGHT,M,yes
+Paddy,PB - 1718,das,4,10,RICE_HISPA,M,no
+Paddy,PB - 1718,das,4,11,NUTRIENT_DEF,M,no
+Paddy,PB - 1718,das,5,1,NECK_BLAST,H,yes
+Paddy,PB - 1718,das,5,2,STEM_BORER,H,no
+Paddy,PB - 1718,das,5,3,BPH,H,no
+Paddy,PB - 1718,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,PB - 1718,das,5,5,LEAF_FOLDER,H,no
+Paddy,PB - 1718,das,5,6,BLB,H,no
+Paddy,PB - 1718,das,5,7,FALSE_SMUT,M,yes
+Paddy,PB - 1718,das,6,1,SHEATH_BLIGHT,H,no
+Paddy,PB - 1718,das,6,2,STEM_BORER,H,no
+Paddy,PB - 1718,das,6,3,BPH,H,no
+Paddy,PB - 1718,das,6,4,NECK_BLAST,H,no
+Paddy,PB - 1718,das,6,5,GUNDHI_BUG,M,yes
+Paddy,PB - 1718,das,6,6,DIEBACK,M,yes
+Paddy,PB - 1718,das,6,7,FALSE_SMUT,M,no
+Paddy,PB-1692,das,1,1,DAMPING_OFF,M,yes
+Paddy,PB-1692,das,1,2,BAKANAE,M,yes
+Paddy,PB-1692,das,2,1,WEEDS,H,yes
+Paddy,PB-1692,das,2,2,DAMPING_OFF,M,no
+Paddy,PB-1692,das,3,1,STEM_BORER,H,yes
+Paddy,PB-1692,das,3,2,BLAST,H,yes
+Paddy,PB-1692,das,3,3,WEEDS,H,no
+Paddy,PB-1692,das,3,4,RICE_HISPA,M,yes
+Paddy,PB-1692,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,PB-1692,das,3,6,SOIL_BORNE,M,yes
+Paddy,PB-1692,das,3,7,TERMITE,M,yes
+Paddy,PB-1692,das,4,1,LEAF_FOLDER,H,yes
+Paddy,PB-1692,das,4,2,BPH,H,yes
+Paddy,PB-1692,das,4,3,BLB,H,yes
+Paddy,PB-1692,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,PB-1692,das,4,5,STEM_BORER,H,no
+Paddy,PB-1692,das,4,6,BLAST,H,no
+Paddy,PB-1692,das,4,7,WEEDS,H,no
+Paddy,PB-1692,das,4,8,RICE_HISPA,M,no
+Paddy,PB-1692,das,4,9,NUTRIENT_DEF,M,no
+Paddy,PB-1692,das,5,1,STEM_BORER,H,no
+Paddy,PB-1692,das,5,2,LEAF_FOLDER,H,no
+Paddy,PB-1692,das,5,3,BPH,H,no
+Paddy,PB-1692,das,5,4,BLB,H,no
+Paddy,PB-1692,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,PB-1692,das,5,6,BLAST,H,no
+Paddy,PB-1692,das,5,7,WEEDS,H,no
+Paddy,PB-1692,das,5,8,RICE_HISPA,M,no
+Paddy,PB-1692,das,5,9,NUTRIENT_DEF,M,no
+Paddy,PB-1692,das,6,1,NECK_BLAST,H,yes
+Paddy,PB-1692,das,6,2,STEM_BORER,H,no
+Paddy,PB-1692,das,6,3,LEAF_FOLDER,H,no
+Paddy,PB-1692,das,6,4,BLB,H,no
+Paddy,PB-1692,das,6,5,BPH,H,no
+Paddy,PB-1692,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,PB-1692,das,6,7,FALSE_SMUT,M,yes
+Paddy,PB-1692,das,6,8,GUNDHI_BUG,M,yes
+Paddy,PB-1692,das,7,1,NECK_BLAST,H,no
+Paddy,PB-1692,das,7,2,FALSE_SMUT,M,no
+Paddy,PR 2626,das,1,1,DAMPING_OFF,M,yes
+Paddy,PR 2626,das,1,2,BAKANAE,M,yes
+Paddy,PR 2626,das,2,1,WEEDS,H,yes
+Paddy,PR 2626,das,2,2,TERMITE,M,yes
+Paddy,PR 2626,das,2,3,ROOT_ROT,M,yes
+Paddy,PR 2626,das,3,1,STEM_BORER,H,yes
+Paddy,PR 2626,das,3,2,BLAST,H,yes
+Paddy,PR 2626,das,3,3,WEEDS,H,no
+Paddy,PR 2626,das,3,4,RICE_HISPA,M,yes
+Paddy,PR 2626,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,PR 2626,das,3,6,SOIL_BORNE,M,yes
+Paddy,PR 2626,das,4,1,LEAF_FOLDER,H,yes
+Paddy,PR 2626,das,4,2,BPH,H,yes
+Paddy,PR 2626,das,4,3,BLB,H,yes
+Paddy,PR 2626,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,PR 2626,das,4,5,STEM_BORER,H,no
+Paddy,PR 2626,das,4,6,BLAST,H,no
+Paddy,PR 2626,das,4,7,WEEDS,H,no
+Paddy,PR 2626,das,4,8,RICE_HISPA,M,no
+Paddy,PR 2626,das,4,9,NUTRIENT_DEF,M,no
+Paddy,PR 2626,das,5,1,BLAST,H,no
+Paddy,PR 2626,das,5,2,STEM_BORER,H,no
+Paddy,PR 2626,das,5,3,LEAF_FOLDER,H,no
+Paddy,PR 2626,das,5,4,BPH,H,no
+Paddy,PR 2626,das,5,5,BLB,H,no
+Paddy,PR 2626,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,PR 2626,das,5,7,WEEDS,H,no
+Paddy,PR 2626,das,5,8,RICE_HISPA,M,no
+Paddy,PR 2626,das,5,9,NUTRIENT_DEF,M,no
+Paddy,PR 2626,das,6,1,NECK_BLAST,H,yes
+Paddy,PR 2626,das,6,2,STEM_BORER,H,no
+Paddy,PR 2626,das,6,3,LEAF_FOLDER,H,no
+Paddy,PR 2626,das,6,4,BPH,H,no
+Paddy,PR 2626,das,6,5,BLB,H,no
+Paddy,PR 2626,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,PR 2626,das,6,7,FALSE_SMUT,M,yes
+Paddy,PR 2626,das,6,8,GUNDHI_BUG,M,yes
+Paddy,PR 2626,das,7,1,NECK_BLAST,H,no
+Paddy,PR 2626,das,7,2,STEM_BORER,H,no
+Paddy,PR 2626,das,7,3,BPH,H,no
+Paddy,PR 2626,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,PR 2626,das,7,5,FALSE_SMUT,M,no
+Paddy,PR 2626,das,7,6,GUNDHI_BUG,M,no
+Paddy,Pioneer 27P37,das,1,1,DAMPING_OFF,M,yes
+Paddy,Pioneer 27P37,das,1,2,BAKANAE,M,yes
+Paddy,Pioneer 27P37,das,2,1,WEEDS,H,yes
+Paddy,Pioneer 27P37,das,2,2,SOIL_BORNE,M,yes
+Paddy,Pioneer 27P37,das,3,1,STEM_BORER,H,yes
+Paddy,Pioneer 27P37,das,3,2,LEAF_FOLDER,H,yes
+Paddy,Pioneer 27P37,das,3,3,BPH,H,yes
+Paddy,Pioneer 27P37,das,3,4,BLB,H,yes
+Paddy,Pioneer 27P37,das,3,5,SHEATH_BLIGHT,H,yes
+Paddy,Pioneer 27P37,das,3,6,BLAST,H,yes
+Paddy,Pioneer 27P37,das,3,7,WEEDS,H,no
+Paddy,Pioneer 27P37,das,3,8,RICE_HISPA,M,yes
+Paddy,Pioneer 27P37,das,3,9,NUTRIENT_DEF,M,yes
+Paddy,Pioneer 27P37,das,4,1,STEM_BORER,H,no
+Paddy,Pioneer 27P37,das,4,2,BLAST,H,no
+Paddy,Pioneer 27P37,das,4,3,LEAF_FOLDER,H,no
+Paddy,Pioneer 27P37,das,4,4,BPH,H,no
+Paddy,Pioneer 27P37,das,4,5,BLB,H,no
+Paddy,Pioneer 27P37,das,4,6,SHEATH_BLIGHT,H,no
+Paddy,Pioneer 27P37,das,4,7,WEEDS,H,no
+Paddy,Pioneer 27P37,das,4,8,GUNDHI_BUG,M,yes
+Paddy,Pioneer 27P37,das,4,9,RICE_HISPA,M,no
+Paddy,Pioneer 27P37,das,4,10,NUTRIENT_DEF,M,no
+Paddy,Pioneer 27P37,das,5,1,NECK_BLAST,H,yes
+Paddy,Pioneer 27P37,das,5,2,STEM_BORER,H,no
+Paddy,Pioneer 27P37,das,5,3,LEAF_FOLDER,H,no
+Paddy,Pioneer 27P37,das,5,4,BPH,H,no
+Paddy,Pioneer 27P37,das,5,5,BLB,H,no
+Paddy,Pioneer 27P37,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Pioneer 27P37,das,5,7,FALSE_SMUT,M,yes
+Paddy,Pioneer 27P37,das,6,1,NECK_BLAST,H,no
+Paddy,Pioneer 27P37,das,6,2,FALSE_SMUT,M,no
+Paddy,Pioneer 28P68,das,1,1,DAMPING_OFF,M,yes
+Paddy,Pioneer 28P68,das,1,2,BAKANAE,M,yes
+Paddy,Pioneer 28P68,das,2,1,WEEDS,H,yes
+Paddy,Pioneer 28P68,das,2,2,SOIL_BORNE,M,yes
+Paddy,Pioneer 28P68,das,2,3,TERMITE,M,yes
+Paddy,Pioneer 28P68,das,3,1,STEM_BORER,H,yes
+Paddy,Pioneer 28P68,das,3,2,BLAST,H,yes
+Paddy,Pioneer 28P68,das,3,3,WEEDS,H,no
+Paddy,Pioneer 28P68,das,3,4,RICE_HISPA,M,yes
+Paddy,Pioneer 28P68,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Pioneer 28P68,das,3,6,SOIL_BORNE,M,no
+Paddy,Pioneer 28P68,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Pioneer 28P68,das,4,2,BLB,H,yes
+Paddy,Pioneer 28P68,das,4,3,BPH,H,yes
+Paddy,Pioneer 28P68,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Pioneer 28P68,das,4,5,STEM_BORER,H,no
+Paddy,Pioneer 28P68,das,4,6,BLAST,H,no
+Paddy,Pioneer 28P68,das,4,7,WEEDS,H,no
+Paddy,Pioneer 28P68,das,4,8,RICE_HISPA,M,no
+Paddy,Pioneer 28P68,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Pioneer 28P68,das,5,1,STEM_BORER,H,no
+Paddy,Pioneer 28P68,das,5,2,LEAF_FOLDER,H,no
+Paddy,Pioneer 28P68,das,5,3,BPH,H,no
+Paddy,Pioneer 28P68,das,5,4,BLB,H,no
+Paddy,Pioneer 28P68,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Pioneer 28P68,das,5,6,BLAST,H,no
+Paddy,Pioneer 28P68,das,5,7,WEEDS,H,no
+Paddy,Pioneer 28P68,das,5,8,RICE_HISPA,M,no
+Paddy,Pioneer 28P68,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Pioneer 28P68,das,6,1,NECK_BLAST,H,yes
+Paddy,Pioneer 28P68,das,6,2,STEM_BORER,H,no
+Paddy,Pioneer 28P68,das,6,3,LEAF_FOLDER,H,no
+Paddy,Pioneer 28P68,das,6,4,BPH,H,no
+Paddy,Pioneer 28P68,das,6,5,BLB,H,no
+Paddy,Pioneer 28P68,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Pioneer 28P68,das,6,7,FALSE_SMUT,M,yes
+Paddy,Pioneer 28P68,das,7,1,NECK_BLAST,H,no
+Paddy,Pioneer 28P68,das,7,2,STEM_BORER,H,no
+Paddy,Pioneer 28P68,das,7,3,BPH,H,no
+Paddy,Pioneer 28P68,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Pioneer 28P68,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Pioneer 28P68,das,7,6,FALSE_SMUT,M,no
+Paddy,Sambha Mansoori BPT 5204,das,1,1,DAMPING_OFF,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,1,2,BAKANAE,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,2,1,WEEDS,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,2,2,TERMITE,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,2,3,SOIL_BORNE,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,3,1,STEM_BORER,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,3,2,BLAST,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,3,3,LEAF_FOLDER,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,3,4,WEEDS,H,no
+Paddy,Sambha Mansoori BPT 5204,das,3,5,RICE_HISPA,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,3,6,NUTRIENT_DEF,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,4,1,BPH,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,4,2,BLB,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,4,3,SHEATH_BLIGHT,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,4,4,STEM_BORER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,4,5,LEAF_FOLDER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,4,6,BLAST,H,no
+Paddy,Sambha Mansoori BPT 5204,das,4,7,WEEDS,H,no
+Paddy,Sambha Mansoori BPT 5204,das,4,8,RICE_HISPA,M,no
+Paddy,Sambha Mansoori BPT 5204,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Sambha Mansoori BPT 5204,das,5,1,STEM_BORER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,2,LEAF_FOLDER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,3,BLB,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,4,SHEATH_BLIGHT,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,5,BLAST,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,6,BPH,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,7,WEEDS,H,no
+Paddy,Sambha Mansoori BPT 5204,das,5,8,RICE_HISPA,M,no
+Paddy,Sambha Mansoori BPT 5204,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Sambha Mansoori BPT 5204,das,6,1,NECK_BLAST,H,yes
+Paddy,Sambha Mansoori BPT 5204,das,6,2,STEM_BORER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,6,3,BPH,H,no
+Paddy,Sambha Mansoori BPT 5204,das,6,4,BLB,H,no
+Paddy,Sambha Mansoori BPT 5204,das,6,5,SHEATH_BLIGHT,H,no
+Paddy,Sambha Mansoori BPT 5204,das,6,6,LEAF_FOLDER,H,no
+Paddy,Sambha Mansoori BPT 5204,das,6,7,FALSE_SMUT,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Sambha Mansoori BPT 5204,das,7,1,NECK_BLAST,H,no
+Paddy,Sambha Mansoori BPT 5204,das,7,2,BPH,H,no
+Paddy,Sambha Mansoori BPT 5204,das,7,3,GUNDHI_BUG,M,no
+Paddy,Samridhi Hybrid,das,1,1,BAKANAE,M,yes
+Paddy,Samridhi Hybrid,das,1,2,DAMPING_OFF,M,yes
+Paddy,Samridhi Hybrid,das,2,1,WEEDS,H,yes
+Paddy,Samridhi Hybrid,das,3,1,STEM_BORER,H,yes
+Paddy,Samridhi Hybrid,das,3,2,BLAST,H,yes
+Paddy,Samridhi Hybrid,das,3,3,WEEDS,H,no
+Paddy,Samridhi Hybrid,das,3,4,RICE_HISPA,M,yes
+Paddy,Samridhi Hybrid,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Samridhi Hybrid,das,3,6,SOIL_BORNE,M,yes
+Paddy,Samridhi Hybrid,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Samridhi Hybrid,das,4,2,BPH,H,yes
+Paddy,Samridhi Hybrid,das,4,3,BLB,H,yes
+Paddy,Samridhi Hybrid,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Samridhi Hybrid,das,4,5,STEM_BORER,H,no
+Paddy,Samridhi Hybrid,das,4,6,BLAST,H,no
+Paddy,Samridhi Hybrid,das,4,7,WEEDS,H,no
+Paddy,Samridhi Hybrid,das,4,8,RICE_HISPA,M,no
+Paddy,Samridhi Hybrid,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Samridhi Hybrid,das,5,1,STEM_BORER,H,no
+Paddy,Samridhi Hybrid,das,5,2,LEAF_FOLDER,H,no
+Paddy,Samridhi Hybrid,das,5,3,BPH,H,no
+Paddy,Samridhi Hybrid,das,5,4,BLB,H,no
+Paddy,Samridhi Hybrid,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Samridhi Hybrid,das,5,6,BLAST,H,no
+Paddy,Samridhi Hybrid,das,5,7,WEEDS,H,no
+Paddy,Samridhi Hybrid,das,5,8,RICE_HISPA,M,no
+Paddy,Samridhi Hybrid,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Samridhi Hybrid,das,6,1,NECK_BLAST,H,yes
+Paddy,Samridhi Hybrid,das,6,2,BPH,H,no
+Paddy,Samridhi Hybrid,das,6,3,SHEATH_BLIGHT,H,no
+Paddy,Samridhi Hybrid,das,6,4,STEM_BORER,H,no
+Paddy,Samridhi Hybrid,das,6,5,LEAF_FOLDER,H,no
+Paddy,Samridhi Hybrid,das,6,6,BLB,H,no
+Paddy,Samridhi Hybrid,das,6,7,FALSE_SMUT,M,yes
+Paddy,Samridhi Hybrid,das,7,1,STEM_BORER,H,no
+Paddy,Samridhi Hybrid,das,7,2,BPH,H,no
+Paddy,Samridhi Hybrid,das,7,3,SHEATH_BLIGHT,H,no
+Paddy,Samridhi Hybrid,das,7,4,NECK_BLAST,H,no
+Paddy,Samridhi Hybrid,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Samridhi Hybrid,das,7,6,FALSE_SMUT,M,no
+Paddy,Sarbati  Paddy,das,1,1,DAMPING_OFF,M,yes
+Paddy,Sarbati  Paddy,das,1,2,BAKANAE,M,yes
+Paddy,Sarbati  Paddy,das,2,1,WEEDS,H,yes
+Paddy,Sarbati  Paddy,das,2,2,SOIL_BORNE,M,yes
+Paddy,Sarbati  Paddy,das,2,3,ROOT_ROT,M,yes
+Paddy,Sarbati  Paddy,das,3,1,STEM_BORER,H,yes
+Paddy,Sarbati  Paddy,das,3,2,BLAST,H,yes
+Paddy,Sarbati  Paddy,das,3,3,WEEDS,H,no
+Paddy,Sarbati  Paddy,das,3,4,RICE_HISPA,M,yes
+Paddy,Sarbati  Paddy,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Sarbati  Paddy,das,3,6,DAMPING_OFF,M,yes
+Paddy,Sarbati  Paddy,das,3,7,TERMITE,M,yes
+Paddy,Sarbati  Paddy,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Sarbati  Paddy,das,4,2,BPH,H,yes
+Paddy,Sarbati  Paddy,das,4,3,BLB,H,yes
+Paddy,Sarbati  Paddy,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Sarbati  Paddy,das,4,5,STEM_BORER,H,no
+Paddy,Sarbati  Paddy,das,4,6,BLAST,H,no
+Paddy,Sarbati  Paddy,das,4,7,WEEDS,H,no
+Paddy,Sarbati  Paddy,das,4,8,RICE_HISPA,M,no
+Paddy,Sarbati  Paddy,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Sarbati  Paddy,das,5,1,SHEATH_BLIGHT,H,no
+Paddy,Sarbati  Paddy,das,5,2,BLAST,H,no
+Paddy,Sarbati  Paddy,das,5,3,STEM_BORER,H,no
+Paddy,Sarbati  Paddy,das,5,4,LEAF_FOLDER,H,no
+Paddy,Sarbati  Paddy,das,5,5,BPH,H,no
+Paddy,Sarbati  Paddy,das,5,6,BLB,H,no
+Paddy,Sarbati  Paddy,das,5,7,WEEDS,H,no
+Paddy,Sarbati  Paddy,das,5,8,RICE_HISPA,M,no
+Paddy,Sarbati  Paddy,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Sarbati  Paddy,das,6,1,NECK_BLAST,H,yes
+Paddy,Sarbati  Paddy,das,6,2,STEM_BORER,H,no
+Paddy,Sarbati  Paddy,das,6,3,LEAF_FOLDER,H,no
+Paddy,Sarbati  Paddy,das,6,4,BPH,H,no
+Paddy,Sarbati  Paddy,das,6,5,BLB,H,no
+Paddy,Sarbati  Paddy,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Sarbati  Paddy,das,6,7,BLAST,H,no
+Paddy,Sarbati  Paddy,das,6,8,FALSE_SMUT,M,yes
+Paddy,Sarbati  Paddy,das,7,1,NECK_BLAST,H,no
+Paddy,Sarbati  Paddy,das,7,2,STEM_BORER,H,no
+Paddy,Sarbati  Paddy,das,7,3,BPH,H,no
+Paddy,Sarbati  Paddy,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Sarbati  Paddy,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Sarbati  Paddy,das,7,6,FALSE_SMUT,M,no
+Paddy,Sarju-52,das,1,1,DAMPING_OFF,M,yes
+Paddy,Sarju-52,das,1,2,BAKANAE,M,yes
+Paddy,Sarju-52,das,2,1,WEEDS,H,yes
+Paddy,Sarju-52,das,2,2,TERMITE,M,yes
+Paddy,Sarju-52,das,2,3,SOIL_BORNE,M,yes
+Paddy,Sarju-52,das,3,1,STEM_BORER,H,yes
+Paddy,Sarju-52,das,3,2,BLAST,H,yes
+Paddy,Sarju-52,das,3,3,WEEDS,H,no
+Paddy,Sarju-52,das,3,4,RICE_HISPA,M,yes
+Paddy,Sarju-52,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Sarju-52,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Sarju-52,das,4,2,BPH,H,yes
+Paddy,Sarju-52,das,4,3,BLB,H,yes
+Paddy,Sarju-52,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Sarju-52,das,4,5,STEM_BORER,H,no
+Paddy,Sarju-52,das,4,6,BLAST,H,no
+Paddy,Sarju-52,das,4,7,WEEDS,H,no
+Paddy,Sarju-52,das,4,8,RICE_HISPA,M,no
+Paddy,Sarju-52,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Sarju-52,das,5,1,STEM_BORER,H,no
+Paddy,Sarju-52,das,5,2,LEAF_FOLDER,H,no
+Paddy,Sarju-52,das,5,3,BPH,H,no
+Paddy,Sarju-52,das,5,4,BLB,H,no
+Paddy,Sarju-52,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Sarju-52,das,5,6,BLAST,H,no
+Paddy,Sarju-52,das,5,7,WEEDS,H,no
+Paddy,Sarju-52,das,5,8,RICE_HISPA,M,no
+Paddy,Sarju-52,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Sarju-52,das,6,1,NECK_BLAST,H,yes
+Paddy,Sarju-52,das,6,2,STEM_BORER,H,no
+Paddy,Sarju-52,das,6,3,LEAF_FOLDER,H,no
+Paddy,Sarju-52,das,6,4,BPH,H,no
+Paddy,Sarju-52,das,6,5,BLB,H,no
+Paddy,Sarju-52,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Sarju-52,das,6,7,FALSE_SMUT,M,yes
+Paddy,Sarju-52,das,7,1,STEM_BORER,H,no
+Paddy,Sarju-52,das,7,2,BPH,H,no
+Paddy,Sarju-52,das,7,3,SHEATH_BLIGHT,H,no
+Paddy,Sarju-52,das,7,4,NECK_BLAST,H,no
+Paddy,Sarju-52,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Sarju-52,das,7,6,FALSE_SMUT,M,no
+Paddy,Sava 7301,das,1,1,DAMPING_OFF,M,yes
+Paddy,Sava 7301,das,1,2,BAKANAE,M,yes
+Paddy,Sava 7301,das,2,1,WEEDS,H,yes
+Paddy,Sava 7301,das,2,2,SOIL_BORNE,M,yes
+Paddy,Sava 7301,das,3,1,STEM_BORER,H,yes
+Paddy,Sava 7301,das,3,2,BLAST,H,yes
+Paddy,Sava 7301,das,3,3,WEEDS,H,no
+Paddy,Sava 7301,das,3,4,RICE_HISPA,M,yes
+Paddy,Sava 7301,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Sava 7301,das,3,6,TERMITE,M,yes
+Paddy,Sava 7301,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Sava 7301,das,4,2,BPH,H,yes
+Paddy,Sava 7301,das,4,3,BLB,H,yes
+Paddy,Sava 7301,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Sava 7301,das,4,5,STEM_BORER,H,no
+Paddy,Sava 7301,das,4,6,BLAST,H,no
+Paddy,Sava 7301,das,4,7,WEEDS,H,no
+Paddy,Sava 7301,das,4,8,RICE_HISPA,M,no
+Paddy,Sava 7301,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Sava 7301,das,5,1,SHEATH_BLIGHT,H,no
+Paddy,Sava 7301,das,5,2,BLAST,H,no
+Paddy,Sava 7301,das,5,3,STEM_BORER,H,no
+Paddy,Sava 7301,das,5,4,LEAF_FOLDER,H,no
+Paddy,Sava 7301,das,5,5,BPH,H,no
+Paddy,Sava 7301,das,5,6,BLB,H,no
+Paddy,Sava 7301,das,5,7,WEEDS,H,no
+Paddy,Sava 7301,das,5,8,RICE_HISPA,M,no
+Paddy,Sava 7301,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Sava 7301,das,6,1,NECK_BLAST,H,yes
+Paddy,Sava 7301,das,6,2,STEM_BORER,H,no
+Paddy,Sava 7301,das,6,3,LEAF_FOLDER,H,no
+Paddy,Sava 7301,das,6,4,BPH,H,no
+Paddy,Sava 7301,das,6,5,BLB,H,no
+Paddy,Sava 7301,das,6,6,SHEATH_BLIGHT,H,no
+Paddy,Sava 7301,das,6,7,FALSE_SMUT,M,yes
+Paddy,Sava 7301,das,7,1,NECK_BLAST,H,no
+Paddy,Sava 7301,das,7,2,STEM_BORER,H,no
+Paddy,Sava 7301,das,7,3,BPH,H,no
+Paddy,Sava 7301,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Sava 7301,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Sava 7301,das,7,6,FALSE_SMUT,M,no
+Paddy,Sava 7501,das,1,1,DAMPING_OFF,M,yes
+Paddy,Sava 7501,das,1,2,BAKANAE,M,yes
+Paddy,Sava 7501,das,2,1,WEEDS,H,yes
+Paddy,Sava 7501,das,2,2,TERMITE,M,yes
+Paddy,Sava 7501,das,2,3,DAMPING_OFF,M,no
+Paddy,Sava 7501,das,3,1,STEM_BORER,H,yes
+Paddy,Sava 7501,das,3,2,BLAST,H,yes
+Paddy,Sava 7501,das,3,3,WEEDS,H,no
+Paddy,Sava 7501,das,3,4,RICE_HISPA,M,yes
+Paddy,Sava 7501,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Sava 7501,das,3,6,SOIL_BORNE,M,yes
+Paddy,Sava 7501,das,3,7,TERMITE,M,no
+Paddy,Sava 7501,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Sava 7501,das,4,2,BPH,H,yes
+Paddy,Sava 7501,das,4,3,BLB,H,yes
+Paddy,Sava 7501,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Sava 7501,das,4,5,STEM_BORER,H,no
+Paddy,Sava 7501,das,4,6,BLAST,H,no
+Paddy,Sava 7501,das,4,7,WEEDS,H,no
+Paddy,Sava 7501,das,4,8,RICE_HISPA,M,no
+Paddy,Sava 7501,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Sava 7501,das,5,1,STEM_BORER,H,no
+Paddy,Sava 7501,das,5,2,LEAF_FOLDER,H,no
+Paddy,Sava 7501,das,5,3,BPH,H,no
+Paddy,Sava 7501,das,5,4,BLB,H,no
+Paddy,Sava 7501,das,5,5,SHEATH_BLIGHT,H,no
+Paddy,Sava 7501,das,5,6,BLAST,H,no
+Paddy,Sava 7501,das,5,7,WEEDS,H,no
+Paddy,Sava 7501,das,5,8,RICE_HISPA,M,no
+Paddy,Sava 7501,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Sava 7501,das,6,1,NECK_BLAST,H,yes
+Paddy,Sava 7501,das,6,2,SHEATH_BLIGHT,H,no
+Paddy,Sava 7501,das,6,3,STEM_BORER,H,no
+Paddy,Sava 7501,das,6,4,LEAF_FOLDER,H,no
+Paddy,Sava 7501,das,6,5,BPH,H,no
+Paddy,Sava 7501,das,6,6,BLB,H,no
+Paddy,Sava 7501,das,6,7,BLAST,H,no
+Paddy,Sava 7501,das,6,8,FALSE_SMUT,M,yes
+Paddy,Sava 7501,das,7,1,NECK_BLAST,H,no
+Paddy,Sava 7501,das,7,2,STEM_BORER,H,no
+Paddy,Sava 7501,das,7,3,BPH,H,no
+Paddy,Sava 7501,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Sava 7501,das,7,5,GUNDHI_BUG,M,yes
+Paddy,Sava 7501,das,7,6,FALSE_SMUT,M,no
+Paddy,Shakti Taj,das,1,1,DAMPING_OFF,M,yes
+Paddy,Shakti Taj,das,1,2,BAKANAE,M,yes
+Paddy,Shakti Taj,das,2,1,WEEDS,H,yes
+Paddy,Shakti Taj,das,2,2,TERMITE,M,yes
+Paddy,Shakti Taj,das,2,3,SOIL_BORNE,M,yes
+Paddy,Shakti Taj,das,3,1,STEM_BORER,H,yes
+Paddy,Shakti Taj,das,3,2,BLAST,H,yes
+Paddy,Shakti Taj,das,3,3,WEEDS,H,no
+Paddy,Shakti Taj,das,3,4,RICE_HISPA,M,yes
+Paddy,Shakti Taj,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Shakti Taj,das,3,6,TERMITE,M,no
+Paddy,Shakti Taj,das,3,7,SOIL_BORNE,M,no
+Paddy,Shakti Taj,das,4,1,SHEATH_BLIGHT,H,yes
+Paddy,Shakti Taj,das,4,2,LEAF_FOLDER,H,yes
+Paddy,Shakti Taj,das,4,3,BPH,H,yes
+Paddy,Shakti Taj,das,4,4,BLB,H,yes
+Paddy,Shakti Taj,das,4,5,STEM_BORER,H,no
+Paddy,Shakti Taj,das,4,6,BLAST,H,no
+Paddy,Shakti Taj,das,4,7,WEEDS,H,no
+Paddy,Shakti Taj,das,4,8,RICE_HISPA,M,no
+Paddy,Shakti Taj,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Shakti Taj,das,5,1,STEM_BORER,H,no
+Paddy,Shakti Taj,das,5,2,LEAF_FOLDER,H,no
+Paddy,Shakti Taj,das,5,3,BPH,H,no
+Paddy,Shakti Taj,das,5,4,BLAST,H,no
+Paddy,Shakti Taj,das,5,5,BLB,H,no
+Paddy,Shakti Taj,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Shakti Taj,das,5,7,WEEDS,H,no
+Paddy,Shakti Taj,das,5,8,RICE_HISPA,M,no
+Paddy,Shakti Taj,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Shakti Taj,das,6,1,NECK_BLAST,H,yes
+Paddy,Shakti Taj,das,6,2,STEM_BORER,H,no
+Paddy,Shakti Taj,das,6,3,SHEATH_BLIGHT,H,no
+Paddy,Shakti Taj,das,6,4,LEAF_FOLDER,H,no
+Paddy,Shakti Taj,das,6,5,BPH,H,no
+Paddy,Shakti Taj,das,6,6,BLB,H,no
+Paddy,Shakti Taj,das,6,7,FALSE_SMUT,M,yes
+Paddy,Shakti Taj,das,6,8,GUNDHI_BUG,M,yes
+Paddy,Shakti Taj,das,6,9,RICE_HISPA,M,no
+Paddy,Shakti Taj,das,7,1,NECK_BLAST,H,no
+Paddy,Shakti Taj,das,7,2,STEM_BORER,H,no
+Paddy,Shakti Taj,das,7,3,BPH,H,no
+Paddy,Shakti Taj,das,7,4,SHEATH_BLIGHT,H,no
+Paddy,Shakti Taj,das,7,5,FALSE_SMUT,M,no
+Paddy,Shakti Taj,das,7,6,GUNDHI_BUG,M,no
+Paddy,Tehelka Paddy,das,1,1,DAMPING_OFF,M,yes
+Paddy,Tehelka Paddy,das,1,2,BAKANAE,M,yes
+Paddy,Tehelka Paddy,das,2,1,WEEDS,H,yes
+Paddy,Tehelka Paddy,das,2,2,TERMITE,M,yes
+Paddy,Tehelka Paddy,das,2,3,SOIL_BORNE,M,yes
+Paddy,Tehelka Paddy,das,3,1,STEM_BORER,H,yes
+Paddy,Tehelka Paddy,das,3,2,BLAST,H,yes
+Paddy,Tehelka Paddy,das,3,3,WEEDS,H,no
+Paddy,Tehelka Paddy,das,3,4,RICE_HISPA,M,yes
+Paddy,Tehelka Paddy,das,3,5,NUTRIENT_DEF,M,yes
+Paddy,Tehelka Paddy,das,3,6,SOIL_BORNE,M,no
+Paddy,Tehelka Paddy,das,4,1,LEAF_FOLDER,H,yes
+Paddy,Tehelka Paddy,das,4,2,BPH,H,yes
+Paddy,Tehelka Paddy,das,4,3,BLB,H,yes
+Paddy,Tehelka Paddy,das,4,4,SHEATH_BLIGHT,H,yes
+Paddy,Tehelka Paddy,das,4,5,STEM_BORER,H,no
+Paddy,Tehelka Paddy,das,4,6,BLAST,H,no
+Paddy,Tehelka Paddy,das,4,7,WEEDS,H,no
+Paddy,Tehelka Paddy,das,4,8,RICE_HISPA,M,no
+Paddy,Tehelka Paddy,das,4,9,NUTRIENT_DEF,M,no
+Paddy,Tehelka Paddy,das,5,1,STEM_BORER,H,no
+Paddy,Tehelka Paddy,das,5,2,BPH,H,no
+Paddy,Tehelka Paddy,das,5,3,BLB,H,no
+Paddy,Tehelka Paddy,das,5,4,BLAST,H,no
+Paddy,Tehelka Paddy,das,5,5,LEAF_FOLDER,H,no
+Paddy,Tehelka Paddy,das,5,6,SHEATH_BLIGHT,H,no
+Paddy,Tehelka Paddy,das,5,7,WEEDS,H,no
+Paddy,Tehelka Paddy,das,5,8,RICE_HISPA,M,no
+Paddy,Tehelka Paddy,das,5,9,NUTRIENT_DEF,M,no
+Paddy,Tehelka Paddy,das,6,1,NECK_BLAST,H,yes
+Paddy,Tehelka Paddy,das,6,2,STEM_BORER,H,no
+Paddy,Tehelka Paddy,das,6,3,BPH,H,no
+Paddy,Tehelka Paddy,das,6,4,SHEATH_BLIGHT,H,no
+Paddy,Tehelka Paddy,das,6,5,FALSE_SMUT,M,yes
+Paddy,Tehelka Paddy,das,6,6,GUNDHI_BUG,M,yes
+Paddy,Tehelka Paddy,das,7,1,LEAF_FOLDER,H,yes
+Paddy,Tehelka Paddy,das,7,2,BLB,H,yes
+Paddy,Tehelka Paddy,das,7,3,STEM_BORER,H,no
+Paddy,Tehelka Paddy,das,7,4,BPH,H,no
+Paddy,Tehelka Paddy,das,7,5,SHEATH_BLIGHT,H,no
+Paddy,Tehelka Paddy,das,7,6,NECK_BLAST,H,no
+Paddy,Tehelka Paddy,das,7,7,FALSE_SMUT,M,no
+Paddy,Tehelka Paddy,das,7,8,GUNDHI_BUG,M,no
+Pearl Millet,"RHB-58,",das,2,1,SHOOT_FLY,H,yes
+Pearl Millet,"RHB-58,",das,2,2,DOWNY_MILDEW,H,yes
+Pearl Millet,"RHB-58,",das,2,3,STEM_BORER,M,yes
+Pearl Millet,"RHB-58,",das,2,4,WEEDS,M,yes
+Pearl Millet,"RHB-58,",das,3,1,DOWNY_MILDEW,H,no
+Pearl Millet,"RHB-58,",das,3,2,STEM_BORER,M,no
+Pearl Millet,"RHB-58,",das,4,1,DOWNY_MILDEW,H,no
+Pearl Millet,"RHB-58,",das,4,2,RUST,M,yes
+Pearl Millet,"RHB-58,",das,4,3,STEM_BORER,M,no
+Pearl Millet,"RHB-58,",das,5,1,RUST,M,no
+Pearl Millet,"RHB-58,",das,5,2,SMUT,L,yes
+Pearl Millet,"RHB-58,",das,6,1,RUST,M,no
+Pearl Millet,"RHB-58,",das,6,2,SMUT,L,no
+Peppermint,Kukrail,das,1,1,TERMITE,H,yes
+Peppermint,Kukrail,das,2,1,TERMITE,H,no
+Peppermint,Kukrail,das,2,2,ROOT_ROT,M,yes
+Peppermint,Kukrail,das,3,1,TERMITE,H,no
+Peppermint,Kukrail,das,3,2,ROOT_ROT,M,no
+Peppermint,Kukrail,das,4,1,HAIRY_CATERPILLAR,H,yes
+Peppermint,Kukrail,das,4,2,LEAF_FOLDER,M,yes
+Peppermint,Kukrail,das,4,3,LEAF_SPOT,M,yes
+Peppermint,Kukrail,das,4,4,ROOT_ROT,M,no
+Peppermint,Kukrail,das,6,1,HAIRY_CATERPILLAR,H,yes
+Peppermint,Shivalik,das,1,1,TERMITE,H,yes
+Peppermint,Shivalik,das,2,1,TERMITE,H,no
+Peppermint,Shivalik,das,2,2,ROOT_ROT,M,yes
+Peppermint,Shivalik,das,3,1,TERMITE,H,no
+Peppermint,Shivalik,das,3,2,ROOT_ROT,M,no
+Peppermint,Shivalik,das,4,1,HAIRY_CATERPILLAR,H,yes
+Peppermint,Shivalik,das,4,2,LEAF_FOLDER,M,yes
+Peppermint,Shivalik,das,4,3,LEAF_SPOT,M,yes
+Peppermint,Shivalik,das,4,4,ROOT_ROT,M,no
+Peppermint,Shivalik,das,6,1,HAIRY_CATERPILLAR,H,yes
+Peppermint,Tushar,das,1,1,TERMITE,H,yes
+Peppermint,Tushar,das,2,1,TERMITE,H,no
+Peppermint,Tushar,das,2,2,ROOT_ROT,M,yes
+Peppermint,Tushar,das,3,1,TERMITE,H,no
+Peppermint,Tushar,das,3,2,ROOT_ROT,M,no
+Peppermint,Tushar,das,4,1,HAIRY_CATERPILLAR,H,yes
+Peppermint,Tushar,das,4,2,LEAF_FOLDER,M,yes
+Peppermint,Tushar,das,4,3,LEAF_SPOT,M,yes
+Peppermint,Tushar,das,4,4,ROOT_ROT,M,no
+Peppermint,Tushar,das,6,1,HAIRY_CATERPILLAR,H,yes
+Pointed gourd,Swarna Rekha,das,2,1,ROOT_ROT,M,yes
+Pointed gourd,Swarna Rekha,das,3,1,DOWNY_MILDEW,M,yes
+Pointed gourd,Swarna Rekha,das,4,1,FRUIT_BORER,H,yes
+Pointed gourd,Swarna Rekha,das,4,2,MITES,M,yes
+Pointed gourd,Swarna Rekha,das,4,3,DOWNY_MILDEW,M,no
+Pointed gourd,Swarna Rekha,das,5,1,FRUIT_BORER,H,no
+Pointed gourd,Swarna Rekha,das,5,2,DOWNY_MILDEW,M,no
+Pointed gourd,Swarna Rekha,das,5,3,MITES,M,no
+Potato,Kufri Jyoti,das,1,1,TERMITE,M,yes
+Potato,Kufri Jyoti,das,2,1,CUTWORM,H,yes
+Potato,Kufri Jyoti,das,2,2,WEEDS,H,yes
+Potato,Kufri Jyoti,das,2,3,TERMITE,M,no
+Potato,Kufri Jyoti,das,3,1,APHID,H,yes
+Potato,Kufri Jyoti,das,3,2,LATE_BLIGHT,H,yes
+Potato,Kufri Jyoti,das,3,3,CUTWORM,H,no
+Potato,Kufri Jyoti,das,3,4,WEEDS,H,no
+Potato,Kufri Jyoti,das,3,5,JASSID,M,yes
+Potato,Kufri Jyoti,das,3,6,EARLY_BLIGHT,M,yes
+Potato,Kufri Jyoti,das,4,1,APHID,H,no
+Potato,Kufri Jyoti,das,4,2,LATE_BLIGHT,H,no
+Potato,Kufri Jyoti,das,4,3,WHITE_GRUB,M,yes
+Potato,Kufri Jyoti,das,4,4,JASSID,M,no
+Potato,Kufri Jyoti,das,4,5,EARLY_BLIGHT,M,no
+Potato,Kufri Jyoti,das,4,6,SCAB,L,yes
+Potato,Kufri Jyoti,das,5,1,APHID,H,no
+Potato,Kufri Jyoti,das,5,2,LATE_BLIGHT,H,no
+Potato,Kufri Jyoti,das,5,3,ABIOTIC_STRESS,M,yes
+Potato,Kufri Jyoti,das,5,4,WHITE_GRUB,M,no
+Potato,Kufri Jyoti,das,5,5,EARLY_BLIGHT,M,no
+Potato,Kufri Jyoti,das,5,6,SCAB,L,no
+Potato,Kufri Jyoti,das,6,1,SCAB,L,no
+Potato,Kufri Pukhraj,das,1,1,TERMITE,M,yes
+Potato,Kufri Pukhraj,das,2,1,CUTWORM,H,yes
+Potato,Kufri Pukhraj,das,2,2,WEEDS,H,yes
+Potato,Kufri Pukhraj,das,2,3,TERMITE,M,no
+Potato,Kufri Pukhraj,das,3,1,APHID,H,yes
+Potato,Kufri Pukhraj,das,3,2,LATE_BLIGHT,H,yes
+Potato,Kufri Pukhraj,das,3,3,CUTWORM,H,no
+Potato,Kufri Pukhraj,das,3,4,WEEDS,H,no
+Potato,Kufri Pukhraj,das,3,5,JASSID,M,yes
+Potato,Kufri Pukhraj,das,3,6,EARLY_BLIGHT,M,yes
+Potato,Kufri Pukhraj,das,4,1,APHID,H,no
+Potato,Kufri Pukhraj,das,4,2,LATE_BLIGHT,H,no
+Potato,Kufri Pukhraj,das,4,3,WHITE_GRUB,M,yes
+Potato,Kufri Pukhraj,das,4,4,JASSID,M,no
+Potato,Kufri Pukhraj,das,4,5,EARLY_BLIGHT,M,no
+Potato,Kufri Pukhraj,das,4,6,SCAB,L,yes
+Potato,Kufri Pukhraj,das,5,1,APHID,H,no
+Potato,Kufri Pukhraj,das,5,2,LATE_BLIGHT,H,no
+Potato,Kufri Pukhraj,das,5,3,ABIOTIC_STRESS,M,yes
+Potato,Kufri Pukhraj,das,5,4,WHITE_GRUB,M,no
+Potato,Kufri Pukhraj,das,5,5,EARLY_BLIGHT,M,no
+Potato,Kufri Pukhraj,das,5,6,SCAB,L,no
+Potato,Kufri Pukhraj,das,6,1,SCAB,L,no
+Pumpkin,VNR P-6,das,2,1,APHID,M,yes
+Pumpkin,VNR P-6,das,2,2,VIRUS,M,yes
+Pumpkin,VNR P-6,das,3,1,DOWNY_MILDEW,H,yes
+Pumpkin,VNR P-6,das,3,2,APHID,M,no
+Pumpkin,VNR P-6,das,3,3,VIRUS,M,no
+Pumpkin,VNR P-6,das,4,1,FRUIT_BORER,H,yes
+Pumpkin,VNR P-6,das,4,2,POWDERY_MILDEW,H,yes
+Pumpkin,VNR P-6,das,4,3,DOWNY_MILDEW,H,no
+Pumpkin,VNR P-6,das,4,4,VIRUS,M,no
+Pumpkin,VNR P-6,das,5,1,FRUIT_BORER,H,no
+Pumpkin,VNR P-6,das,5,2,DOWNY_MILDEW,H,no
+Pumpkin,VNR P-6,das,5,3,POWDERY_MILDEW,H,no
+Radish,Japanese White,das,3,1,APHID,M,yes
+Radish,Japanese White,das,3,2,LEAF_SPOT,L,yes
+Radish,Pusa Chetki,das,3,1,APHID,M,yes
+Radish,Pusa Chetki,das,3,2,LEAF_SPOT,L,yes
+Sesame,Gujarat Til-1 (GT-1),das,1,1,DAMPING_OFF,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,2,1,ROOT_ROT,H,yes
+Sesame,Gujarat Til-1 (GT-1),das,2,2,TERMITE,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,1,ROOT_ROT,H,no
+Sesame,Gujarat Til-1 (GT-1),das,3,2,LEAF_SPOT,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,3,JASSID,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,4,VIRUS,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,5,POWDERY_MILDEW,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,6,APHID,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,3,7,DAMPING_OFF,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,4,1,POD_BORER,H,yes
+Sesame,Gujarat Til-1 (GT-1),das,4,2,WHITEFLY,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,4,3,DOWNY_MILDEW,M,yes
+Sesame,Gujarat Til-1 (GT-1),das,4,4,LEAF_SPOT,M,no
+Sesame,Gujarat Til-1 (GT-1),das,4,5,JASSID,M,no
+Sesame,Gujarat Til-1 (GT-1),das,4,6,VIRUS,M,no
+Sesame,Gujarat Til-1 (GT-1),das,5,1,POD_BORER,H,no
+Soybean,KDS ( 726 ),das,2,1,GIRDLER_BEETLE,H,yes
+Soybean,KDS ( 726 ),das,2,2,VIRUS,H,yes
+Soybean,KDS ( 726 ),das,2,3,WEEDS,H,yes
+Soybean,KDS ( 726 ),das,2,4,WHITEFLY,M,yes
+Soybean,KDS ( 726 ),das,2,5,ROOT_ROT,M,yes
+Soybean,KDS ( 726 ),das,3,1,SPODOPTERA,H,yes
+Soybean,KDS ( 726 ),das,3,2,GIRDLER_BEETLE,H,no
+Soybean,KDS ( 726 ),das,3,3,VIRUS,H,no
+Soybean,KDS ( 726 ),das,3,4,WEEDS,H,no
+Soybean,KDS ( 726 ),das,3,5,WHITEFLY,M,no
+Soybean,KDS ( 726 ),das,3,6,ROOT_ROT,M,no
+Soybean,KDS ( 726 ),das,4,1,SPODOPTERA,H,no
+Soybean,KDS ( 726 ),das,4,2,VIRUS,H,no
+Soybean,KDS ( 726 ),das,4,3,POD_BORER,M,yes
+Soybean,KDS ( 726 ),das,4,4,WHITEFLY,M,no
+Soybean,KDS ( 726 ),das,5,1,SPODOPTERA,H,no
+Soybean,KDS ( 726 ),das,5,2,POD_BORER,M,no
+Soybean,NRC 150,das,2,1,GIRDLER_BEETLE,H,yes
+Soybean,NRC 150,das,2,2,VIRUS,H,yes
+Soybean,NRC 150,das,2,3,WEEDS,H,yes
+Soybean,NRC 150,das,2,4,WHITEFLY,M,yes
+Soybean,NRC 150,das,2,5,ROOT_ROT,M,yes
+Soybean,NRC 150,das,3,1,SPODOPTERA,H,yes
+Soybean,NRC 150,das,3,2,GIRDLER_BEETLE,H,no
+Soybean,NRC 150,das,3,3,VIRUS,H,no
+Soybean,NRC 150,das,3,4,WEEDS,H,no
+Soybean,NRC 150,das,3,5,WHITEFLY,M,no
+Soybean,NRC 150,das,3,6,ROOT_ROT,M,no
+Soybean,NRC 150,das,4,1,SPODOPTERA,H,no
+Soybean,NRC 150,das,4,2,VIRUS,H,no
+Soybean,NRC 150,das,4,3,POD_BORER,M,yes
+Soybean,NRC 150,das,4,4,WHITEFLY,M,no
+Soybean,NRC 150,das,5,1,SPODOPTERA,H,no
+Soybean,NRC 150,das,5,2,POD_BORER,M,no
+Sponge Gourd,Pusa Chikni,das,2,1,WHITEFLY,M,yes
+Sponge Gourd,Pusa Chikni,das,2,2,VIRUS,M,yes
+Sponge Gourd,Pusa Chikni,das,3,1,DOWNY_MILDEW,H,yes
+Sponge Gourd,Pusa Chikni,das,3,2,WHITEFLY,M,no
+Sponge Gourd,Pusa Chikni,das,3,3,VIRUS,M,no
+Sponge Gourd,Pusa Chikni,das,4,1,FRUIT_BORER,H,yes
+Sponge Gourd,Pusa Chikni,das,4,2,DOWNY_MILDEW,H,no
+Sponge Gourd,Pusa Chikni,das,4,3,POWDERY_MILDEW,M,yes
+Sponge Gourd,Pusa Chikni,das,4,4,WHITEFLY,M,no
+Sponge Gourd,Pusa Chikni,das,4,5,VIRUS,M,no
+Sponge Gourd,Pusa Chikni,das,5,1,FRUIT_BORER,H,no
+Sponge Gourd,Pusa Chikni,das,5,2,DOWNY_MILDEW,H,no
+Sponge Gourd,Pusa Chikni,das,5,3,POWDERY_MILDEW,M,no
+Sponge Gourd,VNR Alok,das,2,1,WHITEFLY,M,yes
+Sponge Gourd,VNR Alok,das,2,2,VIRUS,M,yes
+Sponge Gourd,VNR Alok,das,3,1,DOWNY_MILDEW,H,yes
+Sponge Gourd,VNR Alok,das,3,2,WHITEFLY,M,no
+Sponge Gourd,VNR Alok,das,3,3,VIRUS,M,no
+Sponge Gourd,VNR Alok,das,4,1,FRUIT_BORER,H,yes
+Sponge Gourd,VNR Alok,das,4,2,DOWNY_MILDEW,H,no
+Sponge Gourd,VNR Alok,das,4,3,POWDERY_MILDEW,M,yes
+Sponge Gourd,VNR Alok,das,4,4,WHITEFLY,M,no
+Sponge Gourd,VNR Alok,das,4,5,VIRUS,M,no
+Sponge Gourd,VNR Alok,das,5,1,FRUIT_BORER,H,no
+Sponge Gourd,VNR Alok,das,5,2,DOWNY_MILDEW,H,no
+Sponge Gourd,VNR Alok,das,5,3,POWDERY_MILDEW,M,no
+Sugarcane,Co 0238 (Karan 4),das,1,1,TERMITE,H,yes
+Sugarcane,Co 0238 (Karan 4),das,1,2,WILT,M,yes
+Sugarcane,Co 0238 (Karan 4),das,2,1,EARLY_SHOOT_BORER,H,yes
+Sugarcane,Co 0238 (Karan 4),das,2,2,WEEDS,H,yes
+Sugarcane,Co 0238 (Karan 4),das,2,3,TERMITE,H,no
+Sugarcane,Co 0238 (Karan 4),das,2,4,SMUT,M,yes
+Sugarcane,Co 0238 (Karan 4),das,3,1,TOP_BORER,H,yes
+Sugarcane,Co 0238 (Karan 4),das,3,2,RED_ROT,H,yes
+Sugarcane,Co 0238 (Karan 4),das,3,3,EARLY_SHOOT_BORER,H,no
+Sugarcane,Co 0238 (Karan 4),das,3,4,WEEDS,H,no
+Sugarcane,Co 0238 (Karan 4),das,3,5,WHITE_GRUB,M,yes
+Sugarcane,Co 0238 (Karan 4),das,3,6,WILT,M,yes
+Sugarcane,Co 0238 (Karan 4),das,3,7,SMUT,M,no
+Sugarcane,Co 0238 (Karan 4),das,4,1,TOP_BORER,H,no
+Sugarcane,Co 0238 (Karan 4),das,4,2,RED_ROT,H,no
+Sugarcane,Co 0238 (Karan 4),das,4,3,EARLY_SHOOT_BORER,H,no
+Sugarcane,Co 0238 (Karan 4),das,4,4,WEEDS,H,no
+Sugarcane,Co 0238 (Karan 4),das,4,5,SMUT,M,no
+Sugarcane,Co 0238 (Karan 4),das,4,6,WHITE_GRUB,M,no
+Sugarcane,Co 0238 (Karan 4),das,5,1,RED_ROT,H,no
+Sugarcane,Co 0238 (Karan 4),das,5,2,WILT,M,yes
+Sugarcane,Co 0238 (Karan 4),das,5,3,WHITE_GRUB,M,no
+Sugarcane,Co 0238 (Karan 4),das,6,1,RED_ROT,H,no
+Sugarcane,Co 0238 (Karan 4),das,6,2,WILT,M,no
+Tomato,Seminis Abhilash,das,1,1,WHITEFLY,H,yes
+Tomato,Seminis Abhilash,das,1,2,VIRUS,H,yes
+Tomato,Seminis Abhilash,das,1,3,DAMPING_OFF,H,yes
+Tomato,Seminis Abhilash,das,2,1,WHITEFLY,H,no
+Tomato,Seminis Abhilash,das,2,2,VIRUS,H,no
+Tomato,Seminis Abhilash,das,2,3,DAMPING_OFF,H,no
+Tomato,Seminis Abhilash,das,2,4,WILT,M,yes
+Tomato,Seminis Abhilash,das,3,1,EARLY_BLIGHT,H,yes
+Tomato,Seminis Abhilash,das,3,2,WHITEFLY,H,no
+Tomato,Seminis Abhilash,das,3,3,VIRUS,H,no
+Tomato,Seminis Abhilash,das,3,4,DAMPING_OFF,H,no
+Tomato,Seminis Abhilash,das,3,5,LATE_BLIGHT,M,yes
+Tomato,Seminis Abhilash,das,3,6,TERMITE,M,yes
+Tomato,Seminis Abhilash,das,3,7,WILT,M,no
+Tomato,Seminis Abhilash,das,4,1,FRUIT_BORER,H,yes
+Tomato,Seminis Abhilash,das,4,2,HELICOVERPA,H,yes
+Tomato,Seminis Abhilash,das,4,3,WHITEFLY,H,no
+Tomato,Seminis Abhilash,das,4,4,VIRUS,H,no
+Tomato,Seminis Abhilash,das,4,5,EARLY_BLIGHT,H,no
+Tomato,Seminis Abhilash,das,4,6,FLOWER_DROP,M,yes
+Tomato,Seminis Abhilash,das,4,7,APHID,M,yes
+Tomato,Seminis Abhilash,das,4,8,LATE_BLIGHT,M,no
+Tomato,Seminis Abhilash,das,4,9,WILT,M,no
+Tomato,Seminis Abhilash,das,5,1,FAW,M,yes
+Tur,Asha/ICPL 87119,das,3,1,WILT,H,yes
+Tur,Asha/ICPL 87119,das,3,2,WHITEFLY,M,yes
+Tur,Asha/ICPL 87119,das,3,3,ROOT_ROT,M,yes
+Tur,Asha/ICPL 87119,das,4,1,WILT,H,no
+Tur,Asha/ICPL 87119,das,4,2,WHITEFLY,M,no
+Tur,Asha/ICPL 87119,das,4,3,ROOT_ROT,M,no
+Tur,Asha/ICPL 87119,das,5,1,POD_BORER,H,yes
+Tur,Asha/ICPL 87119,das,5,2,HELICOVERPA,H,yes
+Tur,Asha/ICPL 87119,das,5,3,WILT,H,no
+Tur,Asha/ICPL 87119,das,6,1,WILT,H,no
+Tur,Asha/ICPL 87119,das,6,2,POD_BORER,H,no
+Tur,Asha/ICPL 87119,das,6,3,HELICOVERPA,H,no
+Tur,BDN PH 2018-5,das,3,1,WILT,H,yes
+Tur,BDN PH 2018-5,das,3,2,WHITEFLY,M,yes
+Tur,BDN PH 2018-5,das,3,3,ROOT_ROT,M,yes
+Tur,BDN PH 2018-5,das,4,1,WILT,H,no
+Tur,BDN PH 2018-5,das,4,2,WHITEFLY,M,no
+Tur,BDN PH 2018-5,das,4,3,ROOT_ROT,M,no
+Tur,BDN PH 2018-5,das,5,1,POD_BORER,H,yes
+Tur,BDN PH 2018-5,das,5,2,HELICOVERPA,H,yes
+Tur,BDN PH 2018-5,das,5,3,WILT,H,no
+Tur,BDN PH 2018-5,das,6,1,WILT,H,no
+Tur,BDN PH 2018-5,das,6,2,POD_BORER,H,no
+Tur,BDN PH 2018-5,das,6,3,HELICOVERPA,H,no
+Tur,UPAS-120,das,3,1,WILT,H,yes
+Tur,UPAS-120,das,3,2,WHITEFLY,M,yes
+Tur,UPAS-120,das,3,3,ROOT_ROT,M,yes
+Tur,UPAS-120,das,4,1,WILT,H,no
+Tur,UPAS-120,das,4,2,WHITEFLY,M,no
+Tur,UPAS-120,das,4,3,ROOT_ROT,M,no
+Tur,UPAS-120,das,5,1,POD_BORER,H,yes
+Tur,UPAS-120,das,5,2,HELICOVERPA,H,yes
+Tur,UPAS-120,das,5,3,WILT,H,no
+Tur,UPAS-120,das,6,1,WILT,H,no
+Tur,UPAS-120,das,6,2,POD_BORER,H,no
+Tur,UPAS-120,das,6,3,HELICOVERPA,H,no
+Turmeric,Alleppey Finger,das,3,1,LEAF_SPOT,H,yes
+Turmeric,Alleppey Finger,das,3,2,LEAF_BLIGHT,M,yes
+Turmeric,Alleppey Finger,das,3,3,SHOOT_FLY,M,yes
+Turmeric,Alleppey Finger,das,4,1,ROOT_ROT,H,yes
+Turmeric,Alleppey Finger,das,4,2,LEAF_SPOT,H,no
+Turmeric,Alleppey Finger,das,4,3,LEAF_BLIGHT,M,no
+Turmeric,Alleppey Finger,das,4,4,SHOOT_FLY,M,no
+Turmeric,Alleppey Finger,das,5,1,ROOT_ROT,H,no
+Watermelon,Bheemraja (IceBox),das,2,1,THRIPS,H,yes
+Watermelon,Bheemraja (IceBox),das,2,2,VIRUS,H,yes
+Watermelon,Bheemraja (IceBox),das,2,3,WILT,M,yes
+Watermelon,Bheemraja (IceBox),das,3,1,THRIPS,H,no
+Watermelon,Bheemraja (IceBox),das,3,2,VIRUS,H,no
+Watermelon,Bheemraja (IceBox),das,3,3,DOWNY_MILDEW,M,yes
+Watermelon,Bheemraja (IceBox),das,3,4,WILT,M,no
+Watermelon,Bheemraja (IceBox),das,4,1,FRUIT_BORER,H,yes
+Watermelon,Bheemraja (IceBox),das,4,2,VIRUS,H,no
+Watermelon,Bheemraja (IceBox),das,4,3,POWDERY_MILDEW,M,yes
+Watermelon,Bheemraja (IceBox),das,4,4,MITES,M,yes
+Watermelon,Bheemraja (IceBox),das,4,5,DOWNY_MILDEW,M,no
+Watermelon,Bheemraja (IceBox),das,4,6,WILT,M,no
+Watermelon,Bheemraja (IceBox),das,5,1,FRUIT_BORER,H,no
+Watermelon,Bheemraja (IceBox),das,5,2,POWDERY_MILDEW,M,no
+Watermelon,Bheemraja (IceBox),das,5,3,MITES,M,no
+Watermelon,Sagar King F-1,das,2,1,THRIPS,H,yes
+Watermelon,Sagar King F-1,das,2,2,VIRUS,H,yes
+Watermelon,Sagar King F-1,das,2,3,WILT,M,yes
+Watermelon,Sagar King F-1,das,3,1,THRIPS,H,no
+Watermelon,Sagar King F-1,das,3,2,VIRUS,H,no
+Watermelon,Sagar King F-1,das,3,3,DOWNY_MILDEW,M,yes
+Watermelon,Sagar King F-1,das,3,4,WILT,M,no
+Watermelon,Sagar King F-1,das,4,1,FRUIT_BORER,H,yes
+Watermelon,Sagar King F-1,das,4,2,VIRUS,H,no
+Watermelon,Sagar King F-1,das,4,3,POWDERY_MILDEW,M,yes
+Watermelon,Sagar King F-1,das,4,4,MITES,M,yes
+Watermelon,Sagar King F-1,das,4,5,DOWNY_MILDEW,M,no
+Watermelon,Sagar King F-1,das,4,6,WILT,M,no
+Watermelon,Sagar King F-1,das,5,1,FRUIT_BORER,H,no
+Watermelon,Sagar King F-1,das,5,2,POWDERY_MILDEW,M,no
+Watermelon,Sagar King F-1,das,5,3,MITES,M,no
+Watermelon,Sagar Singham F-1,das,2,1,THRIPS,H,yes
+Watermelon,Sagar Singham F-1,das,2,2,VIRUS,H,yes
+Watermelon,Sagar Singham F-1,das,2,3,WILT,M,yes
+Watermelon,Sagar Singham F-1,das,3,1,THRIPS,H,no
+Watermelon,Sagar Singham F-1,das,3,2,VIRUS,H,no
+Watermelon,Sagar Singham F-1,das,3,3,DOWNY_MILDEW,M,yes
+Watermelon,Sagar Singham F-1,das,3,4,WILT,M,no
+Watermelon,Sagar Singham F-1,das,4,1,FRUIT_BORER,H,yes
+Watermelon,Sagar Singham F-1,das,4,2,VIRUS,H,no
+Watermelon,Sagar Singham F-1,das,4,3,POWDERY_MILDEW,M,yes
+Watermelon,Sagar Singham F-1,das,4,4,MITES,M,yes
+Watermelon,Sagar Singham F-1,das,4,5,DOWNY_MILDEW,M,no
+Watermelon,Sagar Singham F-1,das,4,6,WILT,M,no
+Watermelon,Sagar Singham F-1,das,5,1,FRUIT_BORER,H,no
+Watermelon,Sagar Singham F-1,das,5,2,POWDERY_MILDEW,M,no
+Watermelon,Sagar Singham F-1,das,5,3,MITES,M,no
+Watermelon,Sugar Baby,das,2,1,THRIPS,H,yes
+Watermelon,Sugar Baby,das,2,2,VIRUS,H,yes
+Watermelon,Sugar Baby,das,2,3,WILT,M,yes
+Watermelon,Sugar Baby,das,3,1,THRIPS,H,no
+Watermelon,Sugar Baby,das,3,2,VIRUS,H,no
+Watermelon,Sugar Baby,das,3,3,DOWNY_MILDEW,M,yes
+Watermelon,Sugar Baby,das,3,4,WILT,M,no
+Watermelon,Sugar Baby,das,4,1,FRUIT_BORER,H,yes
+Watermelon,Sugar Baby,das,4,2,VIRUS,H,no
+Watermelon,Sugar Baby,das,4,3,POWDERY_MILDEW,M,yes
+Watermelon,Sugar Baby,das,4,4,MITES,M,yes
+Watermelon,Sugar Baby,das,4,5,DOWNY_MILDEW,M,no
+Watermelon,Sugar Baby,das,4,6,WILT,M,no
+Watermelon,Sugar Baby,das,5,1,FRUIT_BORER,H,no
+Watermelon,Sugar Baby,das,5,2,POWDERY_MILDEW,M,no
+Watermelon,Sugar Baby,das,5,3,MITES,M,no
+Wheat,DBW 303,das,1,1,TERMITE,H,yes
+Wheat,DBW 303,das,1,2,DAMPING_OFF,M,yes
+Wheat,DBW 303,das,2,1,WEEDS,H,yes
+Wheat,DBW 303,das,2,2,TERMITE,H,no
+Wheat,DBW 303,das,2,3,NUTRIENT_DEF,M,yes
+Wheat,DBW 303,das,3,1,YELLOW_RUST,H,yes
+Wheat,DBW 303,das,3,2,APHID,H,yes
+Wheat,DBW 303,das,3,3,WEEDS,H,no
+Wheat,DBW 303,das,3,4,ARMYWORM,M,yes
+Wheat,DBW 303,das,3,5,NUTRIENT_DEF,M,no
+Wheat,DBW 303,das,4,1,YELLOW_RUST,H,no
+Wheat,DBW 303,das,4,2,APHID,H,no
+Wheat,DBW 303,das,4,3,ARMYWORM,M,no
+Wheat,DBW 303,das,5,1,APHID,H,no
+Wheat,DBW 303,das,5,2,YELLOW_RUST,H,no
+Wheat,DBW 303,das,5,3,ARMYWORM,M,no
+Wheat,DBW 303,das,5,4,STEM_RUST,L,yes
+Wheat,DBW 303,das,6,1,YELLOW_RUST,H,no
+Wheat,DBW-187,das,1,1,TERMITE,H,yes
+Wheat,DBW-187,das,2,1,TERMITE,H,no
+Wheat,DBW-187,das,3,1,WEEDS,H,yes
+Wheat,DBW-187,das,3,2,TERMITE,H,no
+Wheat,DBW-187,das,3,3,NUTRIENT_DEF,M,yes
+Wheat,DBW-187,das,4,1,YELLOW_RUST,H,yes
+Wheat,DBW-187,das,4,2,WEEDS,H,no
+Wheat,DBW-187,das,4,3,NUTRIENT_DEF,M,no
+Wheat,DBW-187,das,5,1,APHID,H,yes
+Wheat,DBW-187,das,5,2,YELLOW_RUST,H,no
+Wheat,DBW-187,das,6,1,APHID,H,no
+Wheat,DBW-187,das,6,2,YELLOW_RUST,H,no
+Wheat,DBW-187,das,6,3,ARMYWORM,M,yes
+Wheat,DBW-187,das,6,4,STEM_RUST,L,yes
+Wheat,DBW-187,das,7,1,APHID,H,no
+Wheat,DBW-187,das,7,2,ARMYWORM,M,no
+Wheat,DBW-187,das,7,3,STEM_RUST,L,no
+Wheat,HD-2967,das,1,1,TERMITE,H,yes
+Wheat,HD-2967,das,2,1,TERMITE,H,no
+Wheat,HD-2967,das,3,1,WEEDS,H,yes
+Wheat,HD-2967,das,3,2,TERMITE,H,no
+Wheat,HD-2967,das,3,3,NUTRIENT_DEF,M,yes
+Wheat,HD-2967,das,4,1,YELLOW_RUST,H,yes
+Wheat,HD-2967,das,4,2,WEEDS,H,no
+Wheat,HD-2967,das,4,3,NUTRIENT_DEF,M,no
+Wheat,HD-2967,das,5,1,APHID,H,yes
+Wheat,HD-2967,das,5,2,YELLOW_RUST,H,no
+Wheat,HD-2967,das,6,1,APHID,H,no
+Wheat,HD-2967,das,6,2,YELLOW_RUST,H,no
+Wheat,HD-2967,das,6,3,ARMYWORM,M,yes
+Wheat,HD-2967,das,6,4,STEM_RUST,L,yes
+Wheat,HD-2967,das,7,1,APHID,H,no
+Wheat,HD-2967,das,7,2,ARMYWORM,M,no
+Wheat,HD-2967,das,7,3,STEM_RUST,L,no

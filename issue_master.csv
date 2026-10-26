@@ -1,0 +1,81 @@
+﻿issue_id,type,name_en,name_hi,key_symptom,favourable_weather,photo_part
+APHID,pest,Aphid,माहू / एफिड,"Clusters of small soft insects on tender shoots; curling, sticky honeydew, sooty mould","Cool 10-25C, cloudy, low wind; peaks Dec-Feb in rabi","leaf underside, shoot tip"
+WHITEFLY,pest,Whitefly,सफेद मक्खी,Tiny white flies fly up when plant shaken; yellowing; vector of leaf curl / yellow mosaic,"Hot dry 28-35C, low rain",leaf underside
+JASSID,pest,Jassid / leafhopper,जैसिड / हरा तेला,"Wedge-shaped green hoppers moving sideways; leaf edges yellow then brown (hopper burn), cupping",Warm humid 25-32C after rain,leaf underside
+GLH,pest,Green leafhopper (rice),हरा लीफहॉपर,Green hoppers on rice leaves; yellow-orange leaves; vector of tungro,"Warm humid, dense N-rich crop","leaf, plant base"
+THRIPS,pest,Thrips,थ्रिप्स,"Silvery streaks/scraping on leaves, upward curl (chilli), silver patches on onion leaves","Hot dry 25-35C, no rain","leaf, flower, bud"
+MITES,pest,Red / yellow mites,माइट्स / मकड़ी,"Fine webbing, bronze/speckled leaves, downward curl in chilli","Hot dry >30C, dusty",leaf underside
+MEALYBUG,pest,Mealybug,मिलीबग,"White cottony masses on stem/axils; stunting, sooty mould",Dry weather; spread by ants,"stem, leaf axil, fruit"
+BPH,pest,Brown planthopper,भूरा फुदका (BPH),Brown hoppers at base of tillers; circular drying patches (hopper burn),"Humid 25-30C, dense canopy, excess N, standing water",plant base above water
+PAINTED_BUG,pest,Painted bug,पेंटेड बग,Black-orange bugs sucking seedlings/pods; wilting of seedlings,Hot at sowing and at pod maturity,"seedling, pod"
+GUNDHI_BUG,pest,Gundhi / rice earhead bug,गंधी बग,"Chaffy / partly filled grains, bad smell in field","Milk stage with humid weather, grassy bunds",panicle
+STEM_BORER,pest,Stem borer,तना छेदक,Dead heart at vegetative stage; white ear (empty panicle) at heading,Warm humid; moths after rain,"stem, central shoot, panicle"
+EARLY_SHOOT_BORER,pest,Early shoot borer (sugarcane),अगेता तना छेदक,"Dead heart in young cane that pulls out easily, bad smell",Hot dry Apr-Jun,central shoot
+TOP_BORER,pest,Top borer (sugarcane),चोटी भेदक,"Shot holes in leaves, bunchy top, dead heart that does not pull out",Humid Jul-Sep,top whorl leaves
+SHOOT_FLY,pest,Shoot fly,प्ररोह मक्खी,Dead heart in seedlings 7-30 days,"Late sowing, cloudy humid",central shoot of seedling
+LEAF_FOLDER,pest,Leaf folder / leaf roller,पत्ती लपेटक,Leaves folded lengthwise with white streaks inside,"Humid, shade, high N",leaf
+RICE_HISPA,pest,Rice hispa,हिस्पा,Parallel white streaks and blotch mines on leaves; spiny black beetles,"Rain + high humidity, heavy N",leaf
+HELICOVERPA,pest,Helicoverpa / American bollworm,अमेरिकी सुंडी / हेलिकोवर्पा,Round holes in bolls/pods/fruit with caterpillar half inside,"Warm 25-30C, flowering-fruiting phase","boll, pod, fruit"
+PINK_BOLLWORM,pest,Pink bollworm,गुलाबी सुंडी,"Rosette (unopened) flowers, damaged seeds inside green bolls","Late season, warm humid nights","boll, rosette flower"
+SPOTTED_BOLLWORM,pest,Spotted bollworm,चितकबरी सुंडी,"Drooping shoot tips, bored squares and bolls",Humid Jul-Sep,"shoot tip, boll"
+FRUIT_BORER,pest,Fruit & shoot borer,फल छेदक,Wilted shoot tips; holes with frass in fruits,Warm humid 25-35C,"fruit, shoot tip"
+POD_BORER,pest,Pod borer,फली छेदक,"Holes in pods, webbed flowers",Cloudy humid at flowering,"pod, flower"
+SPODOPTERA,pest,Spodoptera / tobacco caterpillar,तंबाकू इल्ली,"Leaves eaten, only veins left; egg masses under leaves","Warm humid, after rain",leaf
+FAW,pest,Fall armyworm,फॉल आर्मीवर्म,Ragged holes in whorl leaves with sawdust-like frass; inverted Y on head of larva,"Warm 25-30C, early whorl stage",whorl
+ARMYWORM,pest,Armyworm (wheat),आर्मीवर्म,Leaves eaten from edges at night; earheads cut,"Cool humid nights, lodged crop","leaf, earhead"
+HAIRY_CATERPILLAR,pest,Hairy caterpillar,बालदार सुंडी,Gregarious hairy larvae skeletonising leaves,Early monsoon,leaf
+CUTWORM,pest,Cutworm,कटवर्म,Seedlings cut at ground level at night,"Cool moist soil, early crop stage",plant base at soil
+DBM,pest,Diamondback moth,डायमंड बैक मोथ,Window-pane holes in cabbage/cauliflower leaves,Cool dry 15-25C,leaf
+LEAF_MINER,pest,Leaf miner,पत्ती सुरंगक,Serpentine white tunnels in leaves,Warm dry,leaf
+GIRDLER_BEETLE,pest,Girdler beetle,गर्डल बीटल,"Two ring cuts on stem/petiole, portion above dries",Humid Jul-Aug (soybean),"stem, petiole"
+TEA_LOOPER,pest,Tea looper,टी लूपर,Looper caterpillars defoliating tea bush,Pre-monsoon,leaf
+TERMITE,pest,Termite,दीमक,"Plants wilt and dry, pull out easily; mud galleries on roots/stem","Dry sandy soil, low moisture, undecomposed FYM","root, stem base"
+WHITE_GRUB,pest,White grub,सफेद लट,C-shaped white larvae eating roots; patchy wilting,After first monsoon showers,root
+RUST,disease,Rust,रतुआ / गेरुआ,Orange/brown powdery pustules that rub off on fingers,Cool 15-25C with dew/high humidity,leaf
+YELLOW_RUST,disease,Yellow (stripe) rust,पीला रतुआ,Yellow powder in stripes along leaf veins,"10-20C, fog/dew, Jan-Feb",leaf
+STEM_RUST,disease,Stem rust,काला रतुआ,Dark reddish-brown elongated pustules on stem,"Warm 20-30C late season, humid","stem, leaf sheath"
+DOWNY_MILDEW,disease,Downy mildew,मृदुरोमिल आसिता,Yellow patches on top; grey/white fungal growth underneath,"Cool humid, >90% RH, leaf wetness",leaf underside
+POWDERY_MILDEW,disease,Powdery mildew,चूर्णिल आसिता,White talc-like powder on leaves and stem,"Dry days, cool nights 15-25C",leaf top
+WHITE_RUST,disease,White rust,सफेद रतुआ,White raised blisters under leaves; swollen deformed inflorescence (stag head),"10-20C, high humidity","leaf underside, flower"
+ALTERNARIA,disease,Alternaria blight,अल्टरनेरिया झुलसा,Brown concentric-ring spots on leaves and pods,"Warm humid 20-28C, intermittent rain","leaf, pod"
+SCLEROTINIA,disease,Sclerotinia stem rot,तना गलन,Water-soaked stem lesion with white cottony growth and black sclerotia inside,"Cool humid at flowering, dense crop",stem
+DAMPING_OFF,disease,Damping off,आर्द्र गलन,"Seedlings collapse at soil level, water-soaked stem","Wet soil, cloudy, overcrowded nursery",seedling collar
+SOIL_BORNE,disease,Soil-borne diseases (complex),मिट्टी जनित रोग,"Wilting, root/collar rot in patches","Waterlogging, poor drainage, continuous cropping","root, collar"
+ROOT_ROT,disease,Root rot,जड़ सड़न,Roots brown/black and decayed; plant wilts and dries,Waterlogging or moisture stress after rain,root
+WILT,disease,Fusarium wilt,उकठा / विल्ट,Yellowing and wilting from lower leaves; brown streaks inside stem,"Warm soil 25-30C, moisture stress","whole plant, cut stem"
+TIKKA,disease,Tikka leaf spot (groundnut),टिक्का,Dark brown-black round spots with yellow halo,"Humid 25-30C, long leaf wetness",leaf
+LEAF_SPOT,disease,Leaf spot,पत्ती धब्बा,Round brown spots with lighter centre,"Warm humid, rain splash",leaf
+LEAF_BLIGHT,disease,Leaf blight,पत्ती झुलसा,Large irregular brown dried patches on leaves,"Warm humid, rain",leaf
+EARLY_BLIGHT,disease,Early blight,अगेती झुलसा,Dark brown spots with concentric rings (target board) on older leaves,"Warm 24-29C, alternating wet/dry",lower leaf
+LATE_BLIGHT,disease,Late blight,पछेती झुलसा,"Water-soaked dark patches from leaf tip/edge, white growth underside; spreads in days","10-20C, RH>90%, fog/drizzle 2+ days (Dec-Jan)","leaf, stem, tuber"
+ANTHRACNOSE,disease,Anthracnose,एन्थ्रेक्नोज,Sunken dark spots on fruit; die-back of twigs,"Warm humid, rain","fruit, leaf, twig"
+FRUIT_ROT,disease,Fruit rot,फल सड़न,Soft water-soaked rotting of fruits,"Rain, fruit touching wet soil",fruit
+DIEBACK,disease,Die-back,डाई-बैक,Drying of shoots from tip downward,"After rain, humid","twig, branch tip"
+SCAB,disease,Scab,स्कैब,Olive/corky rough scab lesions,Cool wet spring (apple); alkaline dry soil (potato),"fruit, leaf, tuber"
+BLACK_ROT,disease,Black rot (crucifers),ब्लैक रॉट,"V-shaped yellow lesions from leaf margin, black veins","Warm humid, rain splash",leaf margin
+ANGULAR_LEAF_SPOT,disease,Angular leaf spot,कोणीय धब्बा,Angular water-soaked spots limited by veins,"Warm humid, rain",leaf
+STEM_CANKER,disease,Stem canker,तना कैंकर,"Sunken dark lesions on stem, stem breaks","Humid, wounds",stem
+BLISTER_BLIGHT,disease,Blister blight (tea),ब्लिस्टर ब्लाइट,Translucent spots becoming blisters on young leaves,Cloudy wet weather,young leaf
+BLAST,disease,Blast (leaf),झोंका / ब्लास्ट,"Spindle / eye-shaped spots with grey centre, brown margin","Night temp 20-25C, dew, high N, cloudy",leaf
+NECK_BLAST,disease,Neck blast,गर्दन तोड़ (नेक ब्लास्ट),"Black rotting at panicle neck; panicle breaks, grains empty",Cool humid nights at heading,panicle neck
+SHEATH_BLIGHT,disease,Sheath blight,शीथ ब्लाइट,Oval grey-green lesions with brown border on sheath (snake-skin),"Hot humid 28-32C, dense canopy, high N",leaf sheath near water
+SHEATH_ROT,disease,Sheath rot,शीथ रॉट,Rotting of flag-leaf sheath; panicle does not emerge fully,Humid at booting,flag leaf sheath
+BLB,disease,Bacterial leaf blight,जीवाणु झुलसा (BLB),"Yellow-white drying from leaf tip along margins, wavy edge","Storms, rain, 25-34C, excess N",leaf tip and margin
+FALSE_SMUT,disease,False smut,कंडुआ / फॉल्स स्मट,Orange then green-black velvety balls replacing grains,Rain + high humidity at flowering,grain in panicle
+BAKANAE,disease,Bakanae / foot rot,बकानी,"Abnormally tall thin pale seedlings, later die","Infected seed, warm",whole seedling
+SMUT,disease,Smut,कंडुआ,Black whip-like structure (sugarcane) or black spore mass in earhead,Warm dry,shoot / earhead
+RED_ROT,disease,Red rot (sugarcane),लाल सड़न,"Red internal tissue with white cross bands, sour smell; top leaves dry","Rain, waterlogging, susceptible variety",split cane
+VIRUS,disease,Viral disease (leaf curl / mosaic / YMV),विषाणु रोग,"Mosaic, yellow mottling, leaf curling, stunted plant",Transmitted by whitefly/aphid/thrips,leaf
+WEEDS,weed,Weeds,खरपतवार,Weeds competing in rows / between rows,Early 15-45 days of crop is the critical period,field view
+NUTRIENT_DEF,nutrition,Nutrient deficiency / yellowing,पोषक तत्वों की कमी / पीलापन,Pale or yellow leaves; slow growth,"Waterlogging, cold soil, low organic matter","whole plant, older/younger leaves"
+POOR_GROWTH,physiological,Stunted / weak vegetative growth,रुकी हुई बढ़त,"Few branches/leaves, short plant","Stress, poor nutrition",whole plant
+WEAK_ROOT,physiological,Weak roots & stem / poor uptake,कमजोर जड़ व तना,"Short sparse roots, weak stem","Compaction, low organic carbon",root
+FLOWER_DROP,physiological,Low flowering / flower & fruit drop,फूल झड़ना / कम फल सेटिंग,"Few flowers, flowers and small fruits falling","Heat >35C, moisture stress, boron deficiency","flower, young fruit"
+POOR_QUALITY,physiological,Poor grain/fruit filling & quality,दानों / फलों का कम भराव,"Small, light, poorly coloured produce","Low K, stress at filling","fruit, grain"
+ABIOTIC_STRESS,physiological,Weather / drought stress,मौसम / सूखे का तनाव,"Wilting, leaf rolling, scorch","Heat wave, drought, frost",whole plant
+SOIL_HEALTH,soil,"Poor soil health (pH, carbon, microbes, water holding)",मिट्टी का खराब स्वास्थ्य,"Hard crust, poor water holding, low response to fertiliser","Continuous cropping, no organic matter",soil
+GERMINATION,physiological,Poor seed germination,बीज अंकुरण में समस्या,"Patchy, slow emergence","Poor seed, crust, low moisture, cold",seedbed
+SPRAY_EFFICACY,spray_quality,Poor spray coverage / wash-off,दवा का न फैलना / बह जाना,"Spray runs off, washes in rain, poor result","Waxy leaves, rain after spray, hard water",n/a
+LIVESTOCK_MILK,livestock,Low milk yield / quality,कम दूध / खराब दूध क्वालिटी,Low or poor-quality milk,"Mineral deficiency, heat stress",n/a
+LIVESTOCK_REPRO,livestock,Livestock fertility problems,पशु में प्रजनन समस्या,"Repeat breeding, infertility, weak calves",Mineral deficiency,n/a
+LIVESTOCK_GENERAL,livestock,Livestock general health,पशु का सामान्य स्वास्थ्य,"Weak bones, frequent illness, poor digestion, stress","Nutrition, hygiene",n/a

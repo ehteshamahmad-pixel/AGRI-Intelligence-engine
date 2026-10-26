@@ -1,0 +1,46 @@
+crop_key,group,season
+Paddy,rice,kharif
+Wheat,wheat,rabi
+Maize,maize,kharif
+Great Millet,millet,kharif
+Pearl Millet,millet,kharif
+Black Gram,pulse,kharif
+Green Gram,pulse,zaid
+Lentil,pulse,rabi
+Tur,pulse,kharif
+Green Pea,pulse,rabi
+Beans,pulse,rabi
+Soybean,legume_oil,kharif
+Groundnut,legume_oil,kharif
+Mustard,oilseed,rabi
+Sesame,oilseed,kharif
+Bitter Gourd,cucurbit,zaid
+Bottle Gourd,cucurbit,zaid
+Cucumber,cucurbit,zaid
+Muskmelon,cucurbit,zaid
+Pumpkin,cucurbit,zaid
+Sponge Gourd,cucurbit,zaid
+Pointed gourd,cucurbit,zaid
+Watermelon,cucurbit,zaid
+Brinjal,solanaceous,any
+Chilli,solanaceous,any
+Tomato,solanaceous,any
+Potato,potato,rabi
+Cabbage,cole,rabi
+Cauliflower,cole,rabi
+Onion,bulb,rabi
+Garlic,bulb,rabi
+Carrot,root,rabi
+Radish,root,rabi
+Okra,okra,zaid
+Coriander,spice_seed,rabi
+Cumin,spice_seed,rabi
+Ginger,rhizome,kharif
+Turmeric,rhizome,kharif
+Cotton,cotton,kharif
+Sugarcane,sugarcane,perennial
+Peppermint,mint,zaid
+Apple,fruit_tree,perennial
+Mango,fruit_tree,perennial
+Banana,banana,perennial
+Foxnut,foxnut,kharif

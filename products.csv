@@ -1,0 +1,52 @@
+product,type,technical,dose_per_acre,method,gramik,confidence,use_for
+Gramozyme Plus (Packet),biostimulant,Granular soil conditioner / biostimulant,5 kg,soil,yes,confirmed,Root development and plant establishment at sowing / basal
+Humigra 98,biostimulant,Humic acid 98%,1 kg,soil,yes,confirmed,Deep roots and more tillers; with irrigation or as spray
+Gramo Rhizza,biostimulant,Mycorrhiza (beneficial fungi),250 g,soil,yes,confirmed,Root spread and phosphorus uptake
+Solio Gold,biostimulant,Root and establishment booster,500 ml,soil,yes,inferred,Root development and establishment; confirm composition
+Gramoliser 19:19:19,nutrition,Water soluble NPK 19:19:19,1 kg,spray,yes,confirmed,Balanced foliar nutrition in vegetative growth
+Gramoliser 00:52:34,nutrition,Mono potassium phosphate 00:52:34,1 kg,spray,yes,confirmed,Flower initiation; colour shine and weight
+Gramoliser 13:00:45,nutrition,Potassium nitrate 13:00:45,1 kg,spray,yes,confirmed,Grain and fruit filling; heat and drought tolerance
+Nutri 00:00:50,nutrition,Sulphate of potash 00:00:50,1 kg,spray,yes,confirmed,Grain and fruit size and quality at filling
+Gramino,nutrition,Chelated mixed micronutrients,150 ml,spray,yes,confirmed,More and healthier flowers; micronutrient correction
+Zinox 395,nutrition,Liquid zinc,250 ml,spray,yes,confirmed,Zinc deficiency (khaira); dark green healthy plant
+Natural Cab,nutrition,Calcium + boron,as per label,spray,yes,inferred,Fruit set and quality; cracking; confirm dose
+Parsul- Sulphur,nutrition,Sulphur 90% granules,3 kg,soil,yes,inferred,Sulphur for oil content in oilseeds
+Gibromax,nutrition,Gibberellic acid growth regulator,200 ml,spray,yes,confirmed,Growth and branching boost (not for basmati paddy)
+TIKAU-G,adjuvant,Sticker spreader,50 ml,spray,yes,confirmed,Spreads spray evenly on leaves; add to every spray
+Masaal,fungicide,Carbendazim 12% + Mancozeb 63% WP,500 g,spray,yes,confirmed,Broad protective + systemic fungicide; seed treatment
+Hungama Gold,fungicide,Hexaconazole 5% SC,250 ml,spray,yes,confirmed,Blast sheath blight rust powdery mildew leaf spot
+JU-Zodia,fungicide,Azoxystrobin + Difenoconazole SC,250 ml,spray,yes,inferred,Blight blast leaf spot downy mildew; confirm composition
+Top M,fungicide,Thiophanate methyl 70% WP,500 g,spray,yes,confirmed,Wilt root rot sclerotinia; nursery drench
+COC,fungicide,Copper oxychloride 50% WP,500 g,spray,yes,confirmed,Bacterial and fungal spots; root/rhizome rot drench. Spray alone
+Strepto Plus,bactericide,Streptomycin + tetracycline (Tagmycin type),8 g,spray,yes,inferred,Bacterial leaf blight and bacterial spots; confirm composition
+Decigen,insecticide,Chlorantraniliprole 18.5% SC,60 ml,spray,yes,confirmed,Stem borer leaf folder pod and fruit borers
+E-Mate,insecticide,Emamectin benzoate 5% SG,100 g,spray,yes,confirmed,Caterpillars: bollworm fruit borer armyworm
+Gram Veer 550,insecticide,Chlorpyriphos 50% + Cypermethrin 5% EC,300 ml,spray,yes,confirmed,Sucking pests stem borer leaf folder cutworm termite
+Thiola,insecticide,Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC,100 ml,spray,yes,confirmed,Mixed chewing + sucking pests; termite; shoot fly
+Mantra,insecticide,Thiamethoxam 25% WG,100 g,spray,yes,confirmed,Whitefly jassid aphid planthopper
+Venus,insecticide,Acetamiprid 20% SP,50 g,spray,yes,confirmed,Aphid thrips whitefly jassid
+Cipro Shield GR,insecticide,Soil insecticide granules,4 kg,soil,yes,inferred,Termite and soil pests; early stem borer in paddy
+Yellow Sticky Trap,trap,Sticky trap,10 traps,trap,yes,confirmed,Monitor and catch whitefly aphid jassid
+Blue Sticky Trap,trap,Sticky trap,10 traps,trap,yes,confirmed,Monitor and catch thrips
+Fruit Fly Block & Fruit Fly Trap,trap,Pheromone lure + trap,6 traps,trap,yes,confirmed,Fruit fly in cucurbits and fruits
+Pendi Plus,herbicide,Pendimethalin 30% EC,1-1.25 L,spray,yes,inferred,Pre-emergence within 48 h of sowing on moist soil
+Pretila-EW,herbicide,Pretilachlor 50% EC,500 ml,soil,yes,confirmed,Paddy pre-emergence; mix in 20 kg sand 0-5 days after transplanting
+RIBAC-GOLD,herbicide,Bispyribac sodium 10% SC,120 ml,spray,yes,confirmed,Paddy post-emergence grasses sedges broadleaf (15-25 DAT)
+JU Mix,herbicide,Metsulfuron methyl 10% + Chlorimuron ethyl 10% WP,8 g,spray,yes,confirmed,Paddy broadleaf weeds and sedges; mix with RIBAC-GOLD
+URUMI,herbicide,Mesotrione 2.27% + Atrazine 22.7% SC,1.4 L,spray,yes,confirmed,Maize post-emergence weeds (15-25 DAS)
+Urea,nutrition,Nitrogen 46%,25 kg,soil,no,confirmed,Nitrogen top dressing
+DAP + MOP (basal),nutrition,Basal phosphorus + potash,DAP 50 kg + MOP 20-30 kg,soil,no,confirmed,Basal dose at sowing / transplanting
+Imazethapyr 10% SL,herbicide,Imazethapyr 10% SL,300 ml,spray,no,confirmed,Pulses soybean groundnut post-emergence (15-20 DAS)
+Quizalofop ethyl 5% EC,herbicide,Quizalofop ethyl 5% EC,400 ml,spray,no,confirmed,Grassy weeds in broadleaf crops (vegetables pulses cotton)
+Clodinafop 15% WP,herbicide,Clodinafop propargyl 15% WP,160 g,spray,no,confirmed,Wheat grassy weeds (gulli danda) 30-35 DAS
+Sulfosulfuron + Metsulfuron WG,herbicide,Sulfosulfuron 75% + Metsulfuron 5% WG,16 g,spray,no,confirmed,Wheat mixed weeds 30-35 DAS
+Atrazine 50% WP,herbicide,Atrazine 50% WP,500 g,spray,no,confirmed,Maize millets sugarcane pre-emergence
+2 4-D Amine 58% SL,herbicide,2 4-D amine salt 58% SL,1 L,spray,no,confirmed,Broadleaf weeds in cereals and sugarcane
+Metribuzin 70% WP,herbicide,Metribuzin 70% WP,300 g,spray,no,confirmed,Potato tomato pre / early post-emergence
+Oxyfluorfen 23.5% EC,herbicide,Oxyfluorfen 23.5% EC,170 ml,spray,no,confirmed,Onion garlic weeds
+Halosulfuron 75% WG,herbicide,Halosulfuron methyl 75% WG,36 g,spray,no,confirmed,Sedges (motha) in maize sugarcane paddy
+Tricyclazole 75% WP,fungicide,Tricyclazole 75% WP,120 g,spray,no,confirmed,Rice blast and neck blast
+Metalaxyl + Mancozeb WP,fungicide,Metalaxyl 8% + Mancozeb 64% WP,600 g,spray,no,confirmed,Downy mildew late blight white rust (curative)
+Propargite 57% EC,insecticide,Propargite 57% EC (acaricide),400 ml,spray,no,confirmed,Red and yellow mites
+Pymetrozine 50% WG,insecticide,Pymetrozine 50% WG,120 g,spray,no,confirmed,Brown planthopper; spray at plant base
+Pheromone trap (lure),trap,Species lure + funnel trap,5 traps,trap,no,confirmed,Monitor bollworms fruit & shoot borer fall armyworm

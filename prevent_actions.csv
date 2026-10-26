@@ -1,0 +1,68 @@
+issue_id,actions
+APHID,Scout shoot tips and leaf undersides twice a week;Avoid excess urea that makes soft growth;Spray only when colonies appear on 10% plants
+WHITEFLY,Remove weeds on bunds that host whitefly;Uproot first virus-affected plants;Avoid late sowing and excess nitrogen
+JASSID,Check leaf undersides for hoppers from 15 days;Avoid excess nitrogen;Spray when leaf edges start yellowing
+GLH,Keep bunds weed-free;Avoid excess urea;Drain and dry field briefly if hoppers build up
+THRIPS,Irrigate lightly in hot dry weather;Remove weeds around field;Check flowers and young leaves weekly
+MITES,Keep dust down with light irrigation;Avoid synthetic pyrethroid sprays that flare mites;Check leaf undersides for webbing in hot dry spells
+MEALYBUG,Remove and burn first infested plants;Control ants on bunds;Do not move from infested to clean fields with same tools
+BPH,Keep 20 cm alleys every 2-3 m for air flow;Drain water for 3-4 days when hoppers seen at base;Avoid excess urea and split nitrogen
+PAINTED_BUG,Sow on time with seed treatment;Give early irrigation at seedling stage;Harvest on time
+GUNDHI_BUG,Keep bunds and field edges free of grass;Scout at milk stage in early morning;Spray field edges first
+STEM_BORER,Clip leaf tips of seedlings before transplanting to remove egg masses;Apply granules at 20-25 DAT;Collect and destroy egg masses and dead hearts
+EARLY_SHOOT_BORER,Plant early (Feb-Mar);Apply granules at planting and earthing up;Pull out and destroy dead hearts
+TOP_BORER,Remove and destroy egg masses on leaves;Cut affected tops;Release Trichogramma if available
+SHOOT_FLY,Sow early with higher seed rate;Use treated seed;Remove dead-heart seedlings
+LEAF_FOLDER,Avoid excess nitrogen;Keep bunds clean;Spray when 2-3 folded leaves per hill
+RICE_HISPA,Clip and destroy leaf tips with grubs;Avoid excess nitrogen;Spray when adults seen
+HELICOVERPA,Put pheromone traps at bud stage;Keep bird perches (T-stands) 20 per acre;Spray at first larvae on buds and pods
+PINK_BOLLWORM,Put pheromone traps from 45 days;Remove rosette flowers weekly;Avoid late irrigation that prolongs crop
+SPOTTED_BOLLWORM,Remove drooping shoot tips;Put pheromone traps;Spray at first bored squares
+FRUIT_BORER,Remove wilted shoot tips and bored fruits weekly;Put pheromone / fruit fly traps from first flowers;Pick fruits before any spray
+POD_BORER,Put pheromone traps at flowering;Keep bird perches;Spray at 50% flowering if larvae seen
+SPODOPTERA,Collect and destroy egg masses under leaves;Put pheromone traps;Spray young larvae in evening
+FAW,Scout whorls from 10 days;Put sand + lime in whorl at early stage;Spray into whorl at first ragged leaves
+ARMYWORM,Scout at night with torch;Keep field free of lodging;Spray in evening
+HAIRY_CATERPILLAR,Collect egg masses and young gregarious larvae;Deep summer ploughing;Light traps after first rains
+CUTWORM,Deep summer ploughing;Keep field weed-free before sowing;Apply granules in cutworm-prone fields
+DBM,Grow 2 rows of mustard as trap crop every 25 rows;Put pheromone traps;Spray at first window-pane holes
+LEAF_MINER,Remove mined lower leaves;Put yellow sticky traps;Spray only if mines are on new leaves
+GIRDLER_BEETLE,Sow at recommended seed rate (avoid very dense crop);Remove girdled plants;Spray at 25-30 DAS
+TEA_LOOPER,Hand collect loopers;Prune to open bush;Spray at first defoliation
+TERMITE,Use only well-rotted FYM;Remove crop residue and termite mounds;Irrigate on time (dry soil favours termite)
+WHITE_GRUB,Deep ploughing in summer to expose grubs;Light traps for beetles after first rains;Apply granules at sowing
+RUST,Grow tolerant variety;Avoid late sowing;Spray at first pustules in the area
+YELLOW_RUST,Watch fields in foggy Jan-Feb;Spray at first yellow stripes;Avoid excess nitrogen
+STEM_RUST,Grow tolerant variety;Sow on time;Spray at first pustules
+DOWNY_MILDEW,Keep plant spacing for air flow;Avoid overhead irrigation;Spray protectant before rainy / humid spell
+POWDERY_MILDEW,Avoid dense planting;Remove affected leaves early;Spray at first white patches
+WHITE_RUST,Sow on time (avoid late sowing);Avoid dense crop;Spray protectant at 45-50 DAS in cloudy weather
+ALTERNARIA,Use treated seed;Avoid excess nitrogen;Spray before cloudy / rainy days
+SCLEROTINIA,Avoid irrigation at flowering;Keep crop not too dense;Deep ploughing to bury sclerotia
+DAMPING_OFF,Raise nursery beds 15 cm;Treat seed before sowing;Avoid over-watering nursery
+SOIL_BORNE,Rotate crops;Ensure good drainage;Treat seed / seedlings before planting
+ROOT_ROT,Avoid waterlogging;Treat seed;Drench patches at first wilting
+WILT,Rotate with cereals;Treat seed;Remove wilted plants with soil around roots
+TIKKA,Use treated seed;Rotate with cereals;Spray at first spots (35-40 DAS)
+LEAF_SPOT,Remove infected lower leaves;Avoid overhead irrigation;Spray protectant in humid weather
+LEAF_BLIGHT,Keep field clean of crop debris;Balanced nutrition;Spray at first spots
+EARLY_BLIGHT,Remove lower infected leaves;Stake plants to keep leaves off soil;Spray protectant every 10 days in warm humid weather
+LATE_BLIGHT,Watch weather: fog / drizzle 2+ days = high risk;Start protectant spray before the spell and repeat every 7 days;Avoid irrigation during foggy days
+ANTHRACNOSE,Use disease-free seed;Remove infected fruits and twigs;Spray protectant before rains
+FRUIT_ROT,Keep fruits off wet soil (mulch or stake);Remove rotten fruits;Spray protectant in rainy spell
+DIEBACK,Prune dead twigs 5 cm below the dry part;Paint cut ends with copper paste;Spray after pruning
+SCAB,Collect and destroy fallen leaves;Spray at green tip and petal fall;Keep orchard floor clean
+BLACK_ROT,Use treated seed and healthy seedlings;Avoid overhead irrigation;Remove infected leaves
+ANGULAR_LEAF_SPOT,Use healthy seed;Avoid working in wet field;Rotate crop
+STEM_CANKER,Avoid wounding stems;Remove infected branches;Spray copper after pruning
+BLISTER_BLIGHT,Prune for air flow;Spray protectant in cloudy wet weeks;Remove affected shoots
+BLAST,Avoid excess and late urea;Keep bunds weed-free;Spray at first eye-shaped spots or when nights are cool and dewy
+NECK_BLAST,Spray at boot leaf / 5% heading in cool humid nights;Avoid late nitrogen;Do not let field dry at heading
+SHEATH_BLIGHT,Keep proper spacing;Avoid excess urea;Spray plant base at first lesions near water line
+SHEATH_ROT,Balanced nutrition with potash;Control stem borer and mites;Spray at booting in humid weather
+BLB,Stop urea top dressing when first signs appear;Drain field and avoid flooding from affected fields;Avoid clipping seedling tips
+FALSE_SMUT,Avoid late sowing;Avoid excess nitrogen;Spray copper at boot stage before flowering
+BAKANAE,Treat seed before sowing;Remove tall pale seedlings from nursery;Do not use seed from infected field
+SMUT,Treat seed / setts;Remove smutted plants in bags before spores spread;Use healthy planting material
+RED_ROT,Use healthy setts from disease-free field;Treat setts before planting;Uproot and burn affected clumps
+VIRUS,Control whitefly / aphid / thrips vectors early;Uproot infected plants immediately;Remove weed hosts from bunds

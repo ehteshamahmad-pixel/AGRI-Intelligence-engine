@@ -1,0 +1,177 @@
+issue_id,mode,priority,product,dose,groups,note
+APHID,prevent,1,Yellow Sticky Trap,,,Put up before numbers build; check twice a week
+APHID,prevent,2,Venus,,,Only if colonies start on shoot tips
+APHID,cure,1,Venus,,,Spray on shoot tips and leaf underside
+APHID,cure,2,Mantra,,,Alternate with Venus
+WHITEFLY,prevent,1,Yellow Sticky Trap,,,Early catch stops virus spread
+WHITEFLY,prevent,2,Mantra,,,Protects young crop from virus-carrying whitefly
+WHITEFLY,cure,1,Mantra,,,Spray leaf underside
+WHITEFLY,cure,2,Venus,,,Alternate; do not repeat same chemical
+JASSID,prevent,1,Yellow Sticky Trap,,,
+JASSID,cure,1,Venus,,,Spray leaf underside
+JASSID,cure,2,Mantra,,,
+GLH,prevent,1,Mantra,,rice,Also stops tungro spread
+GLH,cure,1,Mantra,,,Spray plant base and leaves
+THRIPS,prevent,1,Blue Sticky Trap,,,
+THRIPS,cure,1,Venus,,,Spray flowers and young leaves in evening
+THRIPS,cure,2,Thiola,,,Heavy attack
+MITES,prevent,1,Yellow Sticky Trap,,,Keep field dust down with light irrigation
+MITES,cure,1,Propargite 57% EC,,,Mite-specific; normal insecticides do not work on mites
+MEALYBUG,prevent,1,Gram Veer 550,,,Spot spray first infested plants and ant trails
+MEALYBUG,cure,1,Gram Veer 550,,,Spray stem and leaf axils thoroughly
+BPH,prevent,1,Mantra,,,Drain water 3-4 days; avoid excess urea
+BPH,cure,2,Pymetrozine 50% WG,,,Direct spray at plant base
+BPH,cure,1,Mantra,,,
+PAINTED_BUG,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment; early irrigation helps
+PAINTED_BUG,cure,1,Gram Veer 550,,,
+GUNDHI_BUG,prevent,1,Gram Veer 550,,rice,Spray bunds and field edges at milk stage
+GUNDHI_BUG,cure,1,Gram Veer 550,,,Spray in morning or evening
+STEM_BORER,prevent,1,Cipro Shield GR,,rice;maize;millet;sugarcane,Broadcast in standing water / with irrigation
+STEM_BORER,prevent,2,Pheromone trap (lure),,,5 traps per acre for monitoring
+STEM_BORER,cure,1,Decigen,,,
+STEM_BORER,cure,2,Gram Veer 550,,,
+EARLY_SHOOT_BORER,prevent,1,Cipro Shield GR,,,Apply at planting / earthing up
+EARLY_SHOOT_BORER,cure,1,Decigen,,,Drench / spray at base
+TOP_BORER,prevent,1,Pheromone trap (lure),,,
+TOP_BORER,cure,1,Decigen,,,
+SHOOT_FLY,prevent,1,Thiola,,,Early spray 7-10 days after emergence in late sowing
+SHOOT_FLY,cure,1,Thiola,,,
+LEAF_FOLDER,prevent,1,Cipro Shield GR,,rice,
+LEAF_FOLDER,cure,1,Decigen,,,
+LEAF_FOLDER,cure,2,Gram Veer 550,,,
+RICE_HISPA,prevent,1,Gram Veer 550,,rice,Clip and destroy leaf tips with grubs
+RICE_HISPA,cure,1,Gram Veer 550,,,
+HELICOVERPA,prevent,1,Pheromone trap (lure),,,5 traps per acre from flower bud stage
+HELICOVERPA,cure,1,E-Mate,,,
+HELICOVERPA,cure,2,Decigen,,,
+PINK_BOLLWORM,prevent,1,Pheromone trap (lure),,,Remove rosette flowers
+PINK_BOLLWORM,cure,1,Decigen,,,Alternate with Thiola
+PINK_BOLLWORM,cure,2,Thiola,,,
+SPOTTED_BOLLWORM,prevent,1,Pheromone trap (lure),,,
+SPOTTED_BOLLWORM,cure,1,E-Mate,,,
+FRUIT_BORER,prevent,1,Pheromone trap (lure),,,Also remove wilted shoot tips weekly
+FRUIT_BORER,prevent,2,Fruit Fly Block & Fruit Fly Trap,,cucurbit;fruit_tree;banana,For fruit fly in gourds and fruits
+FRUIT_BORER,cure,1,Decigen,,,Pick ripe fruits before spray; respect waiting period
+FRUIT_BORER,cure,2,E-Mate,,,
+POD_BORER,prevent,1,Pheromone trap (lure),,,
+POD_BORER,cure,1,Decigen,,,
+POD_BORER,cure,2,E-Mate,,,
+SPODOPTERA,prevent,1,Pheromone trap (lure),,,Destroy egg masses under leaves
+SPODOPTERA,cure,1,E-Mate,,,
+SPODOPTERA,cure,2,Thiola,,,
+FAW,prevent,1,Pheromone trap (lure),,,Sand + lime in whorl at early stage
+FAW,cure,1,E-Mate,,,Spray into the whorl
+FAW,cure,2,Decigen,,,
+ARMYWORM,prevent,1,Pheromone trap (lure),,,
+ARMYWORM,cure,1,E-Mate,,,Evening spray
+ARMYWORM,cure,2,Gram Veer 550,,,
+HAIRY_CATERPILLAR,prevent,1,Pheromone trap (lure),,,Collect and destroy egg masses and young larvae
+HAIRY_CATERPILLAR,cure,1,E-Mate,,,
+CUTWORM,prevent,1,Cipro Shield GR,,,At sowing in cutworm-prone fields
+CUTWORM,cure,1,Gram Veer 550,,,Evening spray on plant base / ridge
+DBM,prevent,1,Pheromone trap (lure),,,
+DBM,cure,1,E-Mate,,,
+DBM,cure,2,Decigen,,,
+LEAF_MINER,prevent,1,Yellow Sticky Trap,,,
+LEAF_MINER,cure,1,Decigen,,,
+GIRDLER_BEETLE,prevent,1,Thiola,,,Spray at 25-30 DAS in soybean
+GIRDLER_BEETLE,cure,1,Thiola,,,Remove and burn girdled plants
+TEA_LOOPER,cure,1,E-Mate,,,
+TERMITE,prevent,1,Cipro Shield GR,,,Use well-decomposed FYM only
+TERMITE,cure,1,Gram Veer 550,1 L with irrigation,,Apply with irrigation water / drench
+TERMITE,cure,2,Thiola,,,
+WHITE_GRUB,prevent,1,Cipro Shield GR,,,Apply with first monsoon showers
+WHITE_GRUB,cure,1,Gram Veer 550,1 L with irrigation,,Drench root zone
+RUST,prevent,1,Hungama Gold,,,Spray at first sign in the area
+RUST,cure,1,Hungama Gold,,,Repeat after 15 days if needed
+YELLOW_RUST,prevent,1,Hungama Gold,,,Spray when rust reported nearby in Jan-Feb
+YELLOW_RUST,cure,1,Hungama Gold,,,
+STEM_RUST,cure,1,Hungama Gold,,,
+DOWNY_MILDEW,prevent,1,Masaal,,,Before humid / rainy spell
+DOWNY_MILDEW,cure,1,JU-Zodia,,,
+DOWNY_MILDEW,cure,2,Metalaxyl + Mancozeb WP,,,
+POWDERY_MILDEW,prevent,1,Hungama Gold,,,
+POWDERY_MILDEW,cure,1,Hungama Gold,,,
+WHITE_RUST,prevent,1,Masaal,,,
+WHITE_RUST,cure,2,Metalaxyl + Mancozeb WP,,,
+WHITE_RUST,cure,1,JU-Zodia,,,
+ALTERNARIA,prevent,1,Masaal,,,Spray before cloudy / rainy days
+ALTERNARIA,cure,1,JU-Zodia,,,
+SCLEROTINIA,prevent,1,Masaal,,,Avoid dense crop and irrigation at flowering
+SCLEROTINIA,cure,1,Top M,,,
+DAMPING_OFF,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment + raised nursery beds
+DAMPING_OFF,cure,1,COC,3 g/L drench,,Drench nursery / collar
+DAMPING_OFF,cure,2,Top M,1-2 g/L drench,,
+SOIL_BORNE,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment + good drainage
+SOIL_BORNE,cure,1,Top M,1-2 g/L drench,,Drench affected patches
+ROOT_ROT,prevent,1,Masaal,2.5 g/kg seed,,
+ROOT_ROT,cure,1,COC,3 g/L drench,,
+WILT,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment; crop rotation
+WILT,cure,1,Top M,1-2 g/L drench,,Drench root zone of affected and nearby plants
+TIKKA,prevent,1,Masaal,,,
+TIKKA,cure,1,Hungama Gold,,,
+LEAF_SPOT,prevent,1,Masaal,,,
+LEAF_SPOT,cure,1,Hungama Gold,,,
+LEAF_SPOT,cure,2,JU-Zodia,,,
+LEAF_BLIGHT,prevent,1,Masaal,,,
+LEAF_BLIGHT,cure,1,JU-Zodia,,,
+EARLY_BLIGHT,prevent,1,Masaal,,,
+EARLY_BLIGHT,cure,1,JU-Zodia,,,
+LATE_BLIGHT,prevent,1,Masaal,,,Start before fog / drizzle spell; repeat 7 days
+LATE_BLIGHT,cure,1,JU-Zodia,,,Alternate with Metalaxyl + Mancozeb
+LATE_BLIGHT,cure,2,Metalaxyl + Mancozeb WP,,,
+ANTHRACNOSE,prevent,1,Masaal,,,
+ANTHRACNOSE,cure,1,JU-Zodia,,,
+FRUIT_ROT,prevent,1,Masaal,,,Keep fruits off wet soil
+FRUIT_ROT,cure,1,COC,,,
+DIEBACK,prevent,1,COC,,,Prune dead twigs then spray
+DIEBACK,cure,1,Top M,,,
+SCAB,prevent,1,Masaal,,,
+SCAB,cure,1,JU-Zodia,,,
+BLACK_ROT,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment
+BLACK_ROT,cure,1,Strepto Plus,,,Mix with COC
+BLACK_ROT,cure,2,COC,,,
+ANGULAR_LEAF_SPOT,cure,1,Strepto Plus,,,Mix with COC
+ANGULAR_LEAF_SPOT,cure,2,COC,,,
+STEM_CANKER,cure,1,COC,,,
+BLISTER_BLIGHT,prevent,1,COC,,,
+BLISTER_BLIGHT,cure,1,Hungama Gold,,,
+BLAST,prevent,1,JU-Zodia,,,Avoid excess nitrogen
+BLAST,cure,2,Tricyclazole 75% WP,,,
+BLAST,cure,1,Hungama Gold,,,
+NECK_BLAST,prevent,1,JU-Zodia,,,Spray at boot leaf / 5% heading
+NECK_BLAST,cure,2,Tricyclazole 75% WP,,,
+NECK_BLAST,cure,1,Hungama Gold,,,
+SHEATH_BLIGHT,prevent,1,Hungama Gold,,,Avoid excess urea; keep spacing
+SHEATH_BLIGHT,cure,1,Hungama Gold,,,Spray plant base
+SHEATH_BLIGHT,cure,2,JU-Zodia,,,
+SHEATH_ROT,cure,1,Hungama Gold,,,
+BLB,prevent,1,Strepto Plus,,,Stop urea top dressing; drain field
+BLB,cure,1,Strepto Plus,,,Mix with COC
+BLB,cure,2,COC,,,
+FALSE_SMUT,prevent,1,COC,,,Spray at boot stage before flowering
+FALSE_SMUT,cure,1,Hungama Gold,,,
+BAKANAE,prevent,1,Masaal,2.5 g/kg seed,,Seed treatment before sowing
+BAKANAE,cure,1,Top M,1-2 g/L drench,,Uproot and destroy tall pale plants
+SMUT,prevent,1,Masaal,2.5 g/kg seed,,Seed / sett treatment; remove smutted plants
+RED_ROT,prevent,1,Top M,1-2 g/L sett dip,,Healthy setts; resistant variety
+RED_ROT,cure,1,Top M,1-2 g/L drench,,Uproot and burn affected clumps
+VIRUS,prevent,1,Yellow Sticky Trap,,,Control the vector early
+VIRUS,prevent,2,Mantra,,,
+VIRUS,cure,1,Mantra,,,No cure for virus: uproot infected plants and control vector
+VIRUS,cure,2,Venus,,,
+NUTRIENT_DEF,cure,1,Gramoliser 19:19:19,,,
+NUTRIENT_DEF,cure,2,Gramino,,,
+POOR_GROWTH,cure,1,Humigra 98,,,
+POOR_GROWTH,cure,2,Gramoliser 19:19:19,,,
+WEAK_ROOT,cure,1,Humigra 98,,,
+WEAK_ROOT,cure,2,Gramo Rhizza,,,
+FLOWER_DROP,cure,1,Gramoliser 00:52:34,,,
+FLOWER_DROP,cure,2,Gramino,,,
+POOR_QUALITY,cure,1,Gramoliser 13:00:45,,,
+POOR_QUALITY,cure,2,Nutri 00:00:50,,,
+ABIOTIC_STRESS,cure,1,Gramoliser 13:00:45,,,
+SOIL_HEALTH,cure,1,Gramozyme Plus (Packet),,,
+SOIL_HEALTH,cure,2,Humigra 98,,,
+GERMINATION,prevent,1,Masaal,2.5 g/kg seed,,
+SPRAY_EFFICACY,cure,1,TIKAU-G,,,
